@@ -72,7 +72,7 @@ This week, we break down **statistics and math** in a fun and easy way! You will
 
 ### **🎯 Objectives**
 This week is about **documenting your journey, reflecting on your strengths, and applying what you’ve learned!** You will:
-- Learn how to **create stunning visuals with Canva** 🎨
+- Learn how to **create visuals with Canva** 🎨
 - Understand **how to write and document work on GitHub** 📂
 - Practice **telling a data story** 📖
 - Identify **your strengths and areas for improvement** 💡
