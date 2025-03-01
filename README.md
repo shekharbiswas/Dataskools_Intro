@@ -30,7 +30,7 @@ This week is all about getting comfortable with the tools, program structure, an
 ### **🎯 Objectives**
 This week, we dive into **data analysis** and understand its key components. You will:
 - Learn basic **data analysis terms** 📌
-- Explore tools like **Power BI, SQL, Python, and Machine Learning (ML)** 🖥️
+- Basic idea about tools like **Power BI, SQL, Python, and Machine Learning (ML)** 🖥️
 - Understand the **different roles in data analytics** 👨‍💻👩‍💻
 - Develop a **data-driven mindset** 🤔
 - Learn **why programming is useful** 🔑
