@@ -6,19 +6,14 @@
 By the end of this week, you will:
 - Understand the goals of this program
 - Set up essential tech tools (Slack, Zoom, Google Calendar)
-- Learn basic computer operations (folders, keyboard shortcuts)
-- Know the roadmap of this course
-- Learn about mock interviews (why they matter and how they work)
-- See fun real-world data examples (movies, FIFA, and more!)
+- Learn basic computer operations
+- Learn about Mock interviews
+- See fun real-world data examples
 - Know how to succeed in this program
-- Scan a **QR code** on **Slido.com** to ask questions 📌
 - Learn about the certificates you will receive 🎓
 - **GitHub is our LMS** – create your profile ✅
 - Understand that learning is about practice, not perfection.
-- Track your **comfort level** with new topics and discuss after a week.
 - Learn the **importance of self-learning**.
-
----
 
 ## **📊 Week 2: Foundation of Data Analysis**
 
@@ -34,7 +29,7 @@ By the end of this week, you will:
 - Real-world **use cases** 🌍
 - The power of **storytelling with data** 📖
 
----
+
 
 ## **📈 Week 3: Making Statistics & Math Fun!**
 
