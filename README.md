@@ -30,7 +30,6 @@ By the end of this week, you will:
 - The power of **storytelling with data** 📖
 
 
-
 ## **📈 Week 3: Making Statistics & Math Fun!**
 
 ### **🎯 Key Topics**
@@ -40,7 +39,7 @@ By the end of this week, you will:
 
 Math is not scary – we’ll make it fun! 😃
 
----
+
 
 ## **🎨 Week 4: Creativity & Reflection**
 
@@ -51,48 +50,5 @@ Math is not scary – we’ll make it fun! 😃
 - **Finding your strengths & improvement areas** 💡
 - **Write about your first-month experience** ✍️
 - **Review all new terms you’ve learned** 📚
-
----
-
-## **👥 Getting to Know Each Other**
-- Learn new **terminologies & mindset setup** 🧠
-- Understand **Basic Math & Stats distributions** 🧮
-- Learn **How companies use data** 🏢
-- **Data-driven decision-making psychology** 🤯
-- **Introduction to Generative AI** 🚀
-- **Getting started with GitHub** 🔗 (README, Markdown, and more)
-- **Playful learning & hands-on practice** 🏆
-- Write about yourself: **What do you want to become?** 👨‍🎓
-- Understand your strengths to plan roles in group projects 🤝
-
----
-
-## **📅 Live Sessions**
-
-### **📍 Week 1**
-- **D1:** Welcome to the Data World 🌍
-- **D2:** Tools We Use 🛠️
-- **D3:** How to Succeed in the Program 🎯
-- **D4:** How a Data Project Works 📊
-
-### **📍 Week 2**
-- **D1:** Time Management ⏳
-- **D2:** Soft Skills in Tech 💬
-- **D3:** Group Projects & Communication 🤝
-- **D4:** Recap of Weeks 1-2 (Q&A) ❓
-
-### **📍 Week 3**
-- **D1:** Basic Math I (Fun Way) 🏆
-- **D2:** Basic Math II (Fun Way) 🎲
-- **D3:** Basic Math III (Fun Way) 🎯
-- **D4:** Recap & Q&A (Fun Way) 🔄
-
-### **📍 Week 4**
-- **D1:** Self-Reflection (How to Document in GitHub) 📂
-- **D2:** Finding Your Strengths (Choosing a Track) 🔎
-- **D3:** Git Best Practices 🌟
-- **D4:** Write About Your First Month on GitHub (Assignment) ✍️
-
----
 
 🎉 **Let’s make learning fun and interactive! 🚀**
