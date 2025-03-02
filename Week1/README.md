@@ -10,6 +10,12 @@ For a deeper understanding of how AI is transforming the data analytics market a
 [![The Importance of AI](https://img.youtube.com/vi/reUZRyXxUs4/0.jpg)](https://www.youtube.com/watch?v=reUZRyXxUs4)
 
 
+## 🚀 **Why AI in Data Analytics?**
+
+The future of data analytics is increasingly intertwined with AI and machine learning. The ability to apply these technologies to data will set you apart in the job market and prepare you for roles that are shaping the future of analytics. By learning **AI**, **machine learning**, and **Big Data**, you are not just preparing for today’s opportunities — you’re future-proofing your career.
+
+This program is designed to provide you with **technical expertise** while also developing the **problem-solving mindset** needed to excel in the rapidly evolving data landscape. The world of data is moving fast, and this is your chance to get ahead of the curve.
+
 
 ### Here’s a roadmap of the journey ahead:
 
@@ -49,13 +55,6 @@ In the final stretch of your journey, you’ll dive deep into **Big Data**. If y
 
 If you're on the **Power BI** track, you’ll continue to sharpen your skills, using Power BI to work with data from Azure and other cloud platforms, creating more sophisticated reports and dashboards. You’ll also have access to **Power BI (Coursera)** for additional learning resources.
 
----
-
-## 🚀 **Why AI in Data Analytics?**
-
-The future of data analytics is increasingly intertwined with AI and machine learning. The ability to apply these technologies to data will set you apart in the job market and prepare you for roles that are shaping the future of analytics. By learning **AI**, **machine learning**, and **Big Data**, you are not just preparing for today’s opportunities — you’re future-proofing your career.
-
-This program is designed to provide you with **technical expertise** while also developing the **problem-solving mindset** needed to excel in the rapidly evolving data landscape. The world of data is moving fast, and this is your chance to get ahead of the curve.
 
 ---
 
