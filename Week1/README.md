@@ -17,7 +17,7 @@ The future of data analytics is increasingly intertwined with AI and machine lea
 This program is designed to provide you with **technical expertise** while also developing the **problem-solving mindset** needed to excel in the rapidly evolving data landscape. The world of data is moving fast, and this is your chance to get ahead of the curve.
 
 
-### Here’s a roadmap of the journey ahead:
+### Here’s a roadmap of the journey:
 
 ---
 
