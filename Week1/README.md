@@ -18,19 +18,19 @@ We begin by building the foundation of data analytics. You'll learn key concepts
 
 ---
 
-## 📊 **Week 4-6: Power BI**
+## 📊 **Week 5-8: Power BI**
 
 In this phase, you'll get hands-on with **Power BI**, a powerful tool for creating stunning data visualizations and business intelligence reports. Power BI is essential for analysts to present insights in a visually compelling way, helping stakeholders make informed decisions. You’ll master the art of transforming raw data into interactive reports and dashboards.
 
 ---
 
-## 🗃️ **Week 6-12: SQL Fundamentals**
+## 🗃️ **Week 9-14: SQL Fundamentals**
 
 SQL is the key to unlocking data stored in databases. During this phase, you’ll learn the fundamentals of SQL — how to query, manipulate, and extract data to gain insights. Mastering SQL will empower you to work efficiently with data and prepare it for further analysis.
 
 ---
 
-## 🐍 **Week 12-18: Python & Machine Learning (Skills Assessment Test)**
+## 🐍 **Week 15-20: Python & Machine Learning (Skills Assessment Test)**
 
 Python is a powerful tool in the data analyst’s toolkit, especially when it comes to **machine learning**. In this phase, you’ll develop skills in Python for data manipulation, automation, and building machine learning models. As you progress through this phase, you’ll take a **skills assessment test**, which will evaluate your understanding and performance.
 
@@ -40,7 +40,7 @@ Based on your performance in this test, we will guide you toward the right track
 
 ---
 
-## 💻 **Week 18-26: Big Data with Azure & Power BI**
+## 💻 **Week 21-28: Big Data with Azure & Power BI**
 
 In the final stretch of your journey, you’ll dive deep into **Big Data**. If you’re on the **Azure Big Data** track, you’ll learn how to work with cloud platforms like **Azure**, handling massive datasets, and gaining hands-on experience with **Big Data** technologies. You’ll also continue to enhance your skills in **Power BI**, learning advanced techniques for working with larger datasets and cloud-based systems.
 
