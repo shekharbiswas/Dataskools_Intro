@@ -6,7 +6,10 @@ The demand for skilled professionals who understand both **data analytics** and 
 
 For a deeper understanding of how AI is transforming the data analytics market and why it’s so important, check out this insightful video:
 
-[**The Importance of AI** - YouTube Video](https://www.youtube.com/watch?v=reUZRyXxUs4)
+
+[![The Importance of AI](https://img.youtube.com/vi/reUZRyXxUs4/0.jpg)](https://www.youtube.com/watch?v=reUZRyXxUs4)
+
+
 
 ### Here’s a roadmap of the journey ahead:
 
