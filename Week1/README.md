@@ -144,9 +144,10 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 
 ## 🎯 What Makes This Program Unique?
 
-- AI tools are embedded into every module — not as extras, but as essentials  
-- You'll learn to use **GitHub** like a real data professional  
-- Mock interviews, comfortability tracking, and self-reflection are built in  
+- AI tools are part of every module — not as extras, but as essentials.  
+- You'll learn to use **GitHub** like a real data professional from week 1.  
+- Mock interviews, comfortability tracking, and self-reflection are built in.
+- Challenging yourself is the long term habbit you develop in a few weeks. 
 - You get to **choose your specialization** after proving your skills  
 
 ---
