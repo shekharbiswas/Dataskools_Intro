@@ -29,7 +29,9 @@ Our goal is to help you move from being curious about data to feeling confident 
 <br>
 
 
-<img width="480" alt="image" src="https://github.com/user-attachments/assets/2d7cdb7e-cd65-4fad-8390-48e9f913922d" />
+<p align="center">
+  <img width="480" alt="image" src="https://github.com/user-attachments/assets/2d7cdb7e-cd65-4fad-8390-48e9f913922d" />
+</p>
 
 <br>
 <br>
