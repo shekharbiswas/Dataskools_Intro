@@ -15,6 +15,9 @@ The demand for professionals who understand both **data analytics** and **AI tec
 
 ---
 
+<br>
+<br>
+
 ## 🚀 Why AI in Data Analytics?
 
 Spreadsheets have taken us far — but the world of data is moving forward, fast. Today, companies are looking beyond basic reports. They need people who can help them predict trends, automate processes, and tell clear, meaningful stories with data. That’s where tools like AI, machine learning, and cloud platforms come in — and that’s why you’re here.
@@ -68,6 +71,9 @@ Here’s a high-level view of your learning journey over the next 28 weeks:
 
 ---
 
+<br>
+<br>
+
 ## 📚 Module Overview
 
 ### 🧭 Week 1–4: Introduction to Data Analytics  
@@ -96,6 +102,9 @@ SQL is essential for querying, filtering, and joining data across systems. You'l
 
 ---
 
+<br>
+<br>
+
 ### 🐍 Week 15–20: Python & Machine Learning  
 Dive into automation, analysis, and model-building with Python. You’ll cover:
 - Pandas, NumPy, and scikit-learn basics  
@@ -107,6 +116,8 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 > - **Track B**: Power BI Advanced (enterprise reporting, large datasets)
 
 ---
+<br>
+<br>
 
 ### 💻 Week 21–28: Big Data with Azure or Power BI  
 
@@ -121,6 +132,9 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 - Optional: Coursera Power BI specialization access  
 
 ---
+
+<br>
+<br>
 
 ## 🎯 What Makes This Program Unique?
 
