@@ -13,7 +13,7 @@ The demand for professionals who understand both **data analytics** and **AI tec
 > 🎥 For a deeper understanding of how AI is transforming data analytics, check out this video:  
 [![The Importance of AI](https://img.youtube.com/vi/reUZRyXxUs4/0.jpg)](https://www.youtube.com/watch?v=reUZRyXxUs4)
 
----
+
 
 <br>
 <br>
@@ -55,7 +55,7 @@ Our goal is to help you move from being curious about data to feeling confident 
 
 We're here to support you every step of the way. Let’s begin the journey together. 💡
 
----
+
 <br>
 <br>
 
@@ -71,7 +71,7 @@ Here’s a high-level view of your learning journey over the next 28 weeks:
 | Week 15–20     | 🐍 Python & Machine Learning      | Data manipulation, ML concepts, skills test for track selection           |
 | Week 21–28     | 💻 Big Data with Azure or Power BI| Track A: Azure + Big Data Tools<br>Track B: Power BI Advanced + Coursera  |
 
----
+
 
 <br>
 <br>
@@ -86,7 +86,7 @@ Start by exploring key concepts and real-world data use cases (movies, FIFA, Net
 - Learning mindset, mock interviews, comfort zones  
 - Why AI matters in today's data world  
 
----
+
 <br>
 <br>
 
@@ -96,7 +96,7 @@ Learn to transform raw data into compelling dashboards using Power BI. You'll al
 - Built-in AI tools like Key Influencers and Q&A Visual  
 - Real business case studies for hands-on projects  
 
----
+
 <br>
 <br>
 
@@ -106,7 +106,7 @@ SQL is essential for querying, filtering, and joining data across systems. You'l
 - Extracting and shaping data for analytics or machine learning  
 - AI-ready data pipelines  
 
----
+
 
 <br>
 <br>
@@ -121,7 +121,7 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 > - **Track A**: Azure Big Data (cloud, scale, ML pipelines)  
 > - **Track B**: Power BI Advanced (enterprise reporting, large datasets)
 
----
+
 <br>
 <br>
 
@@ -137,7 +137,7 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 - Real-world dashboards, KPI-driven storytelling  
 - Optional: Coursera Power BI specialization access  
 
----
+
 
 <br>
 <br>
@@ -150,7 +150,7 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 - Challenging yourself is the long term habbit you develop in a few weeks. 
 - You get to **choose your specialization** after proving your skills  
 
----
+
 <br>
 <br>
 
