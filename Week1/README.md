@@ -6,6 +6,10 @@ The role of a **Data Analyst** is being redefined. With AI, analysts can automat
 
 The demand for professionals who understand both **data analytics** and **AI technologies** is growing fast. By learning AI tools, you're not just gaining skills — you're preparing for the **future of work** in a data-powered world.
 
+<br>
+<br>
+
+
 > 🎥 For a deeper understanding of how AI is transforming data analytics, check out this video:  
 [![The Importance of AI](https://img.youtube.com/vi/reUZRyXxUs4/0.jpg)](https://www.youtube.com/watch?v=reUZRyXxUs4)
 
