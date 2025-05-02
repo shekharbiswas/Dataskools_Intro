@@ -76,9 +76,6 @@ Here’s a high-level view of your learning journey over the next 28 weeks:
 
 ## 📚 Module Overview
 
-<br>
-<br>
-
 ### 🧭 Week 1–4: Introduction to Data Analytics  
 Start by exploring key concepts and real-world data use cases (movies, FIFA, Netflix). You'll get familiar with:
 - Course structure and expectations  
