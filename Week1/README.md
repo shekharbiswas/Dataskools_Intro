@@ -25,22 +25,17 @@ And if you’ve ever wondered, “Do I really need to know statistics?” — th
 
 Our goal is to help you move from being curious about data to feeling confident with it — one week at a time. You’ll leave this program not just with skills, but with real projects, a clear mindset, and a stronger sense of where you want to go next.
 
+
+
+| ✅ What You Gain                | 🌱 Why It Matters in Life and Career                                               |
+|-------------------------------|------------------------------------------------------------------------------------|
+| **Real Technical Skills**     | Learning SQL, Python, Power BI, and ML isn’t just about tools — it’s about speaking the language of modern business. These skills unlock roles in data analytics, automation, reporting, and even AI-enabled decision-making across industries. |
+| **A Project-Driven Portfolio**| Anyone can list skills on a CV — but showing what you've built makes you stand out. Real projects show your problem-solving ability and give you stories to tell in interviews. |
+| **A Clear, Adaptable Mindset**| This course doesn’t teach fixed steps — it teaches how to think like an analyst. You’ll become more comfortable tackling unknown problems, working with messy data, and adapting to new tools. |
+| **Confidence Through Practice**| Whether you're presenting in a mock interview or sharing code on GitHub, you’ll grow more confident each week — not by memorizing, but by doing. That kind of confidence stays with you. |
+| **A Sense of Direction**      | Through skill tests, feedback, and exploration, you'll start to understand what type of data work energizes you — whether it's storytelling, engineering, automation, or cloud-based analysis. |
+
 We're here to support you every step of the way. Let’s begin the journey together. 💡
-
-In a nutshell-
-
-| ✅ What You Gain                           | 🌱 Why It Matters in Life and Career                                   |
-|-------------------------------------------|------------------------------------------------------------------------|
-| **Technical Skills** (SQL, Python, Power BI, ML) | Opens doors to roles in data, analytics, and AI across industries.    |
-| **Real Projects**                         | Build a portfolio that proves what you can do — not just what you know.|
-| **Clear Mindset**                         | Helps you stay focused, adapt to challenges, and keep learning over time.|
-| **Problem-Solving Skills**                | Useful not just at work, but in everyday decisions and critical thinking.|
-| **Communication Skills** (via GitHub, mock interviews) | Boosts your ability to present ideas clearly and professionally.     |
-| **Self-Learning Habits**                  | Prepares you to grow beyond this course — even as tools and jobs evolve.|
-| **Comfort with AI Tools**                 | Gives you an edge as AI becomes a standard part of most digital jobs.   |
-| **Confidence Working with Data**          | Makes you less intimidated by complex systems and more data-driven in decisions.|
-| **Career Direction**                      | Helps you discover whether you're more business-focused or tech/developer-oriented.|
-| **Community Support**                     | You're not doing it alone — you’ll have mentors and peers to guide and grow with.|
 
 ---
 
