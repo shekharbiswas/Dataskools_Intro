@@ -56,6 +56,8 @@ Our goal is to help you move from being curious about data to feeling confident 
 We're here to support you every step of the way. Let’s begin the journey together. 💡
 
 ---
+<br>
+<br>
 
 ## 🗺️ Program Roadmap
 
@@ -148,6 +150,8 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 - You get to **choose your specialization** after proving your skills  
 
 ---
+<br>
+<br>
 
 We're excited to have you on board. Whether you pursue the **Azure Big Data** path or the **Power BI Expert** path, your journey starts here — with purpose, clarity, and high-impact learning.
 
