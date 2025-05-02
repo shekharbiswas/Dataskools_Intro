@@ -25,7 +25,7 @@ And if you’ve ever wondered, “Do I really need to know statistics?” — th
 
 Our goal is to help you move from being curious about data to feeling confident with it — one week at a time. You’ll leave this program not just with skills, but with real projects, a clear mindset, and a stronger sense of where you want to go next.
 
-<img width="720" alt="image" src="https://github.com/user-attachments/assets/2d7cdb7e-cd65-4fad-8390-48e9f913922d" />
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/2d7cdb7e-cd65-4fad-8390-48e9f913922d" />
 
 
 
