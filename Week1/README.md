@@ -105,7 +105,7 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 - Managing and querying massive datasets  
 - AI tools for cloud-based analytics  
 
-**Track B – Power BI Advanced + Coursera**  
+**Track B – Power BI Advanced**  
 - DAX functions, cloud data sources, advanced visuals  
 - Real-world dashboards, KPI-driven storytelling  
 - Optional: Coursera Power BI specialization access  
