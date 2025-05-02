@@ -1,3 +1,5 @@
+<pre>
+
 Week-01/
 ├── README.md                    ← Week overview
 ├── Day-1/
@@ -21,3 +23,4 @@ Week-01/
 │   ├── module-2-why-github-is-your-best-friend.md
 │   └── module-3-who-drives-your-learning.md
 └── Advanced topics
+</pre>
