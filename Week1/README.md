@@ -76,6 +76,9 @@ Here’s a high-level view of your learning journey over the next 28 weeks:
 
 ## 📚 Module Overview
 
+<br>
+<br>
+
 ### 🧭 Week 1–4: Introduction to Data Analytics  
 Start by exploring key concepts and real-world data use cases (movies, FIFA, Netflix). You'll get familiar with:
 - Course structure and expectations  
@@ -85,6 +88,8 @@ Start by exploring key concepts and real-world data use cases (movies, FIFA, Net
 - Why AI matters in today's data world  
 
 ---
+<br>
+<br>
 
 ### 📊 Week 5–8: Power BI  
 Learn to transform raw data into compelling dashboards using Power BI. You'll also explore:
@@ -93,6 +98,8 @@ Learn to transform raw data into compelling dashboards using Power BI. You'll al
 - Real business case studies for hands-on projects  
 
 ---
+<br>
+<br>
 
 ### 🗃️ Week 9–14: SQL Fundamentals  
 SQL is essential for querying, filtering, and joining data across systems. You'll focus on:
