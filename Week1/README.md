@@ -38,7 +38,7 @@ Our goal is to help you move from being curious about data to feeling confident 
 
 
 
-| ✅ What You Gain                | 🌱 Why It Matters in Life and Career                                               |
+| ✅ What You Gain                | 🌱 Why It Matters                                               |
 |-------------------------------|------------------------------------------------------------------------------------|
 | **Real Technical Skills**     | Learning SQL, Python, Power BI, and ML isn’t just about tools — it’s about speaking the language of modern business. These skills unlock roles in data analytics, automation, reporting, and even AI-enabled decision-making across industries. |
 | **A Project-Driven Portfolio**| Anyone can list skills on a CV — but showing what you've built makes you stand out. Real projects show your problem-solving ability and give you stories to tell in interviews. |
