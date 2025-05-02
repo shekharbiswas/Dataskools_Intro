@@ -21,10 +21,7 @@ But most importantly, we’ll help you answer:
 - How we measure growth: the Comfortability Index and weekly reflection  
 - Certificates you’ll earn 🎓  
 
-We'll also use [Slido](https://www.slido.com) — scan the QR code in your slides to answer:  
-*“What excites or worries you most about learning data?”*
 
----
 
 ### 📌 By the End of This Week, You Will:
 
@@ -42,7 +39,6 @@ We'll also use [Slido](https://www.slido.com) — scan the QR code in your slide
 Now that you’re set up and ready, it’s time to dive into the world of **data analysis**.  
 This week is about understanding the big picture — the tools, roles, and mindsets that power data-driven decisions in today’s world.
 
----
 
 ### 🔍 This Week, You’ll Explore:
 
@@ -56,7 +52,7 @@ This week is about understanding the big picture — the tools, roles, and minds
 - Real-world examples of how data is used in business and life  
 - The power of storytelling with data
 
----
+
 
 ### 📌 By the End of This Week, You Will:
 
@@ -73,7 +69,6 @@ This week is about understanding the big picture — the tools, roles, and minds
 Let’s break the myth: **Math doesn’t have to be scary**.  
 This week, we’ll make statistics fun, visual, and highly practical. You'll see how it helps analysts make better decisions every day.
 
----
 
 ### 🔬 This Week, You’ll Explore:
 
@@ -82,7 +77,6 @@ This week, we’ll make statistics fun, visual, and highly practical. You'll see
 - What sampling is and how bias affects analysis  
 - A/B testing and real product examples (think: Netflix, Spotify, apps you use!)
 
----
 
 ### 📌 By the End of This Week, You Will:
 
@@ -100,7 +94,6 @@ This week, we’ll make statistics fun, visual, and highly practical. You'll see
 You’ve learned a lot in just a few weeks!  
 This week is about slowing down, reflecting on your journey, and learning how to share your work with the world.
 
----
 
 ### 🧠 This Week, You’ll Explore:
 
@@ -111,7 +104,6 @@ This week is about slowing down, reflecting on your journey, and learning how to
 - Writing about your first-month experience  
 - Reviewing all the terms you’ve learned so far
 
----
 
 ### 📌 By the End of This Week, You Will:
 
@@ -123,4 +115,4 @@ This week is about slowing down, reflecting on your journey, and learning how to
 
 > 🎉 **Let’s make learning creative, reflective, and personal.** You’re not just learning tools — you’re building a story.
 
----
+
