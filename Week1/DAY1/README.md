@@ -26,6 +26,11 @@ Week-01/
 </pre>
 
 
+6 months + 2 months internship
+
+- Internship for 2 months
+- 
+
 ## ✅ Week 1 – Completion Timeline
 
 | Day    | Module Name                              | Estimated Time | Description                                             |
