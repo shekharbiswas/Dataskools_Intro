@@ -1,6 +1,7 @@
-# ✅ Week1 checkpoint: can you move on?
+# ✅ Week1 checkpoint
 
-Before you move to Week 02, complete the following:
+📅 The idea is simple: complete each week with intention, not speed.
+Before moving to Week 2, finish the following to make your learning stick.
 
 ### 📘 Must-Do
 - [x] Finished all 4 Days of Core modules
