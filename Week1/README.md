@@ -1,4 +1,4 @@
-# 🎉 Welcome to the AI Data Analyst Program at Dataskools!
+# 🎉 Welcome to the Data Analytics with AI Program at Dataskools!
 
 In today's rapidly evolving world, **Artificial Intelligence (AI)** is revolutionizing the field of data analytics. AI is no longer a futuristic concept — it’s already reshaping industries, transforming businesses, and creating new opportunities for data professionals.
 
