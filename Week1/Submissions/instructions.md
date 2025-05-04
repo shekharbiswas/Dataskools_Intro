@@ -1,4 +1,4 @@
-# ✅ Week 01 Checkpoint: Can You Move On?
+# ✅ Week1 checkpoint: can you move on?
 
 Before you move to Week 02, complete the following:
 
