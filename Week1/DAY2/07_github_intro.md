@@ -18,7 +18,7 @@ Instead of saying “I took a course,” you can say “Here’s what I built, e
 > 📌 GitHub isn’t just a storage tool — it’s your **public proof of learning**, and your **personal system of growth**.
 
 
-<img width="223" alt="image" src="https://github.com/user-attachments/assets/3f2ea8ae-3f39-49e8-8097-10db5d47f09b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3f2ea8ae-3f39-49e8-8097-10db5d47f09b" />
 
 <br>
 
