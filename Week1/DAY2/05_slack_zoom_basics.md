@@ -6,6 +6,12 @@ You don’t need to be an expert to use them. By the end of today, you’ll be a
 
 <br>
 
+<img width="318" alt="image" src="https://github.com/user-attachments/assets/0c988813-e5bd-4b88-9a54-6797acf0a49a" />
+
+
+<br>
+<br>
+
 ## 💡 What is Slack?
 
 Slack is a messaging platform designed for **teams and communities** to work together.
