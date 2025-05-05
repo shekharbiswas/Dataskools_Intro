@@ -84,20 +84,7 @@ Merging combines your work with the main branch — so now the project is update
 
 GitHub also shows if there are any “conflicts” — two people changing the same thing — and helps you resolve them.
 
-<br>
-
-### 🔄 CI/CD (Continuous Integration / Continuous Deployment)
-
-These are big words, but here’s the simple version:
-
-**CI/CD is a way to automate the boring stuff.**
-
-- **CI (Continuous Integration)**: Automatically checks your code when you push it (e.g. “Is there an error?”)
-- **CD (Continuous Deployment)**: Automatically publishes your project or app when everything looks good
-
-> For example, you update a dashboard → GitHub checks for mistakes → if clean, it publishes the update to your website without you doing anything else.
-
-In this course, you may not use CI/CD at first, but it’s helpful to understand how real-world teams build and release faster — with fewer mistakes.
+There are more terminologies but we will slowly learn those.
 
 <br>
 
