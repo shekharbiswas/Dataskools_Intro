@@ -25,6 +25,8 @@ But most importantly, we’ll help you answer:
 <details>
 <summary>🚀 This Week, You’ll Explore</summary>
 
+<br>
+
 - 📍 The roadmap ahead: what you’ll learn and how we’ll guide you  
 - 🧰 Setting up your tools: Slack, Zoom, Google Calendar, and GitHub  
 - 🗂️ Sharpening basics: working with folders, using keyboard shortcuts  
@@ -38,6 +40,8 @@ But most importantly, we’ll help you answer:
 
 <details>
 <summary>📌 By the End of This Week, You Will:</summary>
+
+<br>
 
 - ✅ Navigate basic tech tools confidently  
 - ✅ Set up and customize your GitHub profile (our LMS)  
