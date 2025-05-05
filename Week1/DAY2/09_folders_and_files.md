@@ -1,4 +1,4 @@
-# 🗂️ Folders and Files: Organizing Your Digital Workspace
+# 🗂️ Folders and Files: Organizing your digital workspace
 
 Before we dive deeper into learning tools, let’s start with a habit that can save you time, stress, and confusion:  
 **keeping your digital workspace organized**.
@@ -7,7 +7,7 @@ You don’t need to be technical to do this. In fact, the most successful learne
 
 <br>
 
-## 📁 What Are Folders and Files?
+## 📁 What are Folders and Files?
 
 Let’s keep it simple:
 
@@ -20,7 +20,7 @@ You use folders to group related files together and keep things clean.
 
 <br>
 
-## 💡 Why Folder Structure Matters
+## 💡 Why folder structure matters
 
 Imagine working on this course for 4 weeks and downloading multiple documents, screenshots, and notes. 
 
