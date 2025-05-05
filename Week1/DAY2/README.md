@@ -59,27 +59,53 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 
 ## 📅 Day 2: Tools Setup
 
-### `05_slack_zoom_basics.md`
-- What is Slack? What is Zoom?
-- How we’ll use them to stay connected
+<details>
+<summary>05_slack_zoom_basics.md</summary>
 
-### `06_google_calendar_setup.md`
-- Using Google Calendar to plan your week
-- Accepting invites, joining sessions
+- What is Slack? What is Zoom?  
+- How we’ll use them to stay connected  
+- Why communication tools support your learning journey  
 
-### `07_github_intro.md`
-- What is GitHub and why are we using it?
-- GitHub as your learning portfolio
+</details>
 
-### `08_github_profile_setup.md`
-- How to create and personalize your GitHub profile
-- Add a profile README and photo
+<details>
+<summary>06_google_calendar_setup.md</summary>
 
-### `09_folders_and_files.md`
-- What are folders and files?
-- How to organize your digital workspace
+- Using Google Calendar to plan your week  
+- Accepting invites and joining sessions  
+- Staying consistent with reminders and routines  
+
+</details>
+
+<details>
+<summary>07_github_intro.md</summary>
+
+- What is GitHub and why are we using it?  
+- GitHub as your learning portfolio  
+- Thinking like a creator, not just a user  
+
+</details>
+
+<details>
+<summary>08_github_profile_setup.md</summary>
+
+- How to create and personalize your GitHub profile  
+- Add a profile picture, short bio, and a custom README  
+- Build your public learning identity  
+
+</details>
+
+<details>
+<summary>09_folders_and_files.md</summary>
+
+- What are folders and files?  
+- How to organize your digital workspace  
+- Build habits for long-term learning success  
+
+</details>
 
 <br>
+
 
 
 ## 📅 Day 3: Core Skills + Terminologies
