@@ -25,16 +25,29 @@ It’s like WhatsApp — but built for learning and working.
 - 📎 Post files, links, or screenshots
 - 🤝 Connect with other learners privately or in groups
 
+This course uses **two main Slack channels** to help you stay connected and supported:
+
+| Channel         | Purpose                                                                 |
+|------------------|-------------------------------------------------------------------------|
+| `#announcements` | 📢 For official updates, session reminders, and important messages from Dataskools. Check this daily! |
+| `#cafe`          | ☕ A space for sharing resources, ideas, reflections, or casual chats. Like a virtual coffee break room! |
+
+Use these channels actively — they’re here to help you learn, connect, and grow with the community.
+
+<br>
+
 ### Key Slack Features We’ll Use:
+
 | Feature         | What It Does                                      |
 |------------------|---------------------------------------------------|
-| Channels (#)     | Separate rooms for topics like `#general`, `#help`, `#day-1` |
-| Threads          | Keep conversations organized under each message  |
-| Emojis           | React to messages quickly and visually 😊👍       |
-| DMs (Direct Msg) | Chat 1-on-1 with a peer or mentor                 |
+| Channels (#)     | Keep discussions organized by topic               |
+| Threads          | Respond to a message without crowding the channel |
+| Emojis           | React quickly, show appreciation, or add fun      |
+| DMs (Direct Msg) | Have private chats with peers or mentors          |
 
 > 📌 **You won’t be judged for asking questions here.**  
 > Slack is your safe space to be curious and supported.
+
 
 <br>
 
