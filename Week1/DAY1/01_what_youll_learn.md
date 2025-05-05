@@ -90,7 +90,7 @@ The goal isn't perfection. The goal is **progress**.
 
 <br>
 
-## 🚀 Your First Wins This Week
+## 🚀 Your first _wins_ 
 
 Here’s what you’ll accomplish just this week:
 
