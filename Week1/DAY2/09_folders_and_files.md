@@ -100,4 +100,4 @@ Take 10–15 minutes right now:
 - Rename any messy or unclear file names
 - Do this once a week — future you will thank you! 🙌
 
-You’re not just learning data or AI. You’re learning how to manage your digital space like a professional.
+You’re not just learning some tools. You’re learning how to manage your digital space.
