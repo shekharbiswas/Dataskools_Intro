@@ -19,92 +19,109 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 ## 📅 Day 1: Orientation + Roadmap
 
 <details>
-<summary>01_what_youll_learn.md</summary>
+<summary>📘 01_what_youll_learn.md</summary>
 
-- What this course covers  
-- How we’ll guide you through it  
-- The journey from no experience to confident learner  
-
-</details>
-
-<details>
-<summary>02_how_we_learn.md</summary>
-
-- Why project-based learning works  
-- Weekly reflection + Comfortability Index  
-- Learning by doing, not memorizing  
+- 🧭 What this course covers  
+- 🛠️ How we’ll guide you through it  
+- 🚀 The journey from no experience to confident learner  
 
 </details>
-
-<details>
-<summary>03_ai_is_everywhere.md</summary>
-
-- AI in everyday life: Netflix, FIFA, apps, and more  
-- Examples of AI tools making decisions  
-- Why AI matters, even if you're not a techie  
-
-</details>
-
-<details>
-<summary>04_what_is_a_system.md</summary>
-
-- What is a system? (Computer + People + Process)  
-- Examples: a coffee shop, Netflix, or online learning  
-
-</details>
-
 
 <br>
 
+<details>
+<summary>📙 02_how_we_learn.md</summary>
+
+- 🎯 Why project-based learning works  
+- 📈 Weekly reflection + Comfortability Index  
+- ✋ Learning by doing, not memorizing  
+
+</details>
+
+<br>
+
+<details>
+<summary>🤖 03_ai_is_everywhere.md</summary>
+
+- 🎬 AI in everyday life: Netflix, FIFA, apps, and more  
+- ⚙️ Examples of AI tools making decisions  
+- 💡 Why AI matters, even if you're not a techie  
+
+</details>
+
+<br>
+
+<details>
+<summary>🧩 04_what_is_a_system.md</summary>
+
+- 🖥️ What is a system? (Computer + People + Process)  
+- 🍵 Examples: a coffee shop, Netflix, or online learning  
+
+</details>
+
+<br>
+
+---
+
+<br>
 
 ## 📅 Day 2: Tools Setup
 
 <details>
-<summary>05_slack_zoom_basics.md</summary>
+<summary>💬 05_slack_zoom_basics.md</summary>
 
-- What is Slack? What is Zoom?  
-- How we’ll use them to stay connected  
-- Why communication tools support your learning journey  
-
-</details>
-
-<details>
-<summary>06_google_calendar_setup.md</summary>
-
-- Using Google Calendar to plan your week  
-- Accepting invites and joining sessions  
-- Staying consistent with reminders and routines  
-
-</details>
-
-<details>
-<summary>07_github_intro.md</summary>
-
-- What is GitHub and why are we using it?  
-- GitHub as your learning portfolio  
-- Thinking like a creator, not just a user  
-
-</details>
-
-<details>
-<summary>08_github_profile_setup.md</summary>
-
-- How to create and personalize your GitHub profile  
-- Add a profile picture, short bio, and a custom README  
-- Build your public learning identity  
-
-</details>
-
-<details>
-<summary>09_folders_and_files.md</summary>
-
-- What are folders and files?  
-- How to organize your digital workspace  
-- Build habits for long-term learning success  
+- 📱 What is Slack? What is Zoom?  
+- 🔗 How we’ll use them to stay connected  
+- 🤝 Why communication tools support your learning journey  
 
 </details>
 
 <br>
+
+<details>
+<summary>📆 06_google_calendar_setup.md</summary>
+
+- 🗓️ Using Google Calendar to plan your week  
+- ✅ Accepting invites and joining sessions  
+- 🔔 Staying consistent with reminders and routines  
+
+</details>
+
+<br>
+
+<details>
+<summary>🌐 07_github_intro.md</summary>
+
+- 💻 What is GitHub and why are we using it?  
+- 📂 GitHub as your learning portfolio  
+- 🎨 Thinking like a creator, not just a user  
+
+</details>
+
+<br>
+
+<details>
+<summary>👤 08_github_profile_setup.md</summary>
+
+- 🖼️ How to create and personalize your GitHub profile  
+- 📝 Add a profile picture, short bio, and a custom README  
+- 🌟 Build your public learning identity  
+
+</details>
+
+<br>
+
+<details>
+<summary>🗃️ 09_folders_and_files.md</summary>
+
+- 📁 What are folders and files?  
+- 🧹 How to organize your digital workspace  
+- 🧠 Build habits for long-term learning success  
+
+</details>
+
+<br>
+
 
 
 
