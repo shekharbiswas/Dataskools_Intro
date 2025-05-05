@@ -30,7 +30,7 @@ This helps you **build a rhythm**, even if you have a busy schedule or other res
 Once you’re added to the calendar, you’ll receive email invites for each session.
 
 Here’s what to do:
-1. Open the email from “Dataskools Calendar”  
+1. Open the email from “Dataskools Session”  
 2. Click **“Yes”** to accept the invite  
 3. The session will automatically appear in your calendar  
 4. Click the event for details, Zoom link, and session info  
