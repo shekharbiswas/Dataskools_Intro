@@ -191,3 +191,11 @@ You just need to **be curious, stay consistent, and keep showing up**.
 > “Every expert was once a beginner — who didn’t give up.”
 
 Let’s learn how to learn — together.
+
+
+---
+
+**Navigation:**  
+[⬅️ Previous: 01_what_youll_learn.md](01_what_youll_learn.md) | [Next ➡️ 03_ai_is_everywhere.md](03_ai_is_everywhere.md)
+
+
