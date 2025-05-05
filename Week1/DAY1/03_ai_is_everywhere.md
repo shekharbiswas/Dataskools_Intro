@@ -4,7 +4,8 @@ You don’t need to be a techie to understand or work with AI.
 In fact, you’ve probably used AI **multiple times today** — without even noticing it.
 
 Think about your daily routine:  
-☀️ In the morning, your phone might suggest the fastest route to work — that’s AI predicting traffic.  
+☀️ In the morning, your phone might suggest the fastest route to work — that’s AI predicting traffic. 
+<br>
 ☕ Your email filters out spam and surfaces the most important messages — that’s AI managing your inbox.  
 🚗 As you ride a train, order a taxi, or use Google Maps, AI is optimizing your journey in real-time.  
 🏥 In hospitals, AI helps detect diseases early, assists doctors in reading scans, and supports scheduling.  
