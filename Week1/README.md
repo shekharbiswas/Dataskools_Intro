@@ -180,7 +180,7 @@ Let’s begin this adventure together. 🚀
 
 <p align="center">
   <a href="DAY1/01_what_youll_learn.md" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Start%20Learning-blue?style=for-the-badge&logo=readme" alt="Start Learning">
+    <img src="https://img.shields.io/badge/🚀%20Start%20Learning-%231F3842.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="Start Learning">
   </a>
 </p>
 
