@@ -38,6 +38,8 @@ But most importantly, we’ll help you answer:
 
 </details>
 
+<br>
+
 <details>
 <summary>📌 By the End of This Week, You Will:</summary>
 
@@ -52,16 +54,14 @@ But most importantly, we’ll help you answer:
 
 </details>
 
-
----
+<br>
 
 ## 📊 Week 2: Foundations of Data Analysis
 
-Now that you’re set up and ready, it’s time to dive into the world of **data analysis**.  
-This week is about understanding the big picture — the tools, roles, and mindsets that power data-driven decisions in today’s world.
+<details>
+<summary>🔍 This Week, You’ll Explore</summary>
 
-
-### 🔍 This Week, You’ll Explore:
+<br>
 
 - Key data analysis terms you’ll use often  
 - Tools you’ll learn in the coming weeks: Power BI, SQL, Python, and ML  
@@ -71,11 +71,16 @@ This week is about understanding the big picture — the tools, roles, and minds
 - How automation helps speed up boring data tasks  
 - The difference between Traditional AI and Generative AI  
 - Real-world examples of how data is used in business and life  
-- The power of storytelling with data
+- The power of storytelling with data  
 
+</details>
 
+<br>
 
-### 📌 By the End of This Week, You Will:
+<details>
+<summary>📌 By the End of This Week, You Will:</summary>
+
+<br>
 
 - ✅ Explain key data terms in simple words  
 - ✅ Identify different tools used for data analysis  
@@ -83,56 +88,73 @@ This week is about understanding the big picture — the tools, roles, and minds
 - ✅ Describe how AI and automation impact data work  
 - ✅ Tell a simple data story using a real-world example  
 
----
+</details>
+
+<br>
 
 ## 📈 Week 3: Making Statistics & Math Fun!
 
-Let’s break the myth: **Math doesn’t have to be scary**.  
-This week, we’ll make statistics fun, visual, and highly practical. You'll see how it helps analysts make better decisions every day.
+<details>
+<summary>🔬 This Week, You’ll Explore</summary>
 
-
-### 🔬 This Week, You’ll Explore:
+<br>
 
 - Probability, averages, median, margin of error, percentiles  
 - How distributions work — normal, skewed, etc.  
 - What sampling is and how bias affects analysis  
-- A/B testing and real product examples (think: Netflix, Spotify, apps you use!)
+- A/B testing and real product examples (think: Netflix, Spotify, apps you use!)  
 
+</details>
 
-### 📌 By the End of This Week, You Will:
+<br>
+
+<details>
+<summary>📌 By the End of This Week, You Will:</summary>
+
+<br>
 
 - ✅ Explain basic statistics concepts in your own words  
 - ✅ Understand how data is collected and why sampling matters  
 - ✅ Recognize how bias can affect decisions  
 - ✅ Describe how A/B testing helps improve digital products  
 
+</details>
+
 > 📢 **Reminder:** Math is just a tool — we’ll make it easy, visual, and fun! 😃
 
----
+<br>
 
 ## 🎨 Week 4: Creativity & Reflection
 
-You’ve learned a lot in just a few weeks!  
-This week is about slowing down, reflecting on your journey, and learning how to share your work with the world.
+<details>
+<summary>🧠 This Week, You’ll Explore</summary>
 
-
-### 🧠 This Week, You’ll Explore:
+<br>
 
 - How to use **Canva** to create visual stories  
 - How to write and organize your projects on **GitHub**  
 - Telling a compelling data story using your favorite topic  
 - Identifying your strengths and areas for improvement  
 - Writing about your first-month experience  
-- Reviewing all the terms you’ve learned so far
+- Reviewing all the terms you’ve learned so far  
 
+</details>
 
-### 📌 By the End of This Week, You Will:
+<br>
+
+<details>
+<summary>📌 By the End of This Week, You Will:</summary>
+
+<br>
 
 - ✅ Use Canva to create data presentations and visuals  
 - ✅ Document your work clearly on GitHub  
 - ✅ Share a story using data  
 - ✅ Reflect on your journey and set goals for the next phase  
 - ✅ Write your first “Data Journal” entry about Month 1  
+
+</details>
+
 
 > 🎉 **Let’s make learning creative, reflective, and personal.** You’re not just learning tools — you’re building a story.
 
