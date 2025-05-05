@@ -5,6 +5,7 @@ In fact, you’ve probably used AI **multiple times today** — without even not
 
 Think about your daily routine:
 <br>
+
 ☀️ In the morning, your phone might suggest the fastest route to work — that’s AI predicting traffic. 
 <br>
 
