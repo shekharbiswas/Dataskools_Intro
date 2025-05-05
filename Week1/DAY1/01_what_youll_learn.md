@@ -86,7 +86,7 @@ The goal isn't perfection. The goal is **progress**.
   </a>
 </p>
 
----
+<br>
 
 ## 🚀 Your First Wins This Week
 
@@ -98,7 +98,7 @@ Here’s what you’ll accomplish just this week:
 - ✅ Reflect on how you learn and set personal goals
 - ✅ Hear how AI is used in daily life (Netflix, Spotify, YouTube!)
 
----
+<br>
 
 ## 🧠 You’ll Learn By Doing
 
@@ -111,7 +111,7 @@ This isn’t a course where you just watch and forget. Each week includes:
 | 💬 Weekly Quiz        | Simple multiple-choice review to reinforce learning          |
 | 🔁 Reflection Prompt  | A moment to slow down, look back, and plan forward           |
 
----
+<br>
 
 ## 🌈 Designed for _you_
 
@@ -123,7 +123,7 @@ That’s why we built this course to be:
 - **Practical**: Real tools, real use cases, real skills
 - **Confidence-driven**: We help you **see your progress**, not just your gaps
 
-
+<br>
 
 ## 🌱 Growth Happens Gradually
 
@@ -137,9 +137,11 @@ Many of our learners began with thoughts like:
 
 These thoughts are completely normal.  
 But here’s what we’ve seen again and again:  
-👉 The learners who grow are not the ones who **know the most** — they’re the ones who **keep trying**, **ask questions**, and **reflect on their progress**.
+The learners who grow are not the ones who **know the most** — they’re the ones who **keep trying**, **ask questions**, and **reflect on their progress**.
 
----
+
+<br>
+
 
 ### 📈 What Growth *Actually* Looks Like
 
@@ -163,6 +165,7 @@ Notice the shift? It’s not about being perfect — it’s about changing your 
 | 🧠 Systems & AI Thinking  | Real-world examples of AI and how systems work                   |
 
 
+<br>
 <br>
 
 Ready? Let’s begin.  
