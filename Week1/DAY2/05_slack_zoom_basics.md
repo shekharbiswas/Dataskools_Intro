@@ -1,4 +1,4 @@
-# 💬 Staying Connected with Slack and Zoom
+# 💬 Staying Connected: Slack and Zoom
 
 In this course, we’ll use two simple but powerful tools to stay connected: **Slack** and **Zoom**.
 
