@@ -195,7 +195,9 @@ Let’s learn how to learn — together.
 
 ---
 
-**Navigation:**  
-[⬅️ Previous: 01_what_youll_learn.md](01_what_youll_learn.md) | [Next ➡️ 03_ai_is_everywhere.md](03_ai_is_everywhere.md)
-
+<p align="center" style="font-size: 20px;">
+  <a href="../DAY1/01_what_youll_learn.md">⬅️ <strong>Previous</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="../DAY1/03_ai_is_everywhere.md"><strong>Next</strong> ➡️</a>
+</p>
 
