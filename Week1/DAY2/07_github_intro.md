@@ -147,47 +147,4 @@ This will become your learning home for the next few weeks — and maybe your ca
 
 <br>
 
-## ✅ Action Steps: Create Your GitHub Profile
-
-Follow these simple steps to set up your GitHub space like a professional:
-
-### 🖼️ 1. Upload Your Profile Picture
-- Click your avatar (top-right corner on GitHub)
-- Go to **“Your profile”**
-- Click **“Edit profile”**
-- Upload a clear, friendly photo of yourself (professional or casual — just be you!)
-
-### ✍️ 2. Add Your Bio
-- Write 1–2 short lines in your bio (e.g., “Learning data & AI. Passionate about solving real-world problems.”)
-- You can update this anytime, so don’t overthink it
-
-### 🌍 3. Add Your Location & Website (Optional)
-- Mention your city or country
-- If you have a portfolio site, blog, or LinkedIn, feel free to link it here
-
-### 📁 4. Create a Special Repository Called `yourusername`
-- Click the **+** icon (top-right) → New repository
-- Name it exactly like your username (e.g., `samira-tech`)
-- Make it **public**
-- Select: **"Add a README file"**
-
-> This special repo becomes the "homepage" of your GitHub profile!
-
-### 📝 5. Edit Your README File
-- Click the README file and click the **pencil/edit icon**
-- Write a short intro about yourself:
-  - Who you are
-  - What you're learning
-  - What you're excited to build
-- Save the file by clicking **"Commit changes"**
-
-<br>
-
-## 🎉 You’ve Just Built Your First Portfolio Page!
-
-You’ve taken the first step in making your work visible and showing that you're serious about learning.
-
-> 🚀 _“Your GitHub is more than storage — it’s your story in public.”_
-
-In the next step, we’ll help you organize your weekly folders and add your first project files.
 
