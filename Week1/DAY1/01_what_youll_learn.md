@@ -185,5 +185,12 @@ Your journey starts **not with perfection**, but with **action**. 🌟
 
 ---
 
-**Navigation:**  
-⬅️ *First file* | [Next ➡️ 02_how_we_learn.md](02_how_we_learn.md)
+<p align="center">
+  <a href="../DAY1/01_what_youll_learn.md">
+    <img src="https://github.com/shekharbiswas/Dataskools_Intro/raw/main/Week1/imgs/prev.jpg" alt="Previous" width="120">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="../DAY1/03_ai_is_everywhere.md">
+    <img src="https://github.com/shekharbiswas/Dataskools_Intro/raw/main/Week1/imgs/next.jpg" alt="Next" width="120">
+  </a>
+</p>
