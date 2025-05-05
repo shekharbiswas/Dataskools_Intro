@@ -96,7 +96,7 @@ Once a week, check your desktop or downloads folder and move relevant files into
 
 Take 10–15 minutes right now:
 - Create your main course folder (e.g., `Dataskools`)
-- Create a folder called `Week-1` and move all this week’s files into it
+- Create a folder called `Week-1` and create a sample file inside.
 - Rename any messy or unclear file names
 - Do this once a week — future you will thank you! 🙌
 
