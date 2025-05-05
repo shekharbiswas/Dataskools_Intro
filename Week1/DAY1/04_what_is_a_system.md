@@ -146,6 +146,9 @@ Let’s learn how things fit together — so you can build better solutions, not
 
 ---
 
-**Navigation:**  
-[⬅️ Previous: 03_ai_is_everywhere.md](03_ai_is_everywhere.md) | ➡️ *Last file*
+<p align="center" style="font-size: 20px;">
+  <a href="../DAY1/03_ai_is_everywhere.md">⬅️ <strong>Previous</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🏁 <strong>End of Section</strong>
+</p>
 
