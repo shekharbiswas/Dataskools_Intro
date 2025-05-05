@@ -118,15 +118,34 @@ That’s why we built this course to be:
 - **Practical**: Real tools, real use cases, real skills
 - **Confidence-driven**: We help you **see your progress**, not just your gaps
 
----
+
 
 ## 🌱 Growth Happens Gradually
 
-You don’t need to know everything. You just need to show up — consistently.
+You don’t need to know everything. You just need to **keep showing up** — one day, one task, one question at a time.
 
-> "No one starts confident. Confidence is something you build — by doing, reflecting, and continuing."
+Many of our learners began with thoughts like:
+
+- “I’ve never used GitHub before…”
+- “Everyone else seems ahead…”
+- “What if I’m not good at this?”
+
+These thoughts are completely normal.  
+But here’s what we’ve seen again and again:  
+👉 The learners who grow are not the ones who **know the most** — they’re the ones who **keep trying**, **ask questions**, and **reflect on their progress**.
 
 ---
+
+### 📈 What Growth *Actually* Looks Like
+
+| Early Stage                 | Later Stage                        |
+|----------------------------|------------------------------------|
+| “I don’t understand this yet.”  | “Let me break it down step by step.” |
+| “I feel behind.”                 | “We’re all on different journeys.”   |
+| “This is overwhelming.”          | “I’ll focus on one small win today.” |
+
+Notice the shift? It’s not about being perfect — it’s about changing your self-talk and trusting the process.
+
 
 ## 📎 Summary: What You’ll Learn This Week
 
@@ -138,7 +157,8 @@ You don’t need to know everything. You just need to show up — consistently.
 | 🎯 Confidence Boosters    | Mock interviews, Comfortability Index, weekly reflection         |
 | 🧠 Systems & AI Thinking  | Real-world examples of AI and how systems work                   |
 
----
+
+<br>
 
 Ready? Let’s begin.  
 Your journey starts **not with perfection**, but with **action**. 🌟
