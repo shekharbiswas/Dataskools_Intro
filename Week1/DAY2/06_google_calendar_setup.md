@@ -60,7 +60,7 @@ You’re not just learning content — you’re learning how to **make time for 
 Try this:
 - Block off 3 short “learning windows” in your week (even 25–45 mins)
 - Add personal notes like “Read Slack updates” or “Do reflection”
-- Treat your calendar as your **accountability partner**, not your boss
+- Treat your calendar as your **accountability partner**, not the office boss.
 
 This is how professionals plan their growth — and now, so you will.
 
