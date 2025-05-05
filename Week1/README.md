@@ -180,7 +180,8 @@ Let’s begin this adventure together. 🚀
 
 
 
-<p align="center"><strong>🚀 Start Learning</strong></p>
+<p align="center"><strong><span style="color:#FEF7E5">🚀 Start Learning</span></strong></p>
+
 <p align="center">
   <a href="DAY1/01_what_youll_learn.md" target="_blank">
     <img src="https://github.com/shekharbiswas/Dataskools_Intro/raw/main/Week1/imgs/button.jpg" alt="Start Learning Button" width="300">
