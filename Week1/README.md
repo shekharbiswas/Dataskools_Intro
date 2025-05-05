@@ -179,8 +179,8 @@ We're excited to have you on board. Whether you pursue the **Azure Big Data** pa
 Let’s begin this adventure together. 🚀
 
 <p align="center">
-  <a href="DAY1/01_what_youll_learn.md" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Start%20Learning-%231F3842.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="Start Learning">
+  <a href="DAY1/01_what_youll_learn.md" target="_blank" style="background-color:#1F3842;color:white;padding:14px 28px;text-decoration:none;font-weight:bold;border-radius:8px;display:inline-block;">
+    🚀 Start Learning
   </a>
 </p>
 
