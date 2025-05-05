@@ -20,7 +20,7 @@ This is a 28-week journey designed for **curious learners from any background** 
 | Week 15–20: Python + ML Basics   | Data manipulation, ML thinking, logic & structure                           |
 | Week 21–28: Specialization       | Choose Azure + Big Data or Power BI Advanced + Coursera Project             |
 
-📌 You can revisit this full roadmap in the [main README](../README.md).
+📌 You can revisit this full roadmap [here](../README.md).
 
 ---
 
