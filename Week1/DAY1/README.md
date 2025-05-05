@@ -19,7 +19,7 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 ## 📅 Day 1: Orientation + Roadmap
 
 <details>
-<summary>### `01_what_youll_learn.md`</summary>
+<summary>`01_what_youll_learn.md`</summary>
 
 - What this course covers  
 - How we’ll guide you through it  
@@ -28,7 +28,7 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 </details>
 
 <details>
-<summary>### `02_how_we_learn.md`</summary>
+<summary>`02_how_we_learn.md`</summary>
 
 - Why project-based learning works  
 - Weekly reflection + Comfortability Index  
@@ -37,7 +37,7 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 </details>
 
 <details>
-<summary>### `03_ai_is_everywhere.md`</summary>
+<summary>`03_ai_is_everywhere.md`</summary>
 
 - AI in everyday life: Netflix, FIFA, apps, and more  
 - Examples of AI tools making decisions  
@@ -46,12 +46,13 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 </details>
 
 <details>
-<summary>### `04_what_is_a_system.md`</summary>
+<summary>`04_what_is_a_system.md`</summary>
 
 - What is a system? (Computer + People + Process)  
 - Examples: a coffee shop, Netflix, or online learning  
 
 </details>
+
 
 <br>
 
