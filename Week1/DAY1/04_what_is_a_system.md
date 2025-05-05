@@ -143,3 +143,9 @@ You’re working inside a **system**.
 And the more you understand it, the more you can shape it.
 
 Let’s learn how things fit together — so you can build better solutions, not just use better tools.
+
+---
+
+**Navigation:**  
+[⬅️ Previous: 03_ai_is_everywhere.md](03_ai_is_everywhere.md) | ➡️ *Last file*
+
