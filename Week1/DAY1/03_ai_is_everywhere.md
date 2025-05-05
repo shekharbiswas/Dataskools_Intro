@@ -44,7 +44,7 @@ And the more we understand it, the better we can use it with purpose.
 
 <br>
 
-## 📺 AI in Everyday Life
+## 📺 AI in everyday life
 
 AI isn’t just about robots or sci-fi movies. It’s behind many apps and decisions you interact with daily.
 
