@@ -80,7 +80,7 @@ But through **consistent effort**, **support**, and **a step-by-step approach**,
 Not everyone’s path is the same — and that’s okay.  
 The goal isn't perfection. The goal is **progress**.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=MAJNutiT7G4) – *8 min*
+[![Watch the video](https://img.youtube.com/vi/MAJNutiT7G4/0.jpg)](https://www.youtube.com/watch?v=MAJNutiT7G4)
 
 
 ---
