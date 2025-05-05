@@ -1,4 +1,5 @@
-# 🗓️ Google Calendar Setup: Plan Your Week with Confidence
+# 🗓️ Google Calendar Setup
+
 
 In this course, time management is your secret superpower.  
 That’s why we use **Google Calendar** to keep everything clear, organized, and stress-free.
