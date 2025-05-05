@@ -1,8 +1,9 @@
 # 🌟 Week 1: Getting Started with Confidence
 
-This week is all about building your foundation. You'll get familiar with the tools, mindset, and systems you'll use throughout your journey.
+This week is all about building your foundation. 
+You'll get familiar with the tools, mindset, and systems you'll use throughout your journey.
 
----
+<br>
 
 ## 📅 Day 1: Orientation + Roadmap
 
@@ -25,7 +26,8 @@ This week is all about building your foundation. You'll get familiar with the to
 - What is a system? (Computer + People + Process)
 - Examples: a coffee shop, Netflix, or online learning
 
----
+<br>
+
 
 ## 📅 Day 2: Tools Setup
 
@@ -49,7 +51,8 @@ This week is all about building your foundation. You'll get familiar with the to
 - What are folders and files?
 - How to organize your digital workspace
 
----
+<br>
+
 
 ## 📅 Day 3: Core Skills + Terminologies
 
@@ -70,7 +73,8 @@ This week is all about building your foundation. You'll get familiar with the to
 - How GitHub, Zoom, Calendar work as one system
 - Big picture: Your learning ecosystem
 
----
+<br>
+
 
 ## 📅 Day 4: Confidence + Reflection
 
