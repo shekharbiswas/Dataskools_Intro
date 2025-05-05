@@ -23,7 +23,21 @@ But we put immense importance on the **how** — because that’s where the real
 This course is your **practice ground** — a place to try, test, make mistakes, and try again.
 
 
-Many of our learners come from **non-technical backgrounds**. They’ve tried learning online before but got stuck, overwhelmed, or gave up. That’s why we focus on making learning **practical, reflective, and personal** — not just theoretical.
+👩‍💻 Many of our students first tried learning on their own.
+
+They watched random YouTube tutorials, downloaded free courses, and followed advice from 10 different influencers.
+
+At first, it felt exciting — like they were finally taking control.  
+But soon, things got messy.
+
+One video said “just start with Python,” another said “focus on Power BI,” and suddenly nothing felt clear anymore.
+
+They kept switching tools, restarting projects, and doubting if they were cut out for this.
+
+What they were missing wasn’t motivation — it was **a path**, **a rhythm**, and **a place to practice**.
+
+That’s exactly what this course gives you: structure, space, and support to finally move forward.
+
 
 <br>
 
@@ -48,7 +62,8 @@ Here, we focus on **project-based learning** — where every concept is tied to 
 
 You’re not just learning — you’re building things that prove you’ve learned.
 
----
+<br>
+
 
 ## 🔁 Weekly Reflection + Comfortability Index
 
@@ -61,7 +76,7 @@ At the end of each week, you’ll take just **10–15 minutes** to reflect:
 
 You’ll also use a simple tool called the **Comfortability Index** to track your confidence across new concepts.
 
----
+<br>
 
 ### 📊 What is the Comfortability Index?
 
@@ -79,7 +94,8 @@ You’ll rate how comfortable you feel with each topic on a scale of 1 to 5:
 💡 This is **not a test**. It’s a mirror.  
 You’re not being graded — you’re growing awareness. The goal is to **notice progress**, and know when to ask for help.
 
----
+<br>
+
 
 ## 🔍 How Focus Affects Learning
 
@@ -94,7 +110,8 @@ But today, your attention is constantly under attack. 😣
 
 It’s not your fault — it’s how the digital world is built. But we can change how we respond.
 
----
+<br>
+
 
 ## ⏱️ The 25-Minute Focus Rule (Pomodoro Technique)
 
@@ -115,7 +132,8 @@ Why this works:
 
 > ✨ "You don’t need more time. You need more *focused* time."
 
----
+<br>
+
 
 ## 📱 Breaking the Social Media Trap
 
@@ -131,7 +149,8 @@ Here are a few tips we’ve found helpful:
 
 This course is not just about tools. It’s about teaching your brain to work **with** you — not against you.
 
----
+<br>
+
 
 ## 🪞 Learning How *You* Learn
 
@@ -147,7 +166,8 @@ This awareness helps you:
 
 We’ll guide you to experiment — and reflect.
 
----
+<br>
+
 
 ## 🧭 Summary: How We Learn Here
 
@@ -159,7 +179,8 @@ We’ll guide you to experiment — and reflect.
 | ⏲️ Focus in short bursts   | Use 25-minute Pomodoro sessions to stay present and productive     |
 | 📚 Build awareness         | Learn how your brain works best, and lean into your strengths      |
 
----
+<br>
+
 
 ## 💬 Final Thought
 
