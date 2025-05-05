@@ -3,7 +3,8 @@
 You don’t need to be a techie to understand or work with AI.  
 In fact, you’ve probably used AI **multiple times today** — without even noticing it.
 
-Think about your daily routine:  
+Think about your daily routine:
+<br>
 ☀️ In the morning, your phone might suggest the fastest route to work — that’s AI predicting traffic. 
 <br>
 
@@ -11,10 +12,20 @@ Think about your daily routine:
 <br>
 
 🚗 As you ride a train, order a taxi, or use Google Maps, AI is optimizing your journey in real-time.  
+<br>
+
 🏥 In hospitals, AI helps detect diseases early, assists doctors in reading scans, and supports scheduling.  
+<br>
+
 👩‍🏫 In classrooms, AI tailors lessons to student needs and helps teachers save time on grading.  
+<br>
+
 📈 At work, AI tools automate reports, organize data, and even recommend next steps in projects.  
+<br>
+
 🛒 While shopping online, AI suggests items you might need based on your past behavior.  
+<br>
+
 🧘‍♀️ Even your meditation or fitness app might use AI to adjust your plan based on stress or sleep data.
 
 AI isn’t just in the future — it’s already woven into our daily lives.  
