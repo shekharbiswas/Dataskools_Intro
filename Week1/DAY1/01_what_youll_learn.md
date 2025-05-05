@@ -62,9 +62,9 @@ YES — and here’s how your journey might look.
 
 ---
 
-## 📹 You’ll See Real Stories
+## 📹 People change with time
 
-You’ll hear honest stories from learners just like you — people who:
+You’ll hear plenty stories from learners just like you — people who:
 
 - Started with **no technical background** ❌  
 - Felt **uncertain or behind** 😟  
@@ -79,6 +79,8 @@ But through **consistent effort**, **support**, and **a step-by-step approach**,
 
 Not everyone’s path is the same — and that’s okay.  
 The goal isn't perfection. The goal is **progress**.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=MAJNutiT7G4) – *8 min*
 
 
 ---
