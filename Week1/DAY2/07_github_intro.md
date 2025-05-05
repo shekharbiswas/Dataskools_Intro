@@ -36,6 +36,15 @@ It’s built on something called **Git**, which is like a time machine for your 
 
 <br>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=pBy1zgt0XPc" target="_blank">
+    <img src="https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg" alt="What is GitHub by Traversy Media" width="480">
+  </a>
+</p>
+
+<br>
+<br>
+
 ## 🧭 Why Are *We* Using GitHub?
 
 In this course, GitHub will help you:
