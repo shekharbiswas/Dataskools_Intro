@@ -169,6 +169,9 @@ Let’s continue exploring AI — not with fear, but with curiosity. 🚀
 
 ---
 
-**Navigation:**  
-[⬅️ Previous: 02_how_we_learn.md](02_how_we_learn.md) | [Next ➡️ 04_what_is_a_system.md](04_what_is_a_system.md)
+<p align="center" style="font-size: 20px;">
+  <a href="../DAY1/02_how_we_learn.md">⬅️ <strong>Previous</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="../DAY1/04_what_is_a_system.md"><strong>Next</strong> ➡️</a>
+</p>
 
