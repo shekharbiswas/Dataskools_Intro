@@ -39,8 +39,10 @@ When we see ourselves as systems, we become better at understanding:
 - What affects our thinking, energy, and learning  
 
 This idea helps you grow not just as a student or professional — but as a builder and thinker.
-Let us talk about **systems from a software perspective.**
 <br>
+
+Let us talk about **systems from a software perspective.**
+
 
 
 ## 🔧 A System = People + Tools + Processes
