@@ -177,3 +177,10 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 We're excited to have you on board. Whether you pursue the **Azure Big Data** path or the **Power BI Expert** path, your journey starts here — with purpose, clarity, and high-impact learning.
 
 Let’s begin this adventure together. 🚀
+
+<p align="center">
+  <a href="DAY1/01_what_youll_learn.md" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Start%20Learning-blue?style=for-the-badge&logo=readme" alt="Start Learning">
+  </a>
+</p>
+
