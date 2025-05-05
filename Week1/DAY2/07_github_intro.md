@@ -16,7 +16,8 @@ Think of it like:
 - 📚 A public journal for your learning journey  
 - 🎓 A portfolio you’ll be proud to share by the end of this course
 
-It’s built on something called **Git**, which is like a time machine for your work — you can track every change, go back, or share it with others.
+It’s built on something called **Git**, which is like a time machine for your work
+— you can track every change, go back, or share it with others.
 
 <br>
 
