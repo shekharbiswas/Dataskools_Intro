@@ -6,7 +6,12 @@ This course is not just about learning tools — it’s about **building confide
 If you've never worked in tech before — that's perfectly okay. You are in the right place.  
 We’ll walk with you, step by step.
 
----
+<br>
+<br>
+
+
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/fc523213-048a-4d05-9bc4-6fd9aca3b441" />
+
 
 ## 🧭 What This Course Covers
 
@@ -22,7 +27,7 @@ This is a 28-week journey designed for **curious learners from any background** 
 
 📌 You can revisit this full roadmap [here](../README.md).
 
----
+<br>
 
 ## 🤝 How We'll Guide You
 
@@ -43,7 +48,7 @@ We believe that learning is most powerful when it’s **clear, supported, and pe
 - We’ll use a simple tool called the **Comfortability Index**.
 - You’ll also write a small note to your future self ✍️
 
----
+<br>
 
 ## 🧱 From No Experience to Confident Learner
 
@@ -60,7 +65,7 @@ YES — and here’s how your journey might look.
 | Week 7–14: Analyst | Writing queries, asking better questions, thinking in data              | Empowered, strategic, improving fast |
 | Week 15+: Specialist | Working with Python or Big Data tools, doing mock interviews         | Confident, portfolio-ready           |
 
----
+<br>
 
 ## 📹 People change with time
 
