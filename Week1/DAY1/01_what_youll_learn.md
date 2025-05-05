@@ -64,15 +64,22 @@ YES — and here’s how your journey might look.
 
 ## 📹 You’ll See Real Stories
 
-We’ll share video stories of learners who had:
-- No technical background ❌
-- Lots of self-doubt 😟
-- Rejected applications 😢
+You’ll hear honest stories from learners just like you — people who:
 
-And yet — they **got hired**, because they learned step by step, stayed consistent, and **believed they could grow**.
+- Started with **no technical background** ❌  
+- Felt **uncertain or behind** 😟  
+- Faced **rejections or self-doubt** 😢  
 
-> _“I used to think I wasn’t tech-savvy at all. Now I’m working in analytics and mentoring others.”_  
-> — Learner from 2023 Cohort 🎓
+But through **consistent effort**, **support**, and **a step-by-step approach**, they began to:
+
+- Feel more confident using real tools 💪  
+- Ask better questions in interviews 🎤  
+- Build a portfolio they were proud of 🗂️  
+- Discover new strengths they didn’t know they had 🌱  
+
+Not everyone’s path is the same — and that’s okay.  
+The goal isn't perfection. The goal is **progress**.
+
 
 ---
 
