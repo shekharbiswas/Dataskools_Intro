@@ -3,6 +3,17 @@
 This week is all about building your foundation. 
 You'll get familiar with the tools, mindset, and systems you'll use throughout your journey.
 
+# 📅 Week 1 Overview: Getting Started with Confidence
+
+| Day     | Title                     | Description                                                                 |
+|---------|---------------------------|-----------------------------------------------------------------------------|
+| Day 1   | Orientation & Roadmap     | Understand the course journey, learning method, and how AI fits into life. |
+| Day 2   | Setting Up Your Tools     | Get hands-on with Slack, Zoom, Google Calendar, GitHub, and folders/files. |
+| Day 3   | Core Skills & Terminology | Learn key digital terms, keyboard shortcuts, and how systems/tools connect.|
+| Day 4   | Confidence & Reflection   | Explore mock interviews, track your comfort, and reflect on your progress. |
+
+
+
 <br>
 
 ## 📅 Day 1: Orientation + Roadmap
