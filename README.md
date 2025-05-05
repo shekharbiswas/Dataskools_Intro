@@ -6,7 +6,16 @@ This week is designed to ease you into the world of data, spark your curiosity, 
 But most importantly, we’ll help you answer:  
 **“Why are *you* here, and what does success look like *for you*?”**
 
----
+
+<br>
+
+![weekly_goals](https://github.com/user-attachments/assets/159a2a5a-7227-4b98-9fe2-5b5248a6955b)
+
+
+
+<br>
+
+
 
 ## 🌟 Week 1: Getting Started with Confidence
 
