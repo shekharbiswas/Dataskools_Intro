@@ -64,9 +64,6 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 </details>
 
 <br>
-
----
-
 <br>
 
 ## 📅 Day 2: Tools Setup
