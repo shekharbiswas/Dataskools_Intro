@@ -155,6 +155,8 @@ But most importantly, we’ll help you answer:
 
 </details>
 
+<br>
+<br>
 
 > 🎉 **Let’s make learning creative, reflective, and personal.** You’re not just learning tools — you’re building a story.
 
