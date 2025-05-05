@@ -6,7 +6,10 @@ In fact, you’ve probably used AI **multiple times today** — without even not
 Think about your daily routine:  
 ☀️ In the morning, your phone might suggest the fastest route to work — that’s AI predicting traffic. 
 <br>
+
 ☕ Your email filters out spam and surfaces the most important messages — that’s AI managing your inbox.  
+<br>
+
 🚗 As you ride a train, order a taxi, or use Google Maps, AI is optimizing your journey in real-time.  
 🏥 In hospitals, AI helps detect diseases early, assists doctors in reading scans, and supports scheduling.  
 👩‍🏫 In classrooms, AI tailors lessons to student needs and helps teachers save time on grading.  
