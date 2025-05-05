@@ -67,13 +67,6 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 </details>
 
 <br>
-
-<p align="center">
-  <a href="01_what_youll_learn.md" target="_blank">
-    <img src="https://github.com/shekharbiswas/Dataskools_Intro/raw/main/Week1/imgs/button.jpg" alt="Start Learning Button" width="300">
-  </a>
-</p>
-
 <br>
 
 ## 📅 Day 2: Tools Setup
