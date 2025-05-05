@@ -78,7 +78,11 @@ Here’s a high-level view of your learning journey over the next 28 weeks:
 
 ## 📚 Module Overview
 
-### 🧭 Week 1–4: Introduction to Data Analytics  
+<details>
+<summary>🧭 Week 1–4: Introduction to Data Analytics</summary>
+
+<br>
+
 Start by exploring key concepts and real-world data use cases (movies, FIFA, Netflix). You'll get familiar with:
 - Course structure and expectations  
 - Communication tools: Slack, Zoom, Calendar  
@@ -86,46 +90,60 @@ Start by exploring key concepts and real-world data use cases (movies, FIFA, Net
 - Learning mindset, mock interviews, comfort zones  
 - Why AI matters in today's data world  
 
+</details>
 
 <br>
+
+<details>
+<summary>📊 Week 5–8: Power BI</summary>
+
 <br>
 
-### 📊 Week 5–8: Power BI  
 Learn to transform raw data into compelling dashboards using Power BI. You'll also explore:
 - Data storytelling and business insights  
 - Built-in AI tools like Key Influencers and Q&A Visual  
 - Real business case studies for hands-on projects  
 
+</details>
 
 <br>
+
+<details>
+<summary>🗃️ Week 9–14: SQL Fundamentals</summary>
+
 <br>
 
-### 🗃️ Week 9–14: SQL Fundamentals  
 SQL is essential for querying, filtering, and joining data across systems. You'll focus on:
 - Database basics and SQL syntax  
 - Extracting and shaping data for analytics or machine learning  
 - AI-ready data pipelines  
 
-
+</details>
 
 <br>
+
+<details>
+<summary>🐍 Week 15–20: Python & Machine Learning</summary>
+
 <br>
 
-### 🐍 Week 15–20: Python & Machine Learning  
 Dive into automation, analysis, and model-building with Python. You’ll cover:
 - Pandas, NumPy, and scikit-learn basics  
 - Introduction to ML workflows: training, testing, predictions  
 - A skills assessment to guide your specialization  
 
-> 🧪 Based on your performance, you'll be guided into a suitable track:
+> 🧪 Based on your performance, you'll be guided into a suitable track:  
 > - **Track A**: Azure Big Data (cloud, scale, ML pipelines)  
 > - **Track B**: Power BI Advanced (enterprise reporting, large datasets)
 
+</details>
 
 <br>
-<br>
 
-### 💻 Week 21–28: Big Data with Azure or Power BI  
+<details>
+<summary>💻 Week 21–28: Big Data with Azure or Power BI</summary>
+
+<br>
 
 **Track A – Big Data with Azure**  
 - Azure Data Lake, Synapse, ML Studio  
@@ -136,6 +154,8 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 - DAX functions, cloud data sources, advanced visuals  
 - Real-world dashboards, KPI-driven storytelling  
 - Optional: Coursera Power BI specialization access  
+
+</details>
 
 
 
