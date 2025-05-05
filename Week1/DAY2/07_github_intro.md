@@ -1,9 +1,24 @@
-# 🗂️ What Is GitHub and Why Are We Using It?
+# 🗂️ GITHUB
 
-Imagine a digital notebook that stores all your learning — in one place — and makes it easy to share with others.  
-That’s what **GitHub** is, and in this course, it will become your **learning home** and **portfolio**.
+Imagine a digital notebook that not only stores your learning — but also helps you organize, reflect, and showcase your progress to the world.
 
-You don’t need to be a developer to use it. Many learners in design, writing, data, and education use GitHub to **organize their projects and show their progress**.
+That’s what **GitHub** is.
+
+In this course, GitHub will become your **learning home**, where every file, folder, and reflection tells the story of your growth. You’ll use it to store notes, practice tasks, AI prompts, dashboards, and more — all structured by week and topic.
+
+You don’t need to be a software developer to use GitHub.  
+In fact, today, people from **design**, **writing**, **marketing**, **education**, and **data analytics** use GitHub to:
+- Build project portfolios  
+- Track version history (like "undo" for everything)  
+- Collaborate with others  
+- Show evidence of what they’ve actually done
+
+Instead of saying “I took a course,” you can say “Here’s what I built, explored, and understood — and here’s how I grew.”
+
+> 📌 GitHub isn’t just a storage tool — it’s your **public proof of learning**, and your **personal system of growth**.
+
+
+<img width="223" alt="image" src="https://github.com/user-attachments/assets/3f2ea8ae-3f39-49e8-8097-10db5d47f09b" />
 
 <br>
 
