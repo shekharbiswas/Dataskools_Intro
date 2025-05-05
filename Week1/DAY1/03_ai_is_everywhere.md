@@ -26,13 +26,6 @@ AI also manages patient scheduling and recommends follow-up treatments.
 
 <br>
 
-🎓 **Learning and Education**  
-Apps like Duolingo or Khan Academy adjust difficulty based on how you learn.  
-AI figures out where you're struggling and offers hints or repeats topics.  
-Even in live classrooms, tools like Grammarly and EdTech dashboards help teachers personalize learning.
-
-<br>
-
 📈 **Your Work Tools**  
 AI powers features in Microsoft Excel, Google Docs, and even Zoom.  
 It can summarize meetings, recommend what charts to create, or flag errors in spreadsheets.  
