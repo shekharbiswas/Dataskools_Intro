@@ -9,7 +9,10 @@ But most importantly, we’ll help you answer:
 
 <br>
 
-![weekly_goals](https://github.com/user-attachments/assets/159a2a5a-7227-4b98-9fe2-5b5248a6955b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/159a2a5a-7227-4b98-9fe2-5b5248a6955b" alt="weekly_goals" width="600">
+</p>
+
 
 
 
