@@ -1,4 +1,4 @@
-# 🧩 What Is a System?
+# 🧩 What is a _system_?
 
 Let’s start with something simple — but powerful:  
 > A **system** is a group of connected parts that work together to solve a problem, perform a task, or produce a result.
@@ -13,7 +13,7 @@ A system usually has:
 
 <br>
 
-## 🌍 Systems Are Everywhere
+## 🌍 Systems are everywhere
 
 Think beyond computers. A café, a school, even your morning routine — all are systems.  
 They combine **people**, **tools**, and **rules** to achieve something.
@@ -24,7 +24,7 @@ They combine **people**, **tools**, and **rules** to achieve something.
 
 <br>
 
-## 🧠 Even Humans Are Systems
+## 🧠 Humans are systems, too
 
 You, as a person, are a system too.
 
@@ -39,7 +39,7 @@ When we see ourselves as systems, we become better at understanding:
 - What affects our thinking, energy, and learning  
 
 This idea helps you grow not just as a student or professional — but as a builder and thinker.
-
+Let us talk about **systems from a software perspective.**
 <br>
 
 
