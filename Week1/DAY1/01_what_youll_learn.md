@@ -108,7 +108,7 @@ This isn’t a course where you just watch and forget. Each week includes:
 
 ---
 
-## 🌈 Designed With Empathy
+## 🌈 Designed for _you_
 
 We know what it's like to feel behind, confused, or “not technical enough.”  
 That’s why we built this course to be:
