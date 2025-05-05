@@ -182,3 +182,8 @@ Notice the shift? It’s not about being perfect — it’s about changing your 
 Ready? Let’s begin.  
 Your journey starts **not with perfection**, but with **action**. 🌟
 
+
+---
+
+**Navigation:**  
+⬅️ *First file* | [Next ➡️ 02_how_we_learn.md](02_how_we_learn.md)
