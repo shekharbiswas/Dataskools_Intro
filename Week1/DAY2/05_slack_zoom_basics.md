@@ -2,7 +2,8 @@
 
 In this course, we’ll use two simple but powerful tools to stay connected: **Slack** and **Zoom**.
 
-You don’t need to be an expert to use them. By the end of today, you’ll be able to confidently join sessions, ask questions, and collaborate with your peers.
+You don’t need to be an expert to use them. 
+By the end of today, you’ll be able to confidently join sessions, ask questions, and collaborate with your peers.
 
 <br>
 
