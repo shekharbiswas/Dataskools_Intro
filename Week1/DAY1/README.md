@@ -69,7 +69,7 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 <br>
 
 <p align="center">
-  <a href="DAY1/01_what_youll_learn.md" target="_blank">
+  <a href="01_what_youll_learn.md" target="_blank">
     <img src="https://github.com/shekharbiswas/Dataskools_Intro/raw/main/Week1/imgs/button.jpg" alt="Start Learning Button" width="300">
   </a>
 </p>
