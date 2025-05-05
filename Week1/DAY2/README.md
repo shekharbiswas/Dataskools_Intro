@@ -3,7 +3,7 @@
 This week is all about building your foundation. 
 You'll get familiar with the tools, mindset, and systems you'll use throughout your journey.
 
-# 📅 Week 1 Overview: Getting Started with Confidence
+## 📅 Week 1 Overview: Getting Started with Confidence
 
 | Day     | Title                     | Description                                                                 |
 |---------|---------------------------|-----------------------------------------------------------------------------|
