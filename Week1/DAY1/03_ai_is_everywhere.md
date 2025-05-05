@@ -87,12 +87,31 @@ Think of AI not just as a tool — but as a **bridge** between what you’re alr
 
 <br>
 
-## ✨ You Don’t _need to code_ to work with AI
+## ✨ You Don’t _need to code_ to work with AI — but you’ll Learn It Anyway 🚀
 
-Many AI-powered tools are **drag-and-drop, no-code, or plug-and-play**.  
-Your skill is in **understanding the system**, asking smart questions, and making AI useful for people.
+Many of today’s most powerful AI tools are **no-code**:  
+You can drag, drop, and connect ideas without writing a single line of code.
 
-That’s what this course helps you do.
+- Canva’s Magic Write can generate text in seconds  
+- Zapier automates workflows without scripts  
+- ChatGPT can generate ideas with just a prompt
+
+And that’s great — because understanding how to use AI tools is **already a career advantage**.
+
+<br>
+
+But here’s where this course goes further:  
+👉 You’ll **also learn the coding behind the scenes** — step by step.
+
+By the end of the program, you won’t just be a **user of AI** — you’ll be able to:
+- Customize tools to fit your needs  
+- Automate smarter, not just faster  
+- Build your own simple AI projects  
+- Understand how real-world systems are designed  
+
+> 💡 _"No-code gets you started. Learning to code gives you superpowers."_
+
+This combination — understanding how AI works *and* learning to build with it — gives you a real edge in any field.
 
 <br>
 
