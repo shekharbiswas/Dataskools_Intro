@@ -44,6 +44,11 @@ And the more we understand it, the better we can use it with purpose.
 
 <br>
 
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/e3284a20-8c1d-45d3-b87e-fd5480329376" />
+
+<br>
+<br>
+
 ## 📺 AI in everyday life
 
 AI isn’t just about robots or sci-fi movies. It’s behind many apps and decisions you interact with daily.
