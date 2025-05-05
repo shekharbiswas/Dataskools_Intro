@@ -62,7 +62,7 @@ Try this:
 - Add personal notes like “Read Slack updates” or “Do reflection”
 - Treat your calendar as your **accountability partner**, not your boss
 
-This is how professionals plan their growth — and now, so will you.
+This is how professionals plan their growth — and now, so you will.
 
 <br>
 
@@ -72,4 +72,3 @@ This is how professionals plan their growth — and now, so will you.
 - ⏰ Turn on 10-min reminders  
 - 🧭 Block one time this week for solo review or practice
 
-You’re not just managing time — you’re making space for your next chapter. 💡
