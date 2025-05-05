@@ -87,7 +87,7 @@ Think of AI not just as a tool — but as a **bridge** between what you’re alr
 
 <br>
 
-## ✨ You Don’t _need to code_ to work with AI — but you’ll Learn It Anyway 🚀
+## ✨ You Don’t _need to code_ to work with AI — but you’ll _learn it anyway_ 🚀
 
 Many of today’s most powerful AI tools are **no-code**:  
 You can drag, drop, and connect ideas without writing a single line of code.
