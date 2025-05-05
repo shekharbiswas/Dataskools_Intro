@@ -166,3 +166,9 @@ This combination — understanding how AI works *and* learning to build with it 
 - Your personal interests + AI awareness = your “tech Ikigai”  
 
 Let’s continue exploring AI — not with fear, but with curiosity. 🚀
+
+---
+
+**Navigation:**  
+[⬅️ Previous: 02_how_we_learn.md](02_how_we_learn.md) | [Next ➡️ 04_what_is_a_system.md](04_what_is_a_system.md)
+
