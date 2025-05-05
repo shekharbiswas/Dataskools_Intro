@@ -84,11 +84,19 @@ You’ve probably used it before — but here’s how we’ll use it in this cou
 
 <br>
 
-## ✨ Final Thought
+## ✨ Summary: Start Strong by Staying Connected
 
-You don’t need to master these tools on Day 1.  
-But the more you use them, the more confident you’ll feel asking questions, sharing progress, and **feeling like part of a team**.
+You don’t need to master Slack and Zoom on Day 1 — but showing up is the first win.  
+These tools aren’t just for communication — they’re how you’ll **stay motivated, get help, and grow alongside others**.
 
 > 💬 “The opposite of feeling stuck is staying connected.”
 
-Let’s get started — log into Slack, say hi in `#general`, and make sure Zoom is installed and working.
+### ✅ Your Action Steps for Today:
+- 🔓 Log into Slack and say hello in the `#cafe` channel — share what you're most excited (or nervous) about!
+- 📢 Check the `#announcements` channel so you never miss a session update
+- 🎥 Install Zoom (if you haven’t already) and test your mic and camera
+- 💬 Ask your first question — even a small one. Start building your learning habit.
+
+This is your space. Use it.  
+And remember — the more you interact, the more you’ll feel like **you belong here**.
+
