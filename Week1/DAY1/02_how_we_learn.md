@@ -2,9 +2,31 @@
 
 In this course, we don’t just teach tools — we teach you how to **learn in a way that sticks**, builds confidence, and actually prepares you for real-world work.
 
+Many courses focus on the **what**:
+- What is Python?
+- What is AI?
+- What is a dashboard?
+
+Some go deeper and explain the **why**:
+- Why data matters in today’s world
+- Why AI is changing industries
+- Why storytelling helps decision-making
+  
+But we put immense importance on the **how** — because that’s where the real shift happens.
+
+| Focus Area | What It Means                                    |
+|------------|--------------------------------------------------|
+| ❓ What     | Knowing definitions or facts                     |
+| 💭 Why      | Understanding purpose or relevance               |
+| 🔧 **How**  | Practicing, experimenting, trying things out     |
+
+This course is your **practice ground** — a place to try, test, make mistakes, and try again.
+
+
 Many of our learners come from **non-technical backgrounds**. They’ve tried learning online before but got stuck, overwhelmed, or gave up. That’s why we focus on making learning **practical, reflective, and personal** — not just theoretical.
 
----
+<br>
+
 
 ## 🎯 Why Project-Based Learning Works
 
