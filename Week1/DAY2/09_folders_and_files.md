@@ -1,4 +1,4 @@
-# 🗂️ Folders and Files: Organizing your digital workspace
+# 🗂️ Folders and Files: organizing your digital workspace
 
 Before we dive deeper into learning tools, let’s start with a habit that can save you time, stress, and confusion:  
 **keeping your digital workspace organized**.
