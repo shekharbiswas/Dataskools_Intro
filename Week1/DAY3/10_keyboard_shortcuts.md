@@ -15,7 +15,8 @@ Start with just a few — and you’ll feel the difference immediately.
   <img src="https://github.com/user-attachments/assets/81f0765e-80c6-4eca-a29b-ef7cd99e1ded" alt="image" width="356">
 </p>
 
----
+<br>
+
 
 ## ✂️ Most Useful Shortcuts (Work Everywhere)
 
@@ -30,7 +31,9 @@ Start with just a few — and you’ll feel the difference immediately.
 | Find/Search        | `Ctrl + F`             | `Cmd + F`            |
 | Save               | `Ctrl + S`             | `Cmd + S`            |
 
----
+<br>
+
+
 
 ## 🧭 What Programmers and Power Users Do Differently
 
@@ -48,7 +51,7 @@ Here’s how they save time every single day:
 > 💡 **It’s not about speed. It’s about flow.**  
 > The fewer micro-decisions you make, the more energy you save for solving real problems.
 
----
+<br>
 
 ## 🧠 Typing + Navigation Shortcuts
 
@@ -60,7 +63,7 @@ Here’s how they save time every single day:
 | Move cursor to line end       | `End`                  | `Cmd + Right Arrow` |
 | Select word left/right        | `Ctrl + Shift + ←/→`   | `Option + Shift + ←/→` |
 
----
+<br>
 
 ## 🕒 Why Saving Time Matters (Especially in Learning)
 
@@ -72,7 +75,7 @@ Here’s how they save time every single day:
 
 > 🧘 “Small efficiency habits add up to big mental clarity.”
 
----
+<br>
 
 ## ⚡ Try These Challenges This Week
 
@@ -82,7 +85,7 @@ Here’s how they save time every single day:
 4. Press `Undo` (`Ctrl + Z`) with zero fear — try, undo, retry  
 5. Use `Tab` to indent code, and `Shift + Tab` to back it up
 
----
+<br>
 
 ## 📝 Summary
 
