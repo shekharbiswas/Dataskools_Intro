@@ -3,9 +3,22 @@
 You’ve probably heard names like **ChatGPT**, **Canva**, or **Notion AI**.  
 But what are these tools really doing — and why are they everywhere right now?
 
-In this course, you’ll use some of these tools not just to learn faster, but to **think better**, write smarter, and build more creatively.
+AI tools are no longer just for engineers or researchers.  
+They’re in your browser, your phone, your email app, and maybe even your calendar.  
+They're helping people write essays, design resumes, brainstorm business ideas, and even generate poetry — all with just a sentence.
+
+In this course, you’ll use some of these tools not just to learn faster,  
+but to **think better**, write smarter, and build more creatively.
+
+You’ll discover how to:
+- Ask the right questions (not just get answers)  
+- Turn a rough idea into something real  
+- Collaborate with AI instead of competing with it  
+
+> 💡 The future isn’t about replacing humans. It’s about **working alongside smarter tools**.
 
 Let’s break it down 👇
+
 
 <br>
 
