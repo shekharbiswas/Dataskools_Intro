@@ -58,6 +58,8 @@ _Italic text_
 `Inline code`
 </pre>
 
+📚 For more examples and extended syntax, visit:  
+[Markdown Guide – Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 You can try editing an existing README or create a new `.md` file and experiment.
 
