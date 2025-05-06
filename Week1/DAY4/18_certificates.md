@@ -13,9 +13,9 @@ This is the one we want you to aim for.
 It means you’ve:
 
 - Finished **all the modules**
-- Participated in at least **one mock interview**
+- Participated in the **mock interviews**
 - Shared your **final project or reflection**
-- Maintained a consistent presence throughout the course
+- Maintained a _consistent_ presence throughout the course
 
 This certificate is personalized, signed, and shareable on LinkedIn, GitHub, or your résumé.
 
