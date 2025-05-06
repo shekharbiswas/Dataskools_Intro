@@ -17,6 +17,10 @@ This system isn’t just about technology. It’s about helping **you** stay foc
 
 Let’s zoom out and look at the big picture of how it all flows.
 
+<br>
+
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/59a7ca63-c027-43a7-88bf-d889b8b7189f" />
+
 
 <br>
 
