@@ -82,4 +82,4 @@ We don’t measure you by certificates — we measure you by your growth.
 But if a certificate helps you **move forward**, we’ll do everything we can to help you earn one.
 
 > 🎯 Your job is to keep showing up.  
-> Our job is to keep guiding you — until you're proud of your progress.
+> Our job is to keep guiding you — until you achieved what you wanted.
