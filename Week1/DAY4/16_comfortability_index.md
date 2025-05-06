@@ -1,11 +1,23 @@
-# 📊 16. Comfortability index: measuring your progress without pressure
+# 📊 CI: measuring your progress without pressure
 
-How do you know you’re actually growing?
+How do you know you’re actually growing — especially in a course without grades or traditional tests?
 
-You may not have grades or exams here — but you still need a way to check in with yourself.  
-That’s why we use the **comfortability index**: a weekly reflection tool to help you understand how you're feeling about what you're learning.
+Learning is more than just completing tasks.  
+It’s about how you feel as you learn: confident, curious, overwhelmed, unsure, or excited.  
+These emotions matter — because they shape your ability to keep going.
+
+That’s why we use something called the **comfortability index (CI)**.
+
+It’s not a score to impress anyone.  
+It’s a personal weekly check-in that helps you pause, reflect, and ask:  
+> “How am I feeling about what I’m learning — and what do I need next?”
+
+This index gives **you** clarity.  
+It helps **your mentors** understand how to guide you.  
+And over time, it becomes a powerful way to see just how far you’ve come.
 
 It's simple. It's honest. And it's just for you.
+
 
 <br>
 
