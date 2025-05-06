@@ -95,3 +95,7 @@ You’re building the habits of someone who improves no matter the circumstances
 
 Even if you feel behind — especially if you feel behind — reflection helps you reset and keep going.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90e95d22-1fb5-4ffe-8435-1233012732c1" alt="image" width="400">
+</p>
+
