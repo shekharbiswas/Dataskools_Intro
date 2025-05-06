@@ -72,7 +72,7 @@ You can also request a **mock interview anytime** — for example:
 
 <br>
 
-## ❓ Example Questions (Week 1 Style)
+## ❓ Example Questions (_if it was on Week 1_)
 
 These are NOT technical questions. They help you reflect and articulate what you’ve absorbed so far.
 
@@ -83,7 +83,7 @@ These are NOT technical questions. They help you reflect and articulate what you
 5. What does “learning system” mean to you after this week?
 
 You don’t need to prepare “perfect answers.”  
-Just be honest, thoughtful, and open to feedback.
+Just be curious, honest, thoughtful, and open to feedback.
 
 <br>
 
@@ -93,7 +93,7 @@ Just be honest, thoughtful, and open to feedback.
 - Reflect on what you found easy vs. what felt hard  
 - Think of questions you’d like to ask your mentor  
 - Keep a curious mindset — this is a two-way learning moment  
-- Practice speaking out loud — even to yourself!
+- Practice _speaking out loud_ — even to yourself!
 
 > 🧠 Mock interviews are about **you**, not a syllabus. 
 
