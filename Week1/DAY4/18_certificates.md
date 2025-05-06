@@ -44,7 +44,7 @@ You may hear us mention external tools like:
 - Tableau visualizations  
 - Azure, AWS, or cloud certifications  
 
-Here’s the honest answer:
+Here’s how you can achieve those:
 
 These are **not included by default** — but they are **supported** by us.
 
