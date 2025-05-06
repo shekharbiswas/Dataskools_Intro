@@ -131,53 +131,116 @@ You'll get familiar with the tools, mindset, and systems you'll use throughout y
 
 <br>
 
-
-
-
 ## 📅 Day 3: Core Skills + Terminologies
 
-### `10_keyboard_shortcuts.md`
-- Useful shortcuts (copy, paste, undo, tab)
-- Tips for saving time
+<details>
+<summary>⌨️ 10_keyboard_shortcuts.md</summary>
+<br>
 
-### `11_terminal_vs_gui.md`
-- What is a terminal?
-- What is a GUI? (Graphical User Interface)
-- Simple, real-life analogies
+- ✂️ Useful shortcuts (copy, paste, undo, tab)  
+- ⚡ Tips for saving time  
+- 🧠 How shortcuts help you work like a pro  
 
-### `12_ai_tool_explainer.md`
-- What are AI tools like ChatGPT, Canva, Notion?
-- How you’ll use them in this course
-
-### `13_how_things_work_together.md`
-- How GitHub, Zoom, Calendar work as one system
-- Big picture: Your learning ecosystem
+</details>
 
 <br>
 
+<details>
+<summary>💻 11_terminal_vs_gui.md</summary>
+<br>
+
+- 🔲 What is a terminal?  
+- 🖼️ What is a GUI (Graphical User Interface)?  
+- 📚 Simple, real-life analogies to understand both  
+
+</details>
+
+<br>
+
+<details>
+<summary>🤖 12_ai_tool_explainer.md</summary>
+<br>
+
+- 🧠 What are AI tools like ChatGPT, Canva, Notion?  
+- 🧰 How you’ll use them in this course  
+- 💥 Cool examples to open your thinking  
+
+</details>
+
+<br>
+
+<details>
+<summary>🔗 13_how_things_work_together.md</summary>
+<br>
+
+- 🌐 How GitHub, Zoom, Calendar work as one system  
+- 🧭 The big picture: your learning ecosystem  
+- 📝 Markdown tips and README guidance  
+
+</details>
+
+<br>
+<br>
 
 ## 📅 Day 4: Confidence + Reflection
 
-### `14_mock_interviews.md`
-- What is a mock interview?
-- Why we use them (even early on)
-- How to prepare for one
+<details>
+<summary>🎤 14_mock_interviews.md</summary>
+<br>
 
-### `15_self_learning_tips.md`
-- How to learn independently
-- Dealing with self-doubt
-- Knowing when to ask for help
+- 🗣️ What is a mock interview?  
+- 🧪 Why we use them (even early on)  
+- 🧘 How to prepare and reflect with confidence  
 
-### `16_comfortability_index.md`
-- What it is, why it matters
-- How you’ll rate yourself each week
+</details>
 
-### `17_weekly_reflection.md`
-- A simple journaling prompt
-- What to reflect on each week
+<br>
 
-### `18_certificates.md`
-- What certificates you can earn
-- How to showcase your progress
+<details>
+<summary>🧘 15_self_learning_tips.md</summary>
+<br>
+
+- 🧭 How to learn independently  
+- 💭 Dealing with self-doubt  
+- ✋ Knowing when to ask for help  
+
+</details>
+
+<br>
+
+<details>
+<summary>📊 16_comfortability_index.md</summary>
+<br>
+
+- 📏 What is the Comfortability Index?  
+- 🔁 How it helps you track emotional and learning growth  
+- 📈 Weekly check-ins for real progress  
+
+</details>
+
+<br>
+
+<details>
+<summary>🪞 17_weekly_reflection.md</summary>
+<br>
+
+- 📝 A simple journaling prompt  
+- 📆 What to reflect on each week  
+- 💡 Why even low weeks matter for growth  
+
+</details>
+
+<br>
+
+<details>
+<summary>🎓 18_certificates.md</summary>
+<br>
+
+- 🥇 What certificates you can earn (completion vs participation)  
+- 🌟 How to showcase your progress on GitHub and LinkedIn  
+- 🤝 Why we mention external tools like Coursera or cloud certs  
+
+</details>
 
 ---
+
