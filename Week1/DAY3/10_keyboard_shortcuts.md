@@ -8,6 +8,13 @@ That’s why **professionals use keyboard shortcuts**: to stay in flow, reduce d
 You don’t need to memorize dozens of shortcuts.  
 Start with just a few — and you’ll feel the difference immediately.
 
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81f0765e-80c6-4eca-a29b-ef7cd99e1ded" alt="image" width="356">
+</p>
+
 ---
 
 ## ✂️ Most Useful Shortcuts (Work Everywhere)
