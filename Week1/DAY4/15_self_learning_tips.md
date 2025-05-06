@@ -2,8 +2,15 @@
 
 No one can learn for you — but you’re never truly learning alone either.
 
-In this course, we guide you. Your mentors support you.  
-But the real spark comes when **you start owning your learning** — at your pace, in your style, with your energy.
+Every learner’s path is unique. Some move quickly, others take it step by step.  
+Some feel confident early, others build confidence over time. All of that is okay.
+
+In this course, we give you structure.  
+Your mentors give you guidance.  
+But the **real transformation** begins when **you take charge of your learning** — when you start choosing curiosity over fear, progress over perfection.
+
+You don’t need to get everything right.  
+You just need to keep showing up, asking questions, and building small wins each week.
 
 Let’s talk about how to grow that spark 🔥
 
@@ -41,6 +48,12 @@ Remember: **the act of trying again is part of the learning.**
 > 💬 “Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.” — Napoleon Hill
 
 <br>
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/e818cdf7-ba4f-4971-8b15-02369fd98cbc" />
+
+<br>
+
+
 
 ## 🌱 The role of IKIGAI in learning
 
