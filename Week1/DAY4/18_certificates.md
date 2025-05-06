@@ -1,4 +1,4 @@
-# 🎓 18. Certificates: what you earn and how to show your progress
+# 🎓Certificates: what you earn and how to show your progress
 
 Certificates aren’t the main goal — but they help you **mark your journey** and **show the world what you’ve done**.
 
