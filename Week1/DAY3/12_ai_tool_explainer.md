@@ -1,4 +1,4 @@
-# 🤖 12. AI Tool Explainer: What You’ll Use and Why It’s Powerful
+# 🤖 AI Tool Explainer
 
 You’ve probably heard names like **ChatGPT**, **Canva**, or **Notion AI**.  
 But what are these tools really doing — and why are they everywhere right now?
