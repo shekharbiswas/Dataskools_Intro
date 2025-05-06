@@ -7,7 +7,7 @@ In this course, you’ll use some of these tools not just to learn faster, but t
 
 Let’s break it down 👇
 
----
+<br>
 
 ## 🧠 What Are AI Tools?
 
