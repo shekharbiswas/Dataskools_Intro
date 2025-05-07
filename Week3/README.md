@@ -13,8 +13,8 @@
 | Day     | Title                          | Description                                           | Effort Level     |
 |---------|--------------------------------|-------------------------------------------------------|------------------|
 | Day 1   | Thinking like an analyst       | Builds mindset, ethics, and structured questioning    | ⭐⭐ Light         |
-| Day 2   | Measuring & describing data    | Understand distributions and summary stats            | ⭐⭐⭐ Medium        |
-| Day 3   | Probability & sampling         | Apply logic to chance, randomness, and fairness       | ⭐⭐⭐⭐ High         |
+| Day 2   | Measuring & describing data    | Understand distributions and summary stats            | ⭐⭐ Light         |
+| Day 3   | Probability & sampling         | Apply logic to chance, randomness, and fairness       | ⭐⭐⭐ Medium        |
 | Day 4   | A/B testing & interpretation   | Real-world experimentation and decision-making        | ⭐⭐⭐⭐ High         |
 
 💡 This week combines **real-life data scenarios** with **core statistical thinking** — building confidence without making math scary.
