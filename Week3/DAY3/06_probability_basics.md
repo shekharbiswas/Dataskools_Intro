@@ -4,6 +4,8 @@
 <br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e327ee8f-ecff-4578-ba6d-555f819f383d" />
 <br>
+<br>
+
 
 Probability is a way of **measuring uncertainty**.  
 It tells us how likely something is to happen — but it **doesn't guarantee** it will.
