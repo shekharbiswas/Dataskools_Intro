@@ -99,6 +99,8 @@ This week is designed to help you:
 
 <br>
 
+## 📅 Day 4: Thinking like an analyst
+
 <details>
 <summary>📘 07_how_data_supports_decisions.md</summary>
 <br>
@@ -111,50 +113,14 @@ This week is designed to help you:
 
 <br>
 
-## 📅 Day 4: Thinking like an analyst
-
 <details>
-<summary>📘 08_data_visualization_basics.md</summary>
+<summary>📘 08_what_worked_what_didnt.md</summary>
 <br>
 
-- 📈 Why visualization is more than just “making charts”  
-- 🎨 Matching chart types to data stories  
-- 🧠 The impact of visual clarity on decision-making
+- 📅 Measuring the impact of data-driven decisions  
+- 📊 Analyzing results: did the plan succeed or need adjusting?  
+- 🔁 Using data feedback loops to refine future choices
 
 </details>
 
-<br>
 
-<details>
-<summary>📘 09_analytical_mindset.md</summary>
-<br>
-
-- 💭 What makes someone think like an analyst?  
-- ❓ How to ask better, more structured questions  
-- 🧠 Building your “data thinking muscle”
-
-</details>
-
-<br>
-
-<details>
-<summary>📘 10_data_literacy_basics.md</summary>
-<br>
-
-- 📖 What it means to be data literate in today’s world  
-- 📉 How to interpret dashboards, trends, metrics, and visualizations  
-- 🚩 Spotting misleading charts or metrics
-
-</details>
-
-<br>
-
-<details>
-<summary>📘 11_data_ethics_and_bias.md</summary>
-<br>
-
-- ⚖️ Why bias in data or algorithms matters  
-- 🧬 Examples of ethical risks in hiring, lending, and more  
-- 🤝 How analysts can be ethical and responsible with data
-
-</details>
