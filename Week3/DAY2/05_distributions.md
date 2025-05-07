@@ -32,11 +32,7 @@ She noticed:
 - Fat tail = unpredictable spikes made her run out of stock
 
 <br>
-<br>
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/d664523f-45e0-4107-820d-41617581a02c" />
-
-<br>
 
 ## 📈 Understanding Right-Skewed Distributions (with Real Data)
 
@@ -48,6 +44,12 @@ A **right-skewed distribution** happens when:
 <br>
 
 ### 🔍 Let's look at Lina’s lemonade sales:
+
+<br>
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d664523f-45e0-4107-820d-41617581a02c" />
+
+<br>
 
 ```text
 [8, 8, 8, 9, 10, 10, 11, 12, 30, 40]
