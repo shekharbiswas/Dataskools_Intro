@@ -31,7 +31,7 @@ She uses **descriptive stats** to get answers.
 |--------|--------------------------------|------------------------------------------------|
 | Mean   | The average                    | 10 + 12 + 8 = 30 → Mean = 30 ÷ 3 = 10          |
 | Median | The middle value (when sorted) | [8, 10, 12] → Median = 10                      |
-| Mode   | The most frequent value        | If she sold 10 cups on 4 days → Mode = 10      |
+| Mode   | The most frequent value        | If she sold 10 cups on 4 days out of 5 days → Mode = 10      |
 
 💡 **Use mean** to describe general behavior.  
 💡 **Use median** when data has outliers (e.g., one super high day).  
