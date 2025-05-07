@@ -17,7 +17,7 @@ But in the real world, **not every decision guarantees results**. That’s why t
 
 We’ll use her **updated sales data from June 15–28** to review:
 
-🔗 [**Download: Post-decision Sales Data**]()
+🔗 [**Download: Post-decision Sales Data**](lina_post_decision_sales.xlsx)
 
 ---
 
