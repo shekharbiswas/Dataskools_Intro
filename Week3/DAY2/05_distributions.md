@@ -14,7 +14,7 @@ For companies, it’s the difference between:
 - A solid product launch  
 - Or a total flop due to 1% of users crashing the system
 
----
+<br>
 
 ## 🍋 Lina’s January: Three weeks, three stories
 
@@ -31,7 +31,8 @@ She noticed:
 - Skewed = one big day throws off the average  
 - Fat tail = unpredictable spikes made her run out of stock
 
----
+<br>
+
 
 ## 🧠 What does this mean for planning?
 
@@ -46,7 +47,8 @@ Lina used this to improve:
 - 🧑‍🍳 Her prep time  
 - 📈 Her expectations for weekends
 
----
+<br>
+
 
 ## 🏦 Real-world examples of distribution risk
 
@@ -57,7 +59,8 @@ Lina used this to improve:
 | Ride-sharing wait times | Fat tail | Average = 5 min, but some days are 20+ due to storms |
 | Social media likes | Right-skewed   | A few posts go viral, most stay low                  |
 
----
+<br>
+
 
 ## 🐳 What are fat tails?
 
@@ -75,7 +78,8 @@ She needs to:
 📦 In business, fat tails = unexpected costs, loads, or demand.  
 🧠 Smart analysts **plan for rare but risky events**.
 
----
+<br>
+
 
 ## 📏 Distribution shape = better decisions
 
@@ -85,7 +89,7 @@ She needs to:
 | App success rate          | 90% sounds good                        | But if 10% are total crashes = serious issue |
 | Test scores               | Average = 70                           | But some students are scoring 30 = help gap  |
 
----
+<br>
 
 ## 💬 Reflection prompts
 
@@ -93,7 +97,8 @@ She needs to:
 - What kind of data in your life might have a fat tail?
 - Why do companies care about outliers, not just trends?
 
----
+<br>
+
 
 ## ✅ Self-check questions
 
@@ -117,7 +122,8 @@ A rare but extreme event that happens more often than you'd expect in a normal d
 Because it affects how much stock, money, or time they should prepare for — not just the average case.
 </details>
 
----
+<br>
+
 
 ## 🏁 Summary
 
@@ -134,5 +140,3 @@ Knowing whether your data is **balanced, skewed, or spiky** helps you:
 
 Next up: What’s the chance something will happen again?  
 Let’s talk about **probability**.
-
-📘 Go to: `14_probability_basics.md` →
