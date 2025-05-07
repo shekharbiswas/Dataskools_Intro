@@ -1,7 +1,8 @@
 ## 🔗 The Data value chain: _raw data_ into _decisions_
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/e6d9e292-3ab6-4bb2-bd62-3bd992215d08" />
-
+<div align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/e8b9713d-2e8f-4469-aa9c-36bddf2b4485" />
+</div>
 Think of data like raw ingredients in a kitchen. 
 
 On its own, it’s not useful. But when you prepare it, combine it, and serve it well — it becomes a powerful dish that satisfies a purpose.
