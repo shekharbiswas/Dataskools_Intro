@@ -1,5 +1,11 @@
 # 🚛 What are data pipelines?
 
+<br>
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b18d1593-2582-4084-ae8e-63b077508dd5" />
+
+<br>
+
 Think of a data pipeline like a delivery service for information.
 
 Just as Amazon collects items from warehouses, sorts them in transit, and delivers them to your doorstep — **a data pipeline moves raw data from where it’s created to where it’s needed**, usually cleaned and organized along the way.
