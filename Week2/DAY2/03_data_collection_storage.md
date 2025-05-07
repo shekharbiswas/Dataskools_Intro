@@ -1,4 +1,4 @@
-📅 Collecting & organizing data
+# 📅 Collecting & organizing data
 
 Welcome to **Day 2** of your data journey! Today we’re diving into one of the most foundational aspects of working with data — **how it is collected, where it comes from, and how it's stored** so it can be accessed, used, and trusted.
 
