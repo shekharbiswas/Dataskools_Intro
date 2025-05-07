@@ -15,6 +15,12 @@ She logs:
 - The **price** per cup  
 - Any **customer notes**
 
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/05d6899c-def4-470d-9daa-49d7fdaaac66" />
+
+<br>
+
 Here’s a **sample of her spreadsheet before cleaning**:
 
 | Date       | Flavor   | Cups | Price | Notes            |
