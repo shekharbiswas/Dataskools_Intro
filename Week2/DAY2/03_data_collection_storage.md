@@ -214,7 +214,6 @@ Here are some beginner-friendly tools to experiment with:
 | Google Sheets    | Spreadsheet-based data storage | https://sheets.google.com        |
 | SQLite           | Lightweight SQL database       | https://sqlite.org               |
 | MongoDB Atlas    | Cloud NoSQL database           | https://www.mongodb.com/atlas    |
-| GitHub           | File version control & storage | https://github.com               |
 | Firebase         | Realtime database + hosting    | https://firebase.google.com      |
 | Airtable         | Hybrid spreadsheet + database  | https://airtable.com             |
 
@@ -226,83 +225,76 @@ Here are some beginner-friendly tools to experiment with:
 
 ## 🧪 Mini tasks to practice
 
-It's time to apply what you've learned.
+It's time to apply what you've learned — not by building anything complex, but by thinking critically and exploring tools used in real-world data collection and storage.
 
-In this task, you will create a **README file** that documents a simple data collection and storage plan. But there's more — we want you to **review each tool listed in the “🛠️ Tools to try out” section**, explore what kind of data each tool can handle, and reflect on which tools seem most useful to you and why.
+In this task, you'll **create a README** where you describe a fictional or real-life data collection and storage scenario. More importantly, you’ll **research and reflect on the tools listed in the “🛠️ Tools to try out” section**.
+
+You don’t have to install or configure anything. Just **read documentation**, browse tutorials, or look at screenshots. The focus is on **understanding what each tool does**, what kind of data it supports, and **how you might use it in your own project (or why not).**
 
 ### 🎯 Goal
 
-You will simulate the planning process of a small data project. Imagine you’re setting up a system for collecting and storing data for a specific use case (it could be something from your real life or a fictional scenario). You'll describe:
-- Where the data is coming from  
-- How it’s collected  
-- Where and how it will be stored  
-- Who has access to it  
-- What tools could be used at each step  
-- Your thoughts on each tool you tried or researched
+You will document a small-scale data idea and reflect on tool choices — all in one clear, well-structured README.
 
 ### ✅ What you need to do
 
-1. Pick a data scenario you’re familiar with  
-   - Examples: tracking your own expenses, recording YouTube video stats, gathering feedback from friends, or monitoring study hours
+1. **Pick a simple data scenario** you care about  
+   - Example ideas: tracking your own expenses, managing a class attendance log, monitoring social media followers, or collecting product reviews
 
-2. Browse and explore the tools listed in the "🛠️ Tools to try out" section above  
-   - You don’t have to install or use them all, but do read their documentation, check examples, or try basic usage if possible  
-   - Ask: What type of data is this tool good for? Who would benefit from it? What are its strengths and limitations?
+2. **Explore all the tools** listed in the “🛠️ Tools to try out” section  
+   - You don’t need to install anything  
+   - Read documentation, browse product pages, or watch a quick demo  
+   - Ask yourself:
+     - What type of data is this tool meant for?  
+     - Who would benefit from using it?  
+     - What format does it support (structured/unstructured, real-time/batch)?  
+     - What are its strengths and limitations?
 
-3. Create a `README.md` in your GitHub repository and include:
-   - A clear overview of your data source  
-   - Where the data will be stored (and why that format/tool makes sense)  
-   - Which tools you evaluated and what you think of each one  
-   - What kind of data each tool supports (structured, unstructured, real-time, etc.)  
-   - A brief personal reflection: Which tool would you choose for your project and why?
+3. **Write a README.md** in your GitHub repository. Include:
+   - 📌 A short description of your chosen data scenario  
+   - 💾 How the data could be collected and stored  
+   - 🧰 A tool-by-tool review based on your research (see example)  
+   - 💬 A final reflection on which tools seem most useful and why  
 
 ### 📘 Example README snippet
 
 ```markdown
 ## ☕ Café Sales Data Project
 
-This project explores how a local café could collect and store its daily sales data for future analysis.
+This README outlines how a small café might think about collecting and storing daily sales data, along with an exploration of common data tools.
 
 **Source:** POS system at the café  
 **Collected via:** Daily export from the sales terminal in CSV format  
-**Stored in:** `sales_data.csv` file hosted on GitHub repository for easy tracking  
-**Access:** Limited to the café manager and data analyst  
-**Use case:** To analyze product sales trends, staff efficiency, and peak business hours
+**Stored in:** `sales_data.csv` hosted on GitHub  
+**Access:** Manager and part-time analyst  
+**Goal:** Analyze product performance and identify slow hours
 
 ### 🔍 Tool Review
 
 **Google Sheets**  
-- Handles: Small structured datasets (CSV, table format)  
-- Easy to use, shareable, real-time collaboration  
-- Best for early-stage projects or when multiple people need to access and comment on the data  
-- Limitation: Doesn’t scale well for large data or automation
+- Good for: Small, structured data (tables, surveys)  
+- Strengths: Easy to use, collaborative, beginner-friendly  
+- Limitation: Manual workflows, no built-in automation  
 
 **SQLite**  
-- Handles: Structured data in tables  
-- Very lightweight, no server needed  
-- Perfect for local experiments and beginner SQL practice  
-- Limitation: Local-only, limited support for large-scale analysis
+- Good for: Structured tabular data  
+- Strengths: Lightweight, supports SQL, no server required  
+- Limitation: Not ideal for shared or cloud-based use  
 
 **MongoDB Atlas**  
-- Handles: Semi-structured/unstructured JSON-style documents  
-- Good for data with flexible schema (e.g., product reviews)  
-- Free tier available, great docs  
-- Limitation: Requires understanding of NoSQL concepts
+- Good for: Semi-structured or flexible schema (like product reviews or form data)  
+- Strengths: Free tier, cloud-based, handles JSON documents well  
+- Limitation: More complex learning curve for beginners  
 
 **Firebase**  
-- Handles: Realtime unstructured or semi-structured data  
-- Great for apps that need real-time updates (chat apps, sensors)  
-- Best for mobile/web developers  
-- Limitation: May be overkill for small projects
+- Good for: Real-time, app-based data (chat apps, sensors)  
+- Strengths: Fast syncing, built for mobile/web devs  
+- Limitation: Overkill for non-developers or small projects  
 
 **Airtable**  
-- Handles: Structured datasets, feels like a spreadsheet but supports databases  
-- Visually friendly, supports small teams  
-- Easy to get started with templates  
-- Limitation: Not free at scale, fewer automation options than full databases
+- Good for: Visual database use, spreadsheet-style teams  
+- Strengths: Friendly UI, good templates, low learning curve  
+- Limitation: Not ideal for advanced data automation or large scale
 
 ### 📝 Reflection
 
-For this café use case, I would choose **Google Sheets** to start — it’s easy to use and share. Later, I would migrate to **SQLite** or **Airtable** for better structure and query support.
-
-
+While Google Sheets is easy to start with, it lacks structure. For this scenario, I would likely explore Airtable first due to its spreadsheet-like feel and better organization. MongoDB would be interesting if I later want to store user reviews or chat-like data.
