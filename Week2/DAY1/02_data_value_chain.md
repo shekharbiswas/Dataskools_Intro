@@ -1,6 +1,6 @@
 ## 🔗 The Data Value Chain: Turning Raw Data Into Decisions
 
-![Data Value Chain Diagram](https://opendatawatch.com/wp-content/uploads/2018/06/Data-Value-Chain-Executive-Summary.png)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e6d9e292-3ab6-4bb2-bd62-3bd992215d08" />
 
 Think of data like raw ingredients in a kitchen. On its own, it’s not useful. But when you prepare it, combine it, and serve it well — it becomes a powerful dish that satisfies a purpose.
 
