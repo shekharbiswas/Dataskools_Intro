@@ -124,7 +124,7 @@ A chart that hides or distorts the real message — often by **starting the y-ax
 
 <br>
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/bd0b5076-20f2-45ce-86f5-70762e7a6004" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d7c9e2a0-35e4-480b-8393-6994dcdda645" />
 
 <br>
 
