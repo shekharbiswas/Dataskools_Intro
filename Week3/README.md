@@ -26,7 +26,7 @@
 ### 📅 Day 1: Analytical Thinking Foundations
 
 <details>
-<summary>📘 09_analytical_mindset.md</summary>
+<summary>📘 01_analytical_mindset.md</summary>
 <br>
 
 - 💭 What makes someone think like an analyst?  
@@ -38,7 +38,7 @@
 <br>
 
 <details>
-<summary>📘 10_data_literacy_basics.md</summary>
+<summary>📘 02_data_literacy_basics.md</summary>
 <br>
 
 - 📖 What it means to be data literate in today’s world  
@@ -50,7 +50,7 @@
 <br>
 
 <details>
-<summary>📘 11_data_ethics_and_bias.md</summary>
+<summary>📘 03_data_ethics_and_bias.md</summary>
 <br>
 
 - ⚖️ Why bias in data or algorithms matters  
@@ -64,7 +64,7 @@
 ### 📅 Day 2: Measuring & Describing Data
 
 <details>
-<summary>📘 12_descriptive_stats.md</summary>
+<summary>📘 04_descriptive_stats.md</summary>
 <br>
 
 - 📊 Mean, median, mode, and why they’re different  
@@ -76,7 +76,7 @@
 <br>
 
 <details>
-<summary>📘 13_distributions.md</summary>
+<summary>📘 05_distributions.md</summary>
 <br>
 
 - 🔔 What is a normal distribution?  
@@ -90,7 +90,7 @@
 ### 📅 Day 3: Probability, Uncertainty, and Sampling
 
 <details>
-<summary>📘 14_probability_basics.md</summary>
+<summary>📘 06_probability_basics.md</summary>
 <br>
 
 - 🎲 What is probability, really?  
@@ -102,7 +102,7 @@
 <br>
 
 <details>
-<summary>📘 15_sampling_and_bias.md</summary>
+<summary>📘 07_sampling_and_bias.md</summary>
 <br>
 
 - 🧪 How we select data points (and why it matters)  
@@ -116,7 +116,7 @@
 ### 📅 Day 4: Testing Ideas with A/B Experiments
 
 <details>
-<summary>📘 16_ab_testing_basics.md</summary>
+<summary>📘 08_ab_testing_basics.md</summary>
 <br>
 
 - 🧪 What is A/B testing and how does it work?  
@@ -128,7 +128,7 @@
 <br>
 
 <details>
-<summary>📘 17_interpreting_results.md</summary>
+<summary>📘 09_interpreting_results.md</summary>
 <br>
 
 - 🧾 Understanding p-values, statistical significance (without the scary math)  
