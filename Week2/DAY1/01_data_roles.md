@@ -1,4 +1,4 @@
-# 📘 01. data roles: who does what in the data world?
+# 📘 Data roles: _who does what_?
 
 Welcome to the modern world of data careers.
 
