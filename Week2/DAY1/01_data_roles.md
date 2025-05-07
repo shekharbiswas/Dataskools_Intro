@@ -145,6 +145,7 @@ BI analysts create dashboards, automate reports, and support the daily decision-
 <summary>❓ What’s the difference between a data analyst and a BI analyst?</summary>
 <br>
 ✅ A data analyst answers new questions with exploration.  
+  
 ✅ A BI analyst focuses on automated dashboards and repeatable reporting.
 </details>
 
