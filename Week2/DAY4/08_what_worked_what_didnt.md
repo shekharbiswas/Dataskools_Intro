@@ -1,4 +1,6 @@
-# What worked and what didn’t?
+# 📘 08_what_worked_what_didnt.md
+
+## 📅 Day 4: What worked and what didn’t?
 
 <br>
 
@@ -6,84 +8,104 @@
 
 <br>
 
-Now that Lina has tested her ideas, it’s time to reflect on what actually happened.  
-She made 3 data-informed decisions — but did they all work?
+Now that Lina has **tested her data-informed ideas**, it’s time to reflect on what actually happened.
 
-Let’s analyze her **new sales data from June 15–28** using her updated spreadsheet:
+She made 3 smart, simple business decisions based on:
+- Clean data  
+- Trends spotted during EDA  
+- Her own curiosity and instinct
 
-🔗 [**Post-decision Sales Data**]()
+But in the real world, **not every decision guarantees results**. That’s why this lesson is important: to check back and ask, **"Did it work?"**
+
+We’ll use her **updated sales data from June 15–28** to review:
+
+🔗 [**Download: Post-decision Sales Data**]()
 
 ---
 
 ## ✅ Decision 1: Promote Lemon on weekends
 
 ### 🧠 What she did:
-- Doubled lemon stock on weekends  
-- Placed a “Best Seller” chalkboard promo sign  
+- Doubled lemon stock on Saturdays and Sundays  
+- Placed a big chalkboard saying:  
+  _“Best Seller: Classic Lemon – Try it Today!”_
 
 ### 🔍 What the data shows:
-- Lemon sales on **Saturdays and Sundays** consistently hit 12–15 cups  
-- Midweek sales stayed between 7–10 cups  
-- Notes like “chalkboard promo” appear on weekends
+- Lemon sales on weekends consistently reached **12–15 cups**  
+- Weekday sales stayed stable around **7–10 cups**  
+- Notes like `"chalkboard promo + with cousin"` confirm action was taken
 
 ### 🎯 Outcome:
 **✔️ It worked.**  
-The chalkboard and stock boost led to higher weekend sales without hurting weekdays. Lina should keep doing this — maybe try midweek promos next!
+The promotion **boosted weekend sales** without hurting weekday performance. This shows that a simple visual cue and more stock helped Lina maximize peak opportunities.
+
+📝 *Lesson for students:* A targeted, low-effort campaign (like a chalkboard) can create noticeable impact — if it’s tied to data timing (weekend) and backed by stock planning.
 
 ---
 
 ## ✅ Decision 2: Raise Mint price from €1.8 to €2.0
 
 ### 🧠 What she did:
-- Raised the price starting June 18  
-- Tracked mint sales before and after the change  
-- Looked for drop in quantity
+- Improved her mint recipe around June 8  
+- Raised the price on June 18  
+- Watched carefully to see if demand dropped
 
 ### 🔍 What the data shows:
-- Mint sales stayed strong at 8–12 cups, even with higher price  
-- Notes like “new mint recipe” appear regularly  
-- No noticeable drop in orders — in fact, some weekends saw increases
+- Mint sales held steady at **8–12 cups**, even after the price increase  
+- No signs of slowdown — some weekend rows even show increases  
+- “new mint recipe” appears often in the notes
 
 ### 🎯 Outcome:
 **✔️ It worked.**  
-Mint fans didn’t mind the price increase — likely because the recipe improvement added value. Lina learned her product upgrade was worth the extra cost.
+Despite the price jump, **mint remained popular**. This tells Lina (and us) that customers will pay more **if they feel the quality improved**.
+
+📝 *Lesson for students:* Pricing changes should always be tested with small steps and good timing. Lina changed one thing at a time (recipe first, price second) — a smart, low-risk strategy.
 
 ---
 
-## ✅ Decision 3: Get weekend help from cousin
+## ✅ Decision 3: Ask cousin to help on busy days
 
 ### 🧠 What she did:
-- Texted her cousin to assist only on weekends  
-- Wanted to improve speed and handle rushes better
+- Brought in her cousin only on Saturdays and Sundays  
+- Goal: speed up service during sales rushes
 
 ### 🔍 What the data shows:
-- “with cousin” appears in weekend rows  
-- Weekend sales rose slightly — but no clear spike due to help  
-- However, **no notes say “long wait” or “slow service”**
+- “with cousin” appears consistently on weekends  
+- No major spike in total cups  
+- BUT there are **no notes about long wait times or slow service**
 
 ### 🎯 Outcome:
 **🟡 Partially worked.**  
-While it's hard to measure speed, smoother service likely helped maintain high sales. Next time, Lina could ask for customer feedback to confirm.
+It’s hard to **measure speed** in the spreadsheet — but it likely helped. What matters is that **weekend sales stayed strong**, and Lina didn’t lose customers due to delays.
+
+📝 *Lesson for students:* Not every impact shows up in charts. Some results — like smoother service or happy customers — may need a **survey, feedback form, or observation** to confirm.
 
 ---
 
 ## 🧠 Business isn’t about perfect results
 
-Every decision has uncertainty. But Lina:
-- Used data to form hypotheses  
-- Took **measured risks**  
-- Collected more data to **learn and improve**
+Lina did what great analysts and business leaders do:
+- Formed **hypotheses** using data  
+- Made **small, reversible changes**  
+- Collected more data  
+- **Learned and adjusted**
 
-That’s what real businesses do — from food stalls to billion-euro companies.
+This loop — test, measure, learn — is what powers growth at every level.
+
+Whether it’s a lemonade stand or a billion-euro company, data helps improve decisions **over time**.
 
 ---
 
-## 💬 Reflection prompts
+## 💬 Reflection prompts for you
 
-- What would you try next if you were Lina?  
-- Is there a way to measure service quality or customer satisfaction?  
-- How could she test midweek promotions?  
-- Would you raise Ginger’s price or keep it stable?
+Try thinking like Lina. Ask yourself:
+- What would you try next?
+- How could Lina measure service quality more directly?
+- Should she test **midweek promos**?
+- Is there any untapped potential in Ginger sales?
+- What happens if she adds a loyalty card for repeat buyers?
+
+These questions build your **analytical mindset** — one decision at a time.
 
 ---
 
@@ -96,17 +118,17 @@ Because it helps you learn from your choices and adjust future actions based on 
 
 <details>
 <summary>📈 How do we know Lemon promotion worked?</summary>
-Sales increased on weekends, especially on days labeled “chalkboard promo”.
+Sales increased on weekends, especially on rows marked “chalkboard promo”.
 </details>
 
 <details>
 <summary>💰 What made the Mint price change successful?</summary>
-Sales stayed high, likely due to improved flavor — so the extra cost didn’t stop buyers.
+Sales stayed strong, likely due to the improved flavor — customers felt it was worth it.
 </details>
 
 <details>
 <summary>🧪 What’s one thing Lina could test next?</summary>
-She could try a midweek flash discount or introduce a loyalty card system.
+She could try a midweek flash discount, offer a “Buy 2 Get 1” deal, or introduce a loyalty punch card.
 </details>
 
 ---
@@ -114,12 +136,16 @@ She could try a midweek flash discount or introduce a loyalty card system.
 ## 🏁 Summary
 
 This final step showed you how to:
-- Compare actions against results  
-- Spot wins and lessons  
-- Refine decisions using real-world data
+- ✅ Compare actions against results  
+- 🔎 Spot wins and lessons  
+- 🔁 Refine decisions using real-world data feedback  
 
-📊 Data is not just for making one good move — it’s for building a habit of learning and improving continuously.
+📊 **Data is not just about numbers — it’s about learning, adapting, and growing.**
 
-You're now thinking like a **mini product manager** — someone who uses data to **test, decide, and evolve**.
+You're now thinking like a **mini product manager** — someone who uses data to:
+- Form ideas  
+- Take action  
+- Measure what happens  
+- Improve over time
 
-Next up? Learn how teams use these skills in real jobs. 🚀
+Up next: Learn how analysts bring this mindset into **real jobs, teams, and industries**. 🚀
