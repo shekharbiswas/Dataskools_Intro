@@ -82,6 +82,12 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 ## 2. Data Storage
 
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/3f79ed79-617b-40bc-9a8f-f08476bf4ca4" />
+
+<br>
+
 **Goal:** Store the collected data in an accessible, secure, and organized way.
 
 
@@ -105,6 +111,12 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 ## 3. Data Processing
 
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/94d511f8-f75f-4f49-ae63-1286a306224f" />
+
+<br>
+
 **Goal:** Clean, filter, and prepare data for analysis.
 
 
@@ -127,6 +139,13 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 <br>
 
 ## 4. Data Analysis
+
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/ef466979-53ce-466c-8aa1-aa073b4fa275" />
+
+<br>
+
 
 **Goal:** Find patterns, relationships, and trends.
 
@@ -166,6 +185,12 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 ## 6. Decision-Making
 
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/e7334bbf-8e12-4728-b3df-8797184aaed1" />
+
+<br>
+
 **Goal:** Use insights to drive action and improve outcomes.
 
 
@@ -183,6 +208,12 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 <br>
 
 ## 7. Communication & Storytelling
+
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/3c930e64-1d9b-44a2-a37b-0c2e26a9a84f" />
+
+<br>
 
 **Goal:** Share the insights clearly with decision-makers and stakeholders.
 
