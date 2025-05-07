@@ -124,7 +124,7 @@ A chart that hides or distorts the real message — often by **starting the y-ax
 
 <br>
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/d7c9e2a0-35e4-480b-8393-6994dcdda645" />
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/78605b5a-27db-4b89-9acd-a6ceb20393a6" />
 
 <br>
 
@@ -136,7 +136,13 @@ Lina creates a bar chart to compare Lemon and Mint sales:
 | Lemon  | 21        |
 | Mint   | 25        |
 
-But her chart starts the y-axis at **20 instead of 0**, so Mint’s bar looks *much taller* than Lemon’s — even though the difference is only **5 cups**.
+
+
+<br>
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/af6399ed-8dff-4973-a8ea-5fcfe179b256" />
+<br>
+
+But if her chart starts the y-axis at **20 instead of 0**, so Mint’s bar looks *much taller* than Lemon’s — even though the difference is only **4 cups**.
 
 That’s misleading!
 
