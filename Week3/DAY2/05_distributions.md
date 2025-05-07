@@ -43,6 +43,15 @@ She noticed:
 
 ## 🧠 What does this mean for planning?
 
+<br>
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/71e1fa36-da24-44bd-8969-c2918c0120e9" />
+
+
+<br>
+<br>
+
+
 | Type           | Mean | Median | Planning Insight                                |
 |----------------|------|--------|--------------------------------------------------|
 | Bell-shaped    | 10   | 10     | Plan confidently around the average              |
