@@ -128,7 +128,7 @@ BI analysts create dashboards, automate reports, and support the daily decision-
 
 <br>
 
-## 📊 summary table: data + AI roles
+## 📊 Summary table: data + AI roles
 
 | Role                    | Main Goal                             | Common Tools                          | Sample Task |
 |-------------------------|----------------------------------------|----------------------------------------|-------------|
@@ -144,7 +144,7 @@ BI analysts create dashboards, automate reports, and support the daily decision-
 
 <br>
 
-## 🧠 check your understanding
+## 🧠 Check your understanding
 
 <details>
 <summary>❓ What’s the difference between a data analyst and a BI analyst?</summary>
