@@ -36,77 +36,98 @@ You can view or copy the spreadsheet here:
 
 ## 🧼 What is messy data?
 
+With over 100 rows now in her spreadsheet, Lina starts to notice a common challenge every data user faces:
+
+**The data looks okay at first glance — but it’s full of small issues.**
+
 Messy data is any data that:
 - Has **inconsistent values** (e.g., "lemon", "Lemon", "LEMON")
-- Has **missing cells** (e.g., no quantity, no date)
-- Has **duplicates** (same row entered more than once)
-- Uses **different formats** (e.g., date in wrong format, prices in text)
+- Has **missing cells** (e.g., no number of cups, no date)
+- Has **duplicates or near-duplicates** (copied rows, repeated entries)
+- Uses **uncontrolled formats** (e.g., GINGER, ginger, or blank notes)
 
-Just like a cluttered kitchen slows down cooking, messy data **slows down or misleads analysis**.
+Just like a cluttered kitchen slows down cooking, messy data **slows down — or completely derails — your analysis**.
+
+Lina doesn’t need complex tools to fix it. A simple Google Spreadsheet is enough to clean, filter, and organize what she already has.
 
 <br>
 
 ## ✂️ Cleaning steps Lina should take
 
-Here’s how Lina can start cleaning her data — step by step in Google Sheets.
+Now that Lina has 100+ rows of data in her spreadsheet, things feel overwhelming. But Google Sheets gives her all the tools she needs.
+
+Let’s walk through each step she should follow to clean her lemonade data.
 
 <br>
 
 ### 1. Fill in missing values
 
-> "I forgot to write how many cups I sold for mint… and I missed a date entry!"
+> “Some rows don’t have the number of cups… and I skipped a few dates!”
 
 **How to fix it:**  
-- Ask yourself: Is the data truly missing or just a mistake?
-- If it's unrecoverable, mark it clearly (e.g., “MISSING” or leave it blank intentionally)
-- If it's obvious (e.g., price repeated from earlier), fill it consistently
+- First, check if the missing value is recoverable (e.g., can she guess it based on other rows?)
+- If not, leave it blank or write `MISSING` — never guess randomly
+- For prices or flavors, apply the same value used in nearby entries if it makes sense
+
+💡 *Tip: Use filters to highlight all empty rows in the Cups or Date column*
 
 <br>
 
-
 ### 2. Fix formatting issues
 
-> "Why do I have Lemon, lemon, and LEMON all over the sheet?"
+> “Wait — I see Lemon, lemon, and LEMON… they should all mean the same thing!”
 
-**How to fix it:**
-- Use consistent **capitalization** (e.g., convert all to “Lemon”)
-- Standardize **price formats** (e.g., no extra spaces or symbols)
-- Use **Data Validation** to restrict flavor names to a dropdown list
+**How to fix it:**  
+- Decide on a standard format (e.g., capitalize first letter: "Lemon", "Mint", "Ginger")
+- Use `=PROPER()` or `=UPPER()` functions in Sheets to fix quickly
+- Standardize price formatting (no currency symbols, decimals consistent)
+
+💡 *Create a new column for “Clean Flavor” if you want to preserve the original*
 
 <br>
 
 ### 3. Remove duplicates
 
-> "Looks like I pasted the same row twice on 2024-06-03."
+> “Looks like I copied the same row more than once... maybe when pasting from my phone.”
 
 **How to fix it:**
-- Use Google Sheets: `Data > Data cleanup > Remove duplicates`
-- Manually scan rows if data is small
+- Use `Data > Data cleanup > Remove duplicates`
+- If needed, use a filter to sort by date + flavor + cups and scan manually
 
----
-
-### 4. Keep consistent categories
-
-> "Sometimes I wrote 'Ginger', sometimes 'GINGER'. Which one is correct?"
-
-**How to fix it:**
-- Make a controlled list (e.g., Lemon, Mint, Ginger) and stick to it
-- Fix typos, align categories
+💡 *Even small duplicate errors can cause big problems in totals or averages*
 
 <br>
 
+### 4. Keep consistent categories
+
+> “Sometimes I wrote ‘Mint’… sometimes ‘mint’ or even ‘MINT’. Should I fix them all?”
+
+**How to fix it:**
+- Use **Data Validation** in Google Sheets to restrict entry to three clean options: Lemon, Mint, Ginger
+- Create a reference list of valid values and check for mismatches
+
+💡 *You can create dropdowns to prevent this issue in the future*
+
+<br>
 
 ### 5. Organize with filters
 
-> "My sheet is getting big — hard to find things!"
+> “My sheet is so long now... how do I find what I’m looking for?”
 
 **How to fix it:**
-- Use `Data > Create a filter` in Google Sheets
-- Sort by date, filter by flavor, check for blanks
+- Go to `Data > Create a filter`  
+- Filter by: 
+  - Missing values (blank rows)
+  - Specific flavors
+  - Days when she sold more than 10 cups
+
+💡 *Filters help clean up the view before you clean up the data*
 
 <br>
 
 ## 📝 What Lina’s cleaned sheet might look like
+
+After 15 minutes of cleaning, here’s what a cleaned portion of Lina’s data looks like:
 
 | Date       | Flavor | Cups | Price | Notes            |
 |------------|--------|------|-------|------------------|
@@ -118,61 +139,65 @@ Here’s how Lina can start cleaning her data — step by step in Google Sheets.
 | 2024-06-04 | Mint   | 8    | 1.8   | -                |
 
 Now Lina’s spreadsheet is:
-- Easy to filter  
-- Ready to explore  
-- Safe to analyze
+- Easy to sort and filter  
+- Ready to explore with pivot tables and charts  
+- A reliable record of her sales
+
+She didn’t need to write a single formula — just observe and organize.
 
 <br>
 
 ## 📄 Why clean data = reliable insights
 
-Cleaning may feel boring — but it’s the **foundation of every analysis**.
+Data cleaning may feel like a chore… but it’s what separates guessing from real decision-making.
 
-Without cleaning:
-- “Lemon” and “lemon” are seen as two different products
-- Missing values lead to wrong totals or averages
-- Duplicates inflate results
+With messy data:
+- “lemon” and “Lemon” are seen as two different flavors  
+- Missing cups throw off total revenue  
+- Repeated rows distort her sales trends  
 
-With clean data, Lina can confidently:
-- Calculate how many cups of each flavor she sold  
-- Compare prices  
-- Spot daily or weekly trends
+With clean data, Lina can:
+- See which flavor is really most popular  
+- Trust her averages and totals  
+- Feel confident about adjusting prices or restocking ingredients
+
+Data cleaning = confidence.
 
 <br>
-
 
 ## ✅ Self-check questions
 
 <details>
 <summary>🧠 What are 3 common problems in messy data?</summary>
 - Missing values  
-- Inconsistent formats (e.g., Lemon vs lemon)  
-- Duplicate rows  
+- Inconsistent formats (e.g., Lemon vs lemon vs LEMON)  
+- Duplicate or near-duplicate rows  
 </details>
 
 <details>
 <summary>✏️ Why should categories like flavor be standardized?</summary>
-So that we don’t count the same thing multiple times under different names.
+So that we don’t count the same thing under different labels and get misleading totals.
 </details>
 
 <details>
 <summary>📊 How does cleaning help us later?</summary>
-It ensures our analysis is accurate and makes trends visible.
+It ensures our charts and calculations reflect the true story in the data.
 </details>
 
 <details>
 <summary>📅 What should you do if a date is missing?</summary>
-Try to recover it. If not, mark it clearly instead of guessing.
+Try to look it up, but if you can’t — leave it blank or mark it clearly as missing.
 </details>
 
 <br>
 
-
 ## 🏁 What’s next?
 
 Now that Lina’s data is clean, she’s curious:
-- Which flavors are most popular?  
-- Do sales increase on weekends?  
-- Does her pricing affect demand?
+- Which flavors are most popular overall?  
+- Do sales spike on certain days of the week?  
+- Did her new mint recipe bring in more customers?
 
-In the next chapter, we’ll help Lina explore her data — and uncover the story it tells.
+In the next chapter, we’ll guide her through **exploratory data analysis** — using simple filters, pivot tables, and charts to uncover insights.
+
+
