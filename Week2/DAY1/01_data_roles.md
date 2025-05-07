@@ -14,7 +14,7 @@ You don’t need to choose a role today. But getting a clear picture of who does
 
 <br>
 
-## 🎯 why roles matter
+## 🎯 Why roles matter
 
 Imagine you're working at Spotify:
 
@@ -32,7 +32,7 @@ Let’s break them down 👇
 
 <br>
 
-## 👩‍💼 1. data analyst  
+## 👩‍💼 1. Data analyst  
 **Goal:** Turn data into answers and communicate them clearly
 
 They explore questions like “What happened?” or “Which campaigns worked?”  
@@ -43,7 +43,7 @@ They clean data, analyze trends, and build dashboards that guide real business d
 
 <br>
 
-## 🛠️ 2. data engineer  
+## 🛠️ 2. Data engineer  
 **Goal:** Build the infrastructure and pipelines that power all other data roles
 
 Data engineers make sure the data is clean, reliable, and arrives on time. They create the systems that move data from raw sources to usable formats — often across huge volumes and in real-time.
@@ -53,7 +53,7 @@ Data engineers make sure the data is clean, reliable, and arrives on time. They 
 
 <br>
 
-## 🔬 3. data scientist  
+## 🔬 3. Data scientist  
 **Goal:** Build models that predict behavior or reveal hidden insights
 
 They dive deeper than analysts — using machine learning to model trends and test hypotheses. They often answer “What’s likely to happen?” and “Why?”
@@ -63,7 +63,7 @@ They dive deeper than analysts — using machine learning to model trends and te
 
 <br>
 
-## 🧪 4. machine learning engineer  
+## 🧪 4. Machine learning engineer  
 **Goal:** Put AI and ML models into real-world software and products
 
 While data scientists test models, ML engineers deploy and monitor them. They focus on system performance, scaling, APIs, and integrating with applications.
@@ -73,7 +73,7 @@ While data scientists test models, ML engineers deploy and monitor them. They fo
 
 <br>
 
-## 🎯 5. applied AI analyst (emerging)  
+## 🎯 5. Applied AI analyst (emerging)  
 **Goal:** Use generative AI and other tools to enhance everyday decision-making
 
 Applied AI analysts use tools like ChatGPT, Claude, and no-code platforms to improve business workflows — from writing emails and FAQs to summarizing reports and automating repetitive research.
@@ -83,7 +83,7 @@ Applied AI analysts use tools like ChatGPT, Claude, and no-code platforms to imp
 
 <br>
 
-## 💬 6. prompt engineer  
+## 💬 6. Prompt engineer  
 **Goal:** Design smart instructions (prompts) that guide AI models effectively
 
 Prompt engineers help LLMs like ChatGPT give better answers. They test inputs, evaluate outputs, and build templates that make AI tools more usable and accurate for internal teams or products.
@@ -113,7 +113,7 @@ They design dashboards and data apps that help decision-makers quickly grasp ins
 
 <br>
 
-## 🔍 9. business intelligence (BI) analyst  
+## 🔍 9. Business intelligence (BI) analyst  
 **Goal:** Ensure consistent, accurate, and timely access to business metrics
 
 BI analysts create dashboards, automate reports, and support the daily decision-making of execs and teams. They often work behind the scenes to keep dashboards and definitions aligned across teams.
