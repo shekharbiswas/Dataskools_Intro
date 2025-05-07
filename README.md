@@ -99,7 +99,9 @@ Start by exploring key concepts and real-world data use cases (movies, FIFA, Net
 - Course structure and expectations  
 - Communication tools: Slack, Zoom, Calendar  
 - File handling, GitHub setup (your LMS)  
-- Learning mindset, mock interviews, comfort zones  
+- Learning mindset, mock interviews, comfort zones
+- Google spreadsheet and ETL processes
+- Maths and Statistics  
 - Why AI matters in today's data world  
 
 </details>
