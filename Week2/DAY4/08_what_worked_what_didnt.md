@@ -19,7 +19,7 @@ We’ll use her **updated sales data from June 15–28** to review:
 
 🔗 [**Download: Post-decision Sales Data**](lina_post_decision_sales.xlsx)
 
----
+<br>
 
 ## ✅ Decision 1: Promote Lemon on weekends
 
@@ -39,7 +39,7 @@ The promotion **boosted weekend sales** without hurting weekday performance. Thi
 
 📝 *Lesson for students:* A targeted, low-effort campaign (like a chalkboard) can create noticeable impact — if it’s tied to data timing (weekend) and backed by stock planning.
 
----
+<br>
 
 ## ✅ Decision 2: Raise Mint price from €1.8 to €2.0
 
@@ -59,7 +59,7 @@ Despite the price jump, **mint remained popular**. This tells Lina (and us) that
 
 📝 *Lesson for students:* Pricing changes should always be tested with small steps and good timing. Lina changed one thing at a time (recipe first, price second) — a smart, low-risk strategy.
 
----
+<br>
 
 ## ✅ Decision 3: Ask cousin to help on busy days
 
@@ -78,7 +78,7 @@ It’s hard to **measure speed** in the spreadsheet — but it likely helped. Wh
 
 📝 *Lesson for students:* Not every impact shows up in charts. Some results — like smoother service or happy customers — may need a **survey, feedback form, or observation** to confirm.
 
----
+<br>
 
 ## 🧠 Business isn’t about perfect results
 
@@ -92,7 +92,7 @@ This loop — test, measure, learn — is what powers growth at every level.
 
 Whether it’s a lemonade stand or a billion-euro company, data helps improve decisions **over time**.
 
----
+<br>
 
 ## 💬 Reflection prompts for you
 
@@ -105,7 +105,7 @@ Try thinking like Lina. Ask yourself:
 
 These questions build your **analytical mindset** — one decision at a time.
 
----
+<br>
 
 ## ✅ Self-check questions
 
@@ -129,7 +129,7 @@ Sales stayed strong, likely due to the improved flavor — customers felt it was
 She could try a midweek flash discount, offer a “Buy 2 Get 1” deal, or introduce a loyalty punch card.
 </details>
 
----
+<br>
 
 ## 🏁 Summary
 
