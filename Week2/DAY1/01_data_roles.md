@@ -14,6 +14,11 @@ You don’t need to choose a role today. But getting a clear picture of who does
 
 <br>
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/29958671-70e4-4038-91f6-d7cd1adf8112" />
+
+<br>
+
+
 ## 🎯 Why roles matter
 
 Imagine you're working at Spotify:
