@@ -136,4 +136,3 @@ Probability helps us:
 
 📘 Next: How we choose the data we use — and why it can sometimes be misleading.
 
-Go to: `07_sampling_and_bias.md` →
