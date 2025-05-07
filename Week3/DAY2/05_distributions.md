@@ -18,6 +18,13 @@ For companies, it’s the difference between:
 
 ## 🍋 Lina’s January: Three weeks, three stories
 
+
+<br>
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c761d165-14de-4c79-9eee-c22e1b2ba996" />
+
+<br>
+
 Let’s look at three different weekly sales charts Lina reviewed:
 
 | Week | Chart Shape    | Description                                      |
