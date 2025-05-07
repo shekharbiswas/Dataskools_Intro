@@ -1,4 +1,4 @@
-# 📊 Week 2: Foundation of data analysis
+# 📊 Week 2: Foundation of _data analysis_
 
 Now that you’ve built confidence using key tools, it’s time to explore the world of **data and decision-making**.
 
