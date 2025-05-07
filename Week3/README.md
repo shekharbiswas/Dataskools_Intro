@@ -59,7 +59,7 @@
 
 </details>
 
----
+<br>
 
 ### 📅 Day 2: Measuring & Describing Data
 
@@ -85,7 +85,7 @@
 
 </details>
 
----
+<br>
 
 ### 📅 Day 3: Probability, Uncertainty, and Sampling
 
@@ -111,7 +111,7 @@
 
 </details>
 
----
+<br>
 
 ### 📅 Day 4: Testing Ideas with A/B Experiments
 
