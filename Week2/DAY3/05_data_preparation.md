@@ -39,9 +39,11 @@ You can view or copy the spreadsheet here:
 
 ## 📺 What is Google spreadsheet
 
+<br>
+
 [![Google Sheets Beginner](https://img.youtube.com/vi/FIkZ1sPmKNw/0.jpg)](https://www.youtube.com/watch?v=FIkZ1sPmKNw)  
-▶️ **Watch: Google Sheets – Full Course for Beginners (1 hr)**  
-🔗 [https://www.youtube.com/watch?v=FIkZ1sPmKNw](https://www.youtube.com/watch?v=FIkZ1sPmKNw)
+
+
 
 <br>
 <br>
