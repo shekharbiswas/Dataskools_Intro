@@ -60,6 +60,10 @@ That’s high variability — important for planning stock.
 
 When Lina plots her sales over 2 weeks, she might notice:
 
+<br>
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/d25734e9-5c95-4bcc-b70b-ff39f6b9013a" />
+<br>
+
 - 🔔 A **bell shape** (normal distribution): Most sales around 10, fewer high or low
 - ↗ A **right-skewed shape**: Most days are calm, but a few have huge spikes
 - ↘ A **left-skewed shape**: Most days are busy, but some are unexpectedly low
