@@ -3,6 +3,9 @@
 <div align="center">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/e8b9713d-2e8f-4469-aa9c-36bddf2b4485" />
 </div>
+
+<br>
+
 Think of data like raw ingredients in a kitchen. 
 
 On its own, it’s not useful. But when you prepare it, combine it, and serve it well — it becomes a powerful dish that satisfies a purpose.
