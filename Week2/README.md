@@ -10,14 +10,17 @@ This week is designed to help you:
 
 <br>
 
-## 📅 Overview: understanding the data world
+## 📅 Course Overview & Effort Levels
 
-| Day     | Title                        | Description                                                                  |
-|---------|------------------------------|------------------------------------------------------------------------------|
-| Day 1   | Data roles & value chain     | Who does what in the data world, and how value flows from raw to insight    |
-| Day 2   | Collecting & organizing      | Where data comes from and how we store, retrieve, and move it               |
-| Day 3   | Cleaning, exploration & use  | How we shape messy data to get answers and tell real stories                |
-| Day 4   | Thinking like an analyst     | Mindsets, habits, and ethics that drive data-driven thinking                |
+| Day     | Title                        | Description                                                                  | Effort Level     |
+|---------|------------------------------|------------------------------------------------------------------------------|------------------|
+| Day 1   | Data roles & value chain     | Understand who does what in data, and how raw data becomes business insight  | ⭐ Easy           |
+| Day 2   | Collecting & organizing      | Learn where data comes from and how it’s stored, moved, and accessed         | ⭐⭐ Light         |
+| Day 3   | Cleaning, exploration & use  | Clean messy data, explore patterns, and make sense of numbers                | ⭐⭐⭐ Medium-High  |
+| Day 4   | Thinking like an analyst     | Practice making decisions, evaluating impact, and applying ethical thinking  | ⭐⭐⭐⭐ High        |
+
+💡 You’ll start with light exploration and build up to real-world analysis and reflection — just like a growing analyst would.
+
 
 <br>
 
