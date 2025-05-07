@@ -49,7 +49,7 @@ Just like a cluttered kitchen slows down cooking, messy data **slows down or mis
 
 Here’s how Lina can start cleaning her data — step by step in Google Sheets.
 
----
+<br>
 
 ### 1. Fill in missing values
 
@@ -60,7 +60,8 @@ Here’s how Lina can start cleaning her data — step by step in Google Sheets.
 - If it's unrecoverable, mark it clearly (e.g., “MISSING” or leave it blank intentionally)
 - If it's obvious (e.g., price repeated from earlier), fill it consistently
 
----
+<br>
+
 
 ### 2. Fix formatting issues
 
@@ -71,7 +72,7 @@ Here’s how Lina can start cleaning her data — step by step in Google Sheets.
 - Standardize **price formats** (e.g., no extra spaces or symbols)
 - Use **Data Validation** to restrict flavor names to a dropdown list
 
----
+<br>
 
 ### 3. Remove duplicates
 
@@ -91,7 +92,8 @@ Here’s how Lina can start cleaning her data — step by step in Google Sheets.
 - Make a controlled list (e.g., Lemon, Mint, Ginger) and stick to it
 - Fix typos, align categories
 
----
+<br>
+
 
 ### 5. Organize with filters
 
@@ -101,7 +103,7 @@ Here’s how Lina can start cleaning her data — step by step in Google Sheets.
 - Use `Data > Create a filter` in Google Sheets
 - Sort by date, filter by flavor, check for blanks
 
----
+<br>
 
 ## 📝 What Lina’s cleaned sheet might look like
 
@@ -135,7 +137,8 @@ With clean data, Lina can confidently:
 - Compare prices  
 - Spot daily or weekly trends
 
----
+<br>
+
 
 ## ✅ Self-check questions
 
@@ -161,7 +164,8 @@ It ensures our analysis is accurate and makes trends visible.
 Try to recover it. If not, mark it clearly instead of guessing.
 </details>
 
----
+<br>
+
 
 ## 🏁 What’s next?
 
@@ -171,5 +175,3 @@ Now that Lina’s data is clean, she’s curious:
 - Does her pricing affect demand?
 
 In the next chapter, we’ll help Lina explore her data — and uncover the story it tells.
-
-📘 Go to: `06_exploratory_data_analysis.md` →
