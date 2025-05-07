@@ -22,7 +22,7 @@ But what does that **actually mean** in a world of randomness?
 
 <br>
 
-## 🧃 Lina’s story: predicting lemonade sales
+## 🧃 Lina: predicting lemonade sales
 
 Lina wants to plan smarter.
 
