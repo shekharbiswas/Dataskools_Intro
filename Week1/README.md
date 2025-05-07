@@ -64,12 +64,13 @@ But most importantly, we’ll help you answer:
 <br>
 
 - Key data analysis terms you’ll use often  
-- Tools you’ll learn in the coming weeks: Power BI, SQL, Python, and ML  
+- Tools you’ll learn in the coming weeks: SQL, MongoDB etc.  
 - Different roles in the data world: analysts, engineers, scientists  
 - Why programming is useful — not just for coders!  
 - What data looks like: structured vs. unstructured  
 - How automation helps speed up boring data tasks  
-- The difference between Traditional AI and Generative AI  
+- ETL process and its basic implementation
+- Google Spreadsheet and its uses
 - Real-world examples of how data is used in business and life  
 - The power of storytelling with data  
 
