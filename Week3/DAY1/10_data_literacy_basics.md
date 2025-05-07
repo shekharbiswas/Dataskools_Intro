@@ -67,6 +67,10 @@ A number that tracks something.
 
 <br>
 
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/72bcc139-63a0-409e-ae90-6c1031832f99" />
+
+<br>
+
 ### 2. **Trend**
 A pattern over time — going up, down, or staying flat.
 
