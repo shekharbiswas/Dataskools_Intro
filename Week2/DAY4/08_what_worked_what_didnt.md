@@ -1,6 +1,4 @@
-# 📘 08_what_worked_what_didnt.md
-
-## 📅 Day 4: What worked and what didn’t?
+# 📅 Day 4: What worked and what didn’t?
 
 <br>
 
