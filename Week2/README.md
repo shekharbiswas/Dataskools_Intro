@@ -10,7 +10,7 @@ This week is designed to help you:
 
 <br>
 
-## 📅 Course Overview & Effort Levels
+## 📊 Effort Chart: Week 2 Overview
 
 | Day     | Title                        | Description                                                                  | Effort Level     |
 |---------|------------------------------|------------------------------------------------------------------------------|------------------|
