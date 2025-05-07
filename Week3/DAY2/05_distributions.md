@@ -16,14 +16,7 @@ For companies, it’s the difference between:
 
 <br>
 
-## 🍋 Lina’s January: Three weeks, three stories
-
-
-<br>
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/d664523f-45e0-4107-820d-41617581a02c" />
-
-<br>
+## 🍋 Lina’s January: Three weeks, three situations
 
 Let’s look at three different weekly sales charts Lina reviewed:
 
@@ -37,6 +30,11 @@ She noticed:
 - Bell weeks = easy to plan  
 - Skewed = one big day throws off the average  
 - Fat tail = unpredictable spikes made her run out of stock
+
+<br>
+<br>
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d664523f-45e0-4107-820d-41617581a02c" />
 
 <br>
 
@@ -90,25 +88,17 @@ A **right-skewed distribution** happens when:
 
 ## 🧠 What does this mean for planning?
 
-<br>
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/71e1fa36-da24-44bd-8969-c2918c0120e9" />
+| Type           | Mean  | Median | Planning Insight                                        |
+|----------------|-------|--------|----------------------------------------------------------|
+| Bell-shaped    | 10    | 10     | Plan confidently around the average                      |
+| Right-skewed   | 14.6  | 10     | Don’t trust the mean — it’s pulled up by rare big days   |
+| Fat tail       | 16    | 9      | High unpredictability — add buffer for extreme spikes    |
 
-
-<br>
-<br>
-
-
-| Type           | Mean | Median | Planning Insight                                |
-|----------------|------|--------|--------------------------------------------------|
-| Bell-shaped    | 10   | 10     | Plan confidently around the average              |
-| Right-skewed   | 13   | 10     | Don’t trust the mean — most days are still calm  |
-| Fat tail       | 16   | 9      | Big risk of stockouts — add buffer or warnings   |
-
-Lina used this to improve:
-- 🧃 Her stock ordering  
-- 🧑‍🍳 Her prep time  
-- 📈 Her expectations for weekends
+Lina used this insight to improve:
+- 🧃 Her stock ordering — based on **median**, not mean  
+- 🧑‍🍳 Her prep time — no more wasted effort for low-sales days  
+- 📈 Her expectations — knowing spikes are rare but impactful  
 
 <br>
 
