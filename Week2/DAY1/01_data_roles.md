@@ -1,160 +1,166 @@
-# 📘 Data roles: _who does what_?
+# 📘 data roles: _who does what?_
 
 Welcome to the modern world of data careers.
 
 You may have heard terms like “data analyst” or “data scientist” — but those are just the beginning.  
-In today's world, data teams are like a **well-oiled machine**, with multiple roles working together to turn raw data into business insights, tools, and products.
+In today's world, data teams function like a **well-coordinated system**, where people in different roles help turn raw information into insights, decisions, and AI-powered tools.
 
-This file will help you:
-- Understand key roles and what each person does  
-- Get inspired by real examples  
-- Begin thinking about where you might fit  
+This guide will help you:
+- Understand the most common and emerging data + AI roles  
+- See what each role actually involves — no fluff  
+- Reflect on where you might fit in the growing AI-powered data landscape
 
-You don’t need to choose a path now — but understanding the big picture helps you grow with purpose.
+You don’t need to choose a role today. But getting a clear picture of who does what can help you build your strengths with purpose.
 
 <br>
 
-## 🎯 Why roles matter
+## 🎯 why roles matter
 
-Let’s imagine you're working at a company like Spotify:
+Imagine you're working at Spotify:
 
-- Someone needs to **collect and structure data** from millions of songs and users  
-- Someone needs to **analyze which features users love most**  
-- Someone needs to **predict what users might like next**  
-- Someone needs to **design the dashboards and tools**  
-- Someone else needs to **present findings to the business team**
+- A data engineer collects and structures listening data  
+- A data analyst explores which songs go viral by region  
+- A data scientist builds a model to recommend new music  
+- A prompt engineer trains an LLM to answer music-related queries  
+- An AI product manager designs the experience  
+- A BI analyst tracks KPIs weekly  
+- A viz designer builds dashboards for all teams
 
-These are all **data roles** — and they’re everywhere: in sports, fashion, health, education, travel, startups, and governments.
+Each role adds value. And in this AI-powered world, knowing how roles work together is just as important as knowing how to code.
+
+Let’s break them down 👇
 
 <br>
 
 ## 👩‍💼 1. data analyst  
-**Goal:** Turn data into answers and share them with clarity
+**Goal:** Turn data into answers and communicate them clearly
 
-- Works closely with business teams  
-- Focuses on past trends, current performance, and user behavior  
-- Creates dashboards, reports, and simple data stories
+They explore questions like “What happened?” or “Which campaigns worked?”  
+They clean data, analyze trends, and build dashboards that guide real business decisions. Analysts are **curious storytellers** with a sharp eye for patterns.
 
-> Common tools: Excel, Power BI, SQL, Google Sheets  
-> Example task: “Why did sales drop in Q3?”  
+> **Common tools:** SQL, Excel, Power BI, Looker Studio  
+> **Real-world task:** “Build a report that compares customer churn across 3 regions over the past 6 months.”  
 
 <br>
 
 ## 🛠️ 2. data engineer  
-**Goal:** Build and maintain the pipelines that deliver clean, usable data
+**Goal:** Build the infrastructure and pipelines that power all other data roles
 
-- Ensures data is collected, processed, and stored correctly  
-- Builds tools and workflows for analysts and scientists  
-- Handles large-scale or real-time data movement  
+Data engineers make sure the data is clean, reliable, and arrives on time. They create the systems that move data from raw sources to usable formats — often across huge volumes and in real-time.
 
-> Common tools: Python, SQL, Apache Airflow, dbt, cloud platforms (AWS, GCP)  
-> Example task: “Build a system to send app usage logs to our database every hour.”  
+> **Common tools:** Python, SQL, dbt, Apache Airflow, AWS S3, BigQuery  
+> **Real-world task:** “Create a nightly job that pulls transaction logs from the app and stores them in a cloud warehouse.”
 
 <br>
 
 ## 🔬 3. data scientist  
-**Goal:** Build models and algorithms that solve complex problems
+**Goal:** Build models that predict behavior or reveal hidden insights
 
-- Works with math, statistics, and machine learning  
-- Builds systems like recommendation engines, churn predictors, fraud detection  
-- Runs experiments (like A/B testing)
+They dive deeper than analysts — using machine learning to model trends and test hypotheses. They often answer “What’s likely to happen?” and “Why?”
 
-> Common tools: Python (pandas, sklearn), R, Jupyter, notebooks, cloud ML tools  
-> Example task: “Can we predict which customers are likely to cancel next month?”  
+> **Common tools:** Python, pandas, scikit-learn, Jupyter notebooks, stats models  
+> **Real-world task:** “Build a classification model to identify high-risk loan applicants using past behavior data.”
 
 <br>
 
 ## 🧪 4. machine learning engineer  
-**Goal:** Put data science models into production
+**Goal:** Put AI and ML models into real-world software and products
 
-- Takes a model from a data scientist and makes it work inside an app  
-- Ensures performance, scaling, deployment, and monitoring  
-- Works closely with software engineers and DevOps teams
+While data scientists test models, ML engineers deploy and monitor them. They focus on system performance, scaling, APIs, and integrating with applications.
 
-> Common tools: Python, Docker, TensorFlow, cloud APIs  
-> Example task: “Integrate a product recommendation model into the mobile app.”
+> **Common tools:** Docker, FastAPI, TensorFlow, PyTorch, Kubernetes, CI/CD tools  
+> **Real-world task:** “Deploy a real-time sentiment classifier into the customer service chatbot.”
 
 <br>
 
-## 📐 5. data product manager  
-**Goal:** Make sure the data team is solving the right problem
+## 🎯 5. applied AI analyst (emerging)  
+**Goal:** Use generative AI and other tools to enhance everyday decision-making
 
-- Gathers requirements from business, users, and engineers  
-- Prioritizes what data problems to solve  
-- Tracks project progress and communicates results
+Applied AI analysts use tools like ChatGPT, Claude, and no-code platforms to improve business workflows — from writing emails and FAQs to summarizing reports and automating repetitive research.
 
-> Common tools: Notion, Jira, dashboards, Google Slides  
-> Example task: “Define KPIs for a new user engagement initiative.”  
+> **Common tools:** Notion AI, ChatGPT, Excel, LangChain, Zapier  
+> **Real-world task:** “Build an AI assistant that summarizes meeting transcripts and auto-sends follow-up summaries via Slack.”
 
 <br>
 
-## 🎨 6. data visualization designer  
-**Goal:** Make complex data easy to understand and act on
+## 💬 6. prompt engineer  
+**Goal:** Design smart instructions (prompts) that guide AI models effectively
 
-- Designs dashboards and reports with users in mind  
-- Focuses on UX, layout, and clarity  
-- Translates numbers into visual stories
+Prompt engineers help LLMs like ChatGPT give better answers. They test inputs, evaluate outputs, and build templates that make AI tools more usable and accurate for internal teams or products.
 
-> Common tools: Tableau, Power BI, Figma, Looker  
-> Example task: “Create an interactive dashboard showing campaign results across regions.”  
+> **Common tools:** ChatGPT, Claude, OpenAI Playground, custom APIs, Python scripts  
+> **Real-world task:** “Design a prompt that lets HR teams summarize 50 resumes and shortlist top candidates based on job fit.”
 
 <br>
 
-## 🔍 7. business intelligence analyst  
-**Goal:** Deliver the right data to the right people at the right time
+## 📐 7. AI product manager  
+**Goal:** Lead teams building AI-enhanced products and workflows
 
-- Acts as a bridge between raw data and decision-makers  
-- Maintains BI tools, builds scheduled reports  
-- Supports company-wide access to performance metrics
+They define AI use cases, prioritize which features to automate, work closely with engineers, and ensure products are ethical and user-centered.
 
-> Common tools: SQL, BI tools (Power BI, Looker), dashboards  
-> Example task: “Automate daily revenue reports for the sales team.”
+> **Common tools:** Notion, Figma, dashboards, KPI sheets, basic LLM tools  
+> **Real-world task:** “Lead a pilot that integrates an AI writing assistant into the marketing team's CMS workflow.”
 
 <br>
 
-## 📊 Summary table: comparing common data roles
+## 🎨 8. data visualization designer  
+**Goal:** Translate numbers into compelling, interactive visual stories
 
-| Role                     | Main Goal                                  | Key Skills/Tools                      | Collaborates With                      |
-|--------------------------|---------------------------------------------|----------------------------------------|----------------------------------------|
-| Data Analyst             | Create reports and explain trends           | SQL, Power BI, Excel                   | Marketing, product, sales              |
-| Data Engineer            | Build data pipelines and storage            | SQL, Python, dbt, cloud                | Analysts, scientists, backend engineers|
-| Data Scientist           | Predict, recommend, or cluster data         | Python, ML, stats                      | Product, data engineer, PMs            |
-| ML Engineer              | Deploy and maintain models in production    | Python, Docker, ML frameworks          | Data scientists, app developers        |
-| Data Product Manager     | Set priorities for data initiatives         | Project mgmt, KPI planning             | All roles                              |
-| Data Viz Designer        | Create beautiful and usable dashboards      | Tableau, Power BI, Figma               | Analysts, execs, designers             |
-| BI Analyst               | Automate reports and data access            | SQL, Looker, Power BI                  | Business leaders, ops teams            |
+They design dashboards and data apps that help decision-makers quickly grasp insights. Clarity, design, and UX matter here as much as data accuracy.
+
+> **Common tools:** Power BI, Tableau, Figma, Flourish  
+> **Real-world task:** “Design an interactive dashboard that shows marketing ROI across countries, broken down by campaign and channel.”
 
 <br>
 
-## 🧠 Check your understanding
+## 🔍 9. business intelligence (BI) analyst  
+**Goal:** Ensure consistent, accurate, and timely access to business metrics
 
-<details>
-<summary>❓ Who is responsible for building and maintaining data pipelines?</summary>
-<br>
-Answer: **Data engineers** are responsible for building data pipelines and ensuring data flows cleanly from source to storage.
-</details>
+BI analysts create dashboards, automate reports, and support the daily decision-making of execs and teams. They often work behind the scenes to keep dashboards and definitions aligned across teams.
 
-<br>
-
-<details>
-<summary>❓ If your goal is to make smart product recommendations, which role might fit you best?</summary>
-<br>
-Answer: **Data scientist** — they design the prediction models that power recommendations.
-</details>
+> **Common tools:** SQL, Power BI, Looker, BigQuery, Snowflake  
+> **Real-world task:** “Automate a weekly dashboard that sends product KPIs to senior leadership.”
 
 <br>
+
+## 📊 summary table: data + AI roles
+
+| Role                    | Main Goal                             | Common Tools                          | Sample Task |
+|-------------------------|----------------------------------------|----------------------------------------|-------------|
+| Data Analyst            | Analyze data, answer key questions     | SQL, Power BI, Excel                   | Identify top churn drivers |
+| Data Engineer           | Build reliable pipelines and storage   | Python, dbt, cloud, SQL                | Build ETL for product logs |
+| Data Scientist          | Train models to predict or classify    | Python, sklearn, stats                 | Forecast inventory demand |
+| ML Engineer             | Deploy and scale ML models             | Docker, APIs, cloud ML tools           | Serve a fraud model in real-time |
+| Applied AI Analyst      | Use AI tools to optimize daily work    | ChatGPT, Notion AI, Zapier             | Summarize reports via LLM |
+| Prompt Engineer         | Create advanced AI prompts             | OpenAI Playground, Python, APIs        | Design a prompt to screen CVs |
+| AI Product Manager      | Guide AI feature design                | Notion, KPIs, Figma, API demos         | Plan an AI chatbot for internal FAQs |
+| Data Viz Designer       | Build dashboards and visuals           | Tableau, Figma, Power BI               | Design dashboard for exec KPIs |
+| BI Analyst              | Maintain company-wide reporting        | SQL, Looker, BigQuery                  | Build global revenue tracker |
+
+<br>
+
+## 🧠 check your understanding
 
 <details>
 <summary>❓ What’s the difference between a data analyst and a BI analyst?</summary>
 <br>
-Answer: A data analyst often explores questions and finds new insights.  
-A BI analyst focuses on **reporting**, **automating dashboards**, and **delivering routine metrics**.
+✅ A data analyst answers new questions with exploration.  
+✅ A BI analyst focuses on automated dashboards and repeatable reporting.
+</details>
+
+<details>
+<summary>❓ Who deploys a model to a real app used by customers?</summary>
+<br>
+✅ A machine learning engineer — they scale and serve ML models in production environments.
+</details>
+
+<details>
+<summary>❓ You want to guide an AI project and work with teams. Which role fits?</summary>
+<br>
+✅ AI product manager — they define problems, evaluate solutions, and lead team collaboration.
 </details>
 
 <br>
 
-> 🎓 You don’t need to master all of these roles.  
-> You just need to start with curiosity — and build from there.
-
-In the next file, we’ll walk through how all these roles work across the **data value chain** — the journey from raw data to real results.
-
+> 🎓 You don’t need to know everything — but understanding the roles helps you ask better questions and grow faster.  
+> In the next chapter, we’ll explore the **data value chain** — how raw data turns into real business impact.
