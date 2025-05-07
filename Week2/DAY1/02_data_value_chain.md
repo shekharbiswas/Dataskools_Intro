@@ -46,7 +46,6 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 **Goal:** Gather raw, unfiltered data from relevant sources.
 
-![Data Collection Icon](https://cdn-icons-png.flaticon.com/512/2910/2910768.png)
 
 ### Typical Sources:
 - Website and app activity
@@ -72,7 +71,6 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 **Goal:** Store the collected data in an accessible, secure, and organized way.
 
-![Data Storage Icon](https://cdn-icons-png.flaticon.com/512/2910/2910783.png)
 
 ### Types of Storage:
 - Relational databases (MySQL, PostgreSQL)
@@ -96,7 +94,6 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 **Goal:** Clean, filter, and prepare data for analysis.
 
-![Data Processing Icon](https://cdn-icons-png.flaticon.com/512/2910/2910785.png)
 
 ### Key Steps:
 - Remove duplicates
@@ -120,7 +117,6 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 **Goal:** Find patterns, relationships, and trends.
 
-![Data Analysis Icon](https://cdn-icons-png.flaticon.com/512/2910/2910787.png)
 
 ### Questions Answered:
 - What do users click most?
@@ -143,7 +139,6 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 **Goal:** Transform data findings into business-relevant insights.
 
-![Insight Generation Icon](https://cdn-icons-png.flaticon.com/512/2910/2910789.png)
 
 ### From Data to Meaning:
 - Not just “what happened?” but **“so what?”**
@@ -160,7 +155,6 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 **Goal:** Use insights to drive action and improve outcomes.
 
-![Decision-Making Icon](https://cdn-icons-png.flaticon.com/512/2910/2910791.png)
 
 ### Types of Decisions:
 - Product changes
@@ -179,7 +173,6 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 **Goal:** Share the insights clearly with decision-makers and stakeholders.
 
-![Communication Icon](https://cdn-icons-png.flaticon.com/512/2910/2910793.png)
 
 ### Formats:
 - Dashboards (Tableau, Power BI, Looker)
