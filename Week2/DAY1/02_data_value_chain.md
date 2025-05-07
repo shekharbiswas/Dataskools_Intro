@@ -50,6 +50,13 @@ Each stage builds on the previous one. You must go through them step-by-step to 
 
 ## 1. Data Collection
 
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/2058aa16-b4ba-4fd9-be3a-b9b6e6af6d47" />
+
+
+<br>
+
 **Goal:** Gather raw, unfiltered data from relevant sources.
 
 
