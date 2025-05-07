@@ -1,5 +1,3 @@
-# 📘 02_Data_Value_Chain.md
-
 ## 🔗 The Data Value Chain: Turning Raw Data Into Decisions
 
 ![Data Value Chain Diagram](https://opendatawatch.com/wp-content/uploads/2018/06/Data-Value-Chain-Executive-Summary.png)
