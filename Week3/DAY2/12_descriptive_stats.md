@@ -72,7 +72,7 @@ When Lina plots her sales over 2 weeks, she might notice:
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/7617e618-4d62-44c2-86fb-e0ccc8f3be85" />
 
 <br>
-
+<br>
 
 - ↗ A **right-skewed shape**: Most days are calm, but a few have huge spikes
 - ↘ A **left-skewed shape**: Most days are busy, but some are unexpectedly low
