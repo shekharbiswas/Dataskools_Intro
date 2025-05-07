@@ -9,9 +9,10 @@ Instead of staring at rows and rows of numbers, we look for:
 
 It’s like telling a story about your data — using **just the right highlights.**
 
----
+<br>
 
-## 🍋 Lina’s lemonade story: how she uses stats
+
+## 🍋 Lina: how she uses stats
 
 Lina runs a lemonade stand and wants to understand:
 - What’s the **average number of cups** she sells per day?  
@@ -21,7 +22,8 @@ Lina runs a lemonade stand and wants to understand:
 
 She uses **descriptive stats** to get answers.
 
----
+<br>
+
 
 ## 🧮 Central tendency: mean, median, mode
 
@@ -35,7 +37,8 @@ She uses **descriptive stats** to get answers.
 💡 **Use median** when data has outliers (e.g., one super high day).  
 💡 **Use mode** to find what happens most often.
 
----
+<br>
+
 
 ## 📏 Variability: range and standard deviation
 
@@ -50,7 +53,8 @@ It’s not enough to know the average — we also need to know **how much things
 🧠 Lina notices that on some days she sells **15+ cups**, and on others **barely 7**.  
 That’s high variability — important for planning stock.
 
----
+<br>
+
 
 ## 📈 What does the “shape” of data mean?
 
@@ -67,7 +71,8 @@ The shape helps her:
 - Ask better questions about **why spikes happen**
 - Make **realistic future plans**
 
----
+<br>
+
 
 ## 🧪 Lina compares two weeks
 
@@ -90,7 +95,8 @@ She sees:
 Conclusion?  
 Week 2 was **busier but harder to predict** — maybe a special event or weather?
 
----
+<br>
+
 
 ## 💬 Reflection prompts
 
@@ -122,7 +128,7 @@ It helps you understand whether your data is balanced, skewed, or has extreme va
 It shows how uncertain or variable your average is — often shown as ± a value.
 </details>
 
----
+<br>
 
 ## 🏁 Summary
 
