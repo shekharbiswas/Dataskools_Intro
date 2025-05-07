@@ -1,6 +1,6 @@
 # 📅 Collecting & organizing data
 
-Welcome to **Day 2** of your data journey! Today we’re diving into one of the most foundational aspects of working with data — **how it is collected, where it comes from, and how it's stored** so it can be accessed, used, and trusted.
+Welcome to **Day 2** of your foundation of data journey! Today we’re diving into one of the most foundational aspects of working with data — **how it is collected, where it comes from, and how it's stored** so it can be accessed, used, and trusted.
 
 Think of this as learning how to gather the ingredients and tools before you start cooking. If the ingredients are stale, missing, or poorly stored, even the best recipe (your analysis or insight) won’t work. The same is true for data.
 
