@@ -61,7 +61,7 @@ That’s high variability — important for planning stock.
 When Lina plots her sales over 2 weeks, she might notice:
 
 <br>
-<img width="317" alt="image" src="https://github.com/user-attachments/assets/d25734e9-5c95-4bcc-b70b-ff39f6b9013a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d25734e9-5c95-4bcc-b70b-ff39f6b9013a" />
 <br>
 
 - 🔔 A **bell shape** (normal distribution): Most sales around 10, fewer high or low
@@ -69,7 +69,7 @@ When Lina plots her sales over 2 weeks, she might notice:
 <br>
 
 
-![image](https://github.com/user-attachments/assets/c12240de-6541-4001-84b0-c06b11e4ef53)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7617e618-4d62-44c2-86fb-e0ccc8f3be85" />
 
 <br>
 
