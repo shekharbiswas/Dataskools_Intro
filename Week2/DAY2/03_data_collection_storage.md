@@ -216,6 +216,9 @@ Here are some beginner-friendly tools to experiment with:
 
 <br>
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/77292e79-2a81-4730-a3ff-9798f2e19c3d" />
+
+<br>
 ## 🧪 Mini tasks to practice
 
 It's time to apply what you've learned.
