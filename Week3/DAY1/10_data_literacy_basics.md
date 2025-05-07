@@ -122,12 +122,18 @@ Lina’s Google Sheet shows flavor sales, revenue by day, and cup count on one p
 ### 8. **Misleading chart**  
 A chart that hides or distorts the real message — often by **starting the y-axis too high** or **skipping important labels**.
 
-**Lina’s story example:**  
+<br>
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/bd0b5076-20f2-45ce-86f5-70762e7a6004" />
+
+<br>
+
+**Example:**  
 Lina creates a bar chart to compare Lemon and Mint sales:
 
 | Flavor | Cups Sold |
 |--------|-----------|
-| Lemon  | 20        |
+| Lemon  | 21        |
 | Mint   | 25        |
 
 But her chart starts the y-axis at **20 instead of 0**, so Mint’s bar looks *much taller* than Lemon’s — even though the difference is only **5 cups**.
