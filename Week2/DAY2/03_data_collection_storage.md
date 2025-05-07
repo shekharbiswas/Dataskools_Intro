@@ -21,6 +21,10 @@ You'll create a short README that documents a hypothetical or real-world data fl
 
 <br>
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/13ebb709-4cde-4033-9baa-083a47c7f6e8" />
+
+<br>
+
 ## 📥 Where data comes from
 
 Data is everywhere. Every click, swipe, tap, scan, and sensor reading can generate useful data.
@@ -219,6 +223,7 @@ Here are some beginner-friendly tools to experiment with:
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/77292e79-2a81-4730-a3ff-9798f2e19c3d" />
 
 <br>
+
 ## 🧪 Mini tasks to practice
 
 It's time to apply what you've learned.
