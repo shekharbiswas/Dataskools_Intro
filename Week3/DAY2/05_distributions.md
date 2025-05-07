@@ -21,7 +21,7 @@ For companies, it’s the difference between:
 
 <br>
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/c761d165-14de-4c79-9eee-c22e1b2ba996" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d664523f-45e0-4107-820d-41617581a02c" />
 
 <br>
 
@@ -39,6 +39,53 @@ She noticed:
 - Fat tail = unpredictable spikes made her run out of stock
 
 <br>
+
+## 📈 Understanding Right-Skewed Distributions (with Real Data)
+
+A **right-skewed distribution** happens when:
+- Most of the data points are low  
+- A few large values pull the **mean** to the right  
+- The result? A misleading average if you're not careful
+
+<br>
+
+### 🔍 Let's look at Lina’s lemonade sales:
+
+```text
+[8, 8, 8, 9, 10, 10, 11, 12, 30, 40]
+```
+## 📊 What do the stats show?
+
+| Metric  | Value | Why it matters                            |
+|---------|-------|--------------------------------------------|
+| Mode    | 8     | Most common number of cups sold            |
+| Median  | 10    | The true middle value in the list          |
+| Mean    | 14.6  | Pulled up by two very large sale days      |
+
+<br>
+
+## 🧠 Why is this right-skewed?
+
+- Most of Lina’s sales are between **8–12 cups**
+- But two extreme days (**30** and **40**) push the **mean up**
+- The mean (**14.6**) makes it look like Lina sells more than she really does
+
+<br>
+
+## 📉 If Lina only looks at the average (14.6):
+
+- She might **overprepare** and waste stock  
+- She could think **demand is increasing** — when it’s just a fluke  
+- She might **misprice or overspend** on supplies  
+
+<br>
+
+## ✅ Key Takeaways:
+
+- **Mean > Median > Mode** = right-skewed  
+- The **median (10)** tells Lina what's truly typical  
+- Always check if **outliers are influencing the average**  
+- Use **mode and median** to get a clearer, more realistic view of the data  
 
 
 ## 🧠 What does this mean for planning?
