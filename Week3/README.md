@@ -17,7 +17,7 @@
 | Day 3   | Probability & sampling         | Apply logic to chance, randomness, and fairness       | ⭐⭐⭐⭐ High         |
 | Day 4   | A/B testing & interpretation   | Real-world experimentation and decision-making        | ⭐⭐⭐⭐ High         |
 
-💡 This week blends **real-life data scenarios** with **core statistical thinking** — building confidence without making math scary.
+💡 This week combines **real-life data scenarios** with **core statistical thinking** — building confidence without making math scary.
 
 <br>
 
