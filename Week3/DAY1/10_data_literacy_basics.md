@@ -119,11 +119,20 @@ Lina’s Google Sheet shows flavor sales, revenue by day, and cup count on one p
 
 <br>
 
-### 8. **Misleading chart**
-A graph that hides or distorts the real message.
+### 8. **Misleading chart**  
+A chart that hides or distorts the real message — often by **starting the y-axis too high** or **skipping important labels**.
 
-**Example:**  
-Lina notices her bar chart looks like sales doubled — but the y-axis doesn’t start at 0.
+**Lina’s story example:**  
+Lina creates a bar chart to compare Lemon and Mint sales:
+
+| Flavor | Cups Sold |
+|--------|-----------|
+| Lemon  | 20        |
+| Mint   | 25        |
+
+But her chart starts the y-axis at **20 instead of 0**, so Mint’s bar looks *much taller* than Lemon’s — even though the difference is only **5 cups**.
+
+That’s misleading!
 
 <br>
 
