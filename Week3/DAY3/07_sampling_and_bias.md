@@ -156,3 +156,7 @@ So next time you “taste the soup”:
 - Be aware of **who’s included**  
 - Ask: **“Who might I be leaving out?”**
 
+
+📘 Next up: What if you want to test two ideas — like a new price or headline?
+
+That’s where **A/B testing** comes in. It’s how companies like Netflix, Spotify, and even Lina test one version vs another — and let the data decide.
