@@ -37,6 +37,9 @@ Here’s a **sample of her spreadsheet before cleaning**:
 You can view or copy the spreadsheet here:  
 🔗 [**Lina Sales Data**](https://docs.google.com/spreadsheets/d/19Xcsp7q2jbOkxY9XdTeQfYYXt0HFTw8h3ncdsWhNqic/edit?usp=sharing)
 
+<br>
+<br>
+
 ## 📺 What is Google spreadsheet
 
 <br>
