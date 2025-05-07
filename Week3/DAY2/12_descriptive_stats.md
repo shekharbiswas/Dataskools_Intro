@@ -65,6 +65,15 @@ When Lina plots her sales over 2 weeks, she might notice:
 <br>
 
 - 🔔 A **bell shape** (normal distribution): Most sales around 10, fewer high or low
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/c12240de-6541-4001-84b0-c06b11e4ef53)
+
+<br>
+
+
 - ↗ A **right-skewed shape**: Most days are calm, but a few have huge spikes
 - ↘ A **left-skewed shape**: Most days are busy, but some are unexpectedly low
 
