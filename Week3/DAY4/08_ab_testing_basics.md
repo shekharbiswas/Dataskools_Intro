@@ -16,6 +16,13 @@ You **test and let the data decide**.
 
 ## 🍋 Lina’s A/B test
 
+<br>
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/dd155de2-ee3e-42eb-b4a5-fa560886f3e6" />
+
+<br>
+<br>
+
 Lina wants to attract more people to her lemonade stand.
 
 She creates two signs:
