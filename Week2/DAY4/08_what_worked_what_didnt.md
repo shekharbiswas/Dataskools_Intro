@@ -11,7 +11,7 @@ She made 3 data-informed decisions — but did they all work?
 
 Let’s analyze her **new sales data from June 15–28** using her updated spreadsheet:
 
-🔗 [Post-decision Sales Data (Download)](sandbox:/mnt/data/lina_post_decision_sales.xlsx)
+🔗 [**Post-decision Sales Data**]()
 
 ---
 
