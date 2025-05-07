@@ -29,7 +29,8 @@ Here’s a **sample of her spreadsheet before cleaning**:
 | 2024-06-04 | mint     | 8    | 1.8   | lowercase flavor |
 
 You can view or copy the spreadsheet here:  
-🔗 [Sample Google Sheet](https://docs.google.com/spreadsheets/d/1gq9DEMO123/edit?usp=sharing) *(replace this with actual link)*
+🔗 [**Lina Sales Data**](https://docs.google.com/spreadsheets/d/19Xcsp7q2jbOkxY9XdTeQfYYXt0HFTw8h3ncdsWhNqic/edit?usp=sharing)
+
 
 <br>
 
