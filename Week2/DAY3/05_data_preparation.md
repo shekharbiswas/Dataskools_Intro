@@ -37,7 +37,13 @@ Here’s a **sample of her spreadsheet before cleaning**:
 You can view or copy the spreadsheet here:  
 🔗 [**Lina Sales Data**](https://docs.google.com/spreadsheets/d/19Xcsp7q2jbOkxY9XdTeQfYYXt0HFTw8h3ncdsWhNqic/edit?usp=sharing)
 
+## 📺 What is Google spreadsheet
 
+[![Google Sheets Beginner](https://img.youtube.com/vi/FIkZ1sPmKNw/0.jpg)](https://www.youtube.com/watch?v=FIkZ1sPmKNw)  
+▶️ **Watch: Google Sheets – Full Course for Beginners (1 hr)**  
+🔗 [https://www.youtube.com/watch?v=FIkZ1sPmKNw](https://www.youtube.com/watch?v=FIkZ1sPmKNw)
+
+<br>
 <br>
 
 ## 🧼 What is messy data?
