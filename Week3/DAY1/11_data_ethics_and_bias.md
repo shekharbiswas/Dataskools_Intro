@@ -26,7 +26,7 @@ Data is powerful — but it can also be unfair, incomplete, or harmful **if not 
 
 <br>
 
-## 🍋 Lina’s story: bias in a customer survey
+## 🍋 Lina: bias in a customer survey
 
 Lina wants feedback, so she puts out a quick survey. But:
 
@@ -105,4 +105,24 @@ Using data in a way that is fair, transparent, and doesn’t unintentionally har
 <details>
 <summary>🚨 What is sampling bias?</summary>
 It’s when you collect data from only part of your audience — and miss other important perspectives.
-</
+</details>
+
+<details>
+<summary>🧪 What is confirmation bias?</summary>
+It’s when you look for or notice only the data that supports what you already believe — and ignore other information.
+</details>
+
+<details>
+<summary>📅 What mistake did Lina make with her survey timing?</summary>
+She only collected feedback on sunny weekends, missing input from weekday customers.
+</details>
+
+<details>
+<summary>🙋 Why is it important to include unhappy or quiet users in feedback?</summary>
+Because they might have valuable insights, and excluding them can lead to biased or incomplete decisions.
+</details>
+
+<details>
+<summary>🧠 How can you design fairer data collection?</summary>
+Ask a diverse range of people, spread it across time, and avoid leading or selective questions.
+</details>
