@@ -138,7 +138,6 @@ Week 4 starts with a reflection:
 > How do *you* think like an analyst?”
 
 We’ll guide you through:
-- Looking back at Lina’s journey  
 - Practicing interpretation and ethics  
 - Building your own data story
 
