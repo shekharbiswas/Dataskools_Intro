@@ -10,6 +10,10 @@ Being **data literate** means you can:
 
 <br>
 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/577338a0-d58d-4a9c-b9ee-4bdc2f91425b" />
+
+<br>
+
 ## 💡 Why does data literacy matter?
 
 In today’s world, we constantly see numbers:
