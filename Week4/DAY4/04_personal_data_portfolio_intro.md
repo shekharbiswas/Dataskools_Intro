@@ -63,7 +63,7 @@ Your idea doesn’t need to be perfect — just something you care about. This c
 
 ## ✅ Add to Your `data_journal.md`
 
-Open or create a file in your GitHub folder:
+Open or create a file **data_journal.md** in your GitHub folder:
 
 <pre>
 Lemonade-project/
