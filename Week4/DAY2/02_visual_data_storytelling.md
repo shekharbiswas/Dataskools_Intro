@@ -26,6 +26,108 @@ To tell a strong data story, your visual should combine **clarity**, **insight**
   - Uses proper labels (axis names, categories, units)
   - Isn’t cluttered — avoid adding too many variables in one graph
 
+## 📊 Chart Types You Can Create in Google Sheets
+
+Google Sheets is a powerful tool for turning raw data into visual insights — no coding required. Here’s a guide to the chart types you can create and when to use them.
+
+<br>
+
+### ✅ Bar Chart – Compare Categories
+
+**Use when:** You want to compare values across categories (e.g., cups sold by flavor).
+
+**Example use case:**  
+"Which lemonade flavor sells the most?"
+
+**How to create:**
+1. Select your data (e.g., Flavor and Cups Sold)
+2. Click `Insert > Chart`
+3. In the Chart Editor, choose **Column chart** or **Bar chart**
+
+**Best practices:**
+- Keep category names short and clear
+- Sort data for better readability (e.g., descending order)
+
+<br>
+
+### ✅ Pie Chart – Show Proportions
+
+**Use when:** You want to show how a whole is divided into parts (e.g., revenue share by flavor).
+
+**Example use case:**  
+"What percentage of total sales comes from each flavor?"
+
+**How to create:**
+1. Select two columns: Category (e.g., Flavor) and Value (e.g., Total Revenue)
+2. Click `Insert > Chart`
+3. Choose **Pie chart**
+
+**Best practices:**
+- Limit to 4–6 categories to avoid clutter
+- Use data labels to show percentages
+
+<br>
+
+### ✅ Line Chart – Show Trends Over Time
+
+**Use when:** You want to visualize how something changes over time (e.g., daily sales).
+
+**Example use case:**  
+"How do cups sold change each day?"
+
+**How to create:**
+1. Select Date and Value columns (e.g., Date and Cups Sold)
+2. Click `Insert > Chart`
+3. Choose **Line chart**
+
+**Best practices:**
+- Make sure dates are formatted correctly
+- Sort data chronologically
+
+<br>
+
+### ✅ Scatter Plot – Explore Relationships
+
+**Use when:** You want to see if two numeric variables are related (e.g., price vs cups sold).
+
+**Example use case:**  
+"Does lower price lead to more sales?"
+
+**How to create:**
+1. Select your X and Y value columns (e.g., Price and Cups Sold)
+2. Click `Insert > Chart`
+3. Choose **Scatter chart**
+
+**Best practices:**
+- Use trendline (Customize > Series > Trendline) to highlight patterns
+- Remove outliers that may skew results
+
+<br>
+
+### ⚠️ Infographic or Mixed Layout
+
+**Use when:** You want to combine text, visuals, and data to tell a story.
+
+**How to create:**
+- While Google Sheets doesn't have built-in infographic tools, you can:
+  - Use **bold headers**, cell background colors, and emojis
+  - Insert **images, drawings, or shapes** via `Insert > Drawing` or `Insert > Image`
+  - Arrange charts and KPIs on a dedicated **dashboard sheet**
+  - Add custom labels and takeaways in adjacent cells
+
+**Better alternative:**  
+For advanced design and layout, use **Canva**, **Google Slides**, or **PowerPoint** and embed your Google Sheets charts.
+
+<br>
+
+### 💡 Pro Tip
+
+To present your visuals:
+- Copy any chart and paste it into a **Google Slides** presentation
+- This gives you more layout control and makes your story more engaging
+
+<br>
+
 - **💬 A Brief Explanation (2–3 Sentences)**  
   Your visual needs context. Add a short, written takeaway that explains:
   - What the chart shows
