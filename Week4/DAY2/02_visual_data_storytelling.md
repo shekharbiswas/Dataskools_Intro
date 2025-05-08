@@ -4,12 +4,49 @@ Today is about transforming data into a visual story that others can quickly und
 
 ## 🎨 Task: Create a Visual Slide or Story
 
-Use **Canva** (or PowerPoint, Google Slides, Figma — whatever you prefer) to create one impactful slide or visual.
+Use [**Canva**](https://www.canva.com/) and Google Slides to create one impactful slide or visual.
+
+
+
 
 ### 🎯 Your Visual Must Include:
-- A chart or graphic (bar, pie, line, etc.)
-- A brief explanation (2–3 sentences)
-- Clean layout and readable text
+
+To tell a strong data story, your visual should combine **clarity**, **insight**, and **design**. Include the following elements:
+
+- **📊 A Chart or Graphic**  
+  Choose the right type of visual for your data:
+  - **Bar chart** for comparing categories (e.g., sales by flavor)
+  - **Pie chart** for showing proportions (e.g., share of total revenue)
+  - **Line chart** for trends over time (e.g., cups sold per day)
+  - **Scatter plot** for relationships (e.g., price vs cups sold)
+  - **Infographic or mixed layout** if you want to combine data, text, and icons
+
+  Make sure the chart:
+  - Has a clear title
+  - Uses proper labels (axis names, categories, units)
+  - Isn’t cluttered — avoid adding too many variables in one graph
+
+- **💬 A Brief Explanation (2–3 Sentences)**  
+  Your visual needs context. Add a short, written takeaway that explains:
+  - What the chart shows
+  - Why it’s interesting
+  - What insight a viewer should remember
+
+  Example:  
+  > “This chart compares sales across three lemonade flavors. Lemon consistently outperformed the others, especially on weekends. This suggests customer preference may be linked to refreshing taste during warmer days.”
+
+- **🧼 Clean Layout and Readable Text**  
+  Presentation matters. A great chart can lose its impact if it’s messy or hard to read.
+
+  Design tips:
+  - Use high contrast colors (avoid neon or overly light shades)
+  - Make text at least 14pt size for headings, 10–12pt for labels
+  - Align elements properly (e.g., center titles, avoid overlapping text)
+  - Leave white space — don’t cram too much into one slide
+  - Consider adding icons or light visuals to guide the eye
+
+Remember: Your goal is to make someone say, *“I get it — and that’s interesting!”* without needing to read a full report.
+
 
 ## 🧠 Topic Ideas
 Pick a topic that matters to you:
