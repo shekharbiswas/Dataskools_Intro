@@ -66,6 +66,13 @@ Your idea doesn’t need to be perfect — just something you care about. This c
 Open or create a file in your GitHub folder:
 
 <pre>
+Lemonade-project/
+├── cleaned_data/ ← for your cleaned spreadsheet files
+├── charts/ ← for charts or images you created
+├── analysis_notes/ ← for your written notes and insights
+├── README.md ← explains what your project is about
+└── journal/ ← for your personal reflection
+
 
 journal/data_journal.md
 
