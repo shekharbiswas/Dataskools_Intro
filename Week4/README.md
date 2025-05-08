@@ -28,7 +28,7 @@
 ### 📅 Day 1: Spreadsheet Reflection & Cleanup
 
 <details>
-<summary>📘 10_week4_review_with_spreadsheets.md</summary>
+<summary>📘 01_week4_review_with_spreadsheets.md</summary>
 <br>
 
 - 🧪 Revisit your old spreadsheet (Lina’s or your own)  
@@ -43,7 +43,7 @@
 ### 📅 Day 2: Visual Data Storytelling
 
 <details>
-<summary>📘 11_visual_data_storytelling.md</summary>
+<summary>📘 02_visual_data_storytelling.md</summary>
 <br>
 
 - 🎨 Use **Canva** to create a visual slide or story  
@@ -58,7 +58,7 @@
 ### 📅 Day 3: GitHub + Month 1 Journal
 
 <details>
-<summary>📘 12_github_documentation_basics.md</summary>
+<summary>📘 03_github_documentation_basics.md</summary>
 <br>
 
 - 📁 Organize your Week 3/4 work in a clean repository  
@@ -75,7 +75,7 @@
 ### 📅 Day 4: Personal Growth & Project Ideas
 
 <details>
-<summary>📘 13_personal_data_portfolio_intro.md</summary>
+<summary>📘 04_personal_data_portfolio_intro.md</summary>
 <br>
 
 - 🧠 Reflect on what you liked most: visualizing, exploring, explaining?  
