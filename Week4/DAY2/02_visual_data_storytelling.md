@@ -172,8 +172,6 @@ Example:
 Once you’re done:
 - Export it as PNG or PDF
 - Upload it to GitHub in your project folder
-- OR share it in class or your community channel
-
 
 <br>
 
