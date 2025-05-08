@@ -1,4 +1,4 @@
-# 📅 Day 2: Visual Data Storytelling
+# 📅 Visual Data Storytelling
 
 Today is about transforming data into a visual story that others can quickly understand — and even feel something about. 
 
