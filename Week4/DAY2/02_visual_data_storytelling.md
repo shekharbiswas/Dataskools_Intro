@@ -26,7 +26,7 @@ To tell a strong data story, your visual should combine **clarity**, **insight**
   - Uses proper labels (axis names, categories, units)
   - Isn’t cluttered — avoid adding too many variables in one graph
 
-## 📊 Chart Types You Can Create in Google Sheets
+## 📊 Charts in Google Sheets
 
 Google Sheets is a powerful tool for turning raw data into visual insights — no coding required. Here’s a guide to the chart types you can create and when to use them.
 
