@@ -5,6 +5,10 @@ This is the beginning of building a data portfolio that truly represents who you
 
 <br>
 
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/5acd6d36-3808-4019-a1b1-9027874aa89e" />
+
+<br>
+
 ## 🧠 What Did You Enjoy Most?
 
 Think about the past few weeks. What parts of the process felt fun, satisfying, or exciting?
