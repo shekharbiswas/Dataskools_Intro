@@ -14,7 +14,7 @@
 
 | Day     | Title                        | Description                                                 | Effort Level     |
 |---------|------------------------------|-------------------------------------------------------------|------------------|
-| Day 1   | Spreadsheet reflection       | Revisit, clean, and summarize a past data exploration       | ⭐⭐ Light         |
+| Day 1   | Spreadsheet reflection       | Revisit, clean, and summarize a past data exploration       | ⭐⭐⭐ Medium           |
 | Day 2   | Visual storytelling in Canva | Create a visual story (chart, timeline, poster) using Canva | ⭐⭐⭐ Medium        |
 | Day 3   | GitHub + Data Journal        | Organize your work, write your Month 1 reflection           | ⭐⭐⭐ Medium        |
 | Day 4   | Data portfolio intro         | Identify interests, build confidence, and plan next steps   | ⭐⭐ Light         |
