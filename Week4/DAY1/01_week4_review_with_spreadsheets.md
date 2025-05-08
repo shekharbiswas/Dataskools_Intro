@@ -1,8 +1,16 @@
 # 📅 Spreadsheet ETL Guide: Clean, Explore, Reflect
 
-This guide walks you through a **real-world data project** using a Google Spreadsheet. You’ll apply the full ETL (Extract, Transform, Load) process to a dataset — either from Lina’s Lemonade Stand or your own version — and go beyond the basics to explore, summarize, visualize, and reflect on your findings like a professional data analyst.
+This guide walks you through a real-world data project using a Google Spreadsheet. 
 
-No programming or coding experience is needed. All you need is a curious mindset and the spreadsheet you’ve already been working with.
+You’ve already worked with this dataset — Lina’s Lemonade Stand — in earlier lessons. Now, it’s time to return to it with fresh eyes and deeper skills.
+
+You’ll apply the full ETL (Extract, Transform, Load) process again — and go beyond it: exploring, summarizing, visualizing, and reflecting like a professional data analyst.
+
+No programming or coding experience is needed. All you need is your previous spreadsheet and a curious, growth-focused mindset.
+
+> **Why are we revisiting the same dataset?**  
+> Because real confidence is built through **repetition with reflection**. Each time you revisit familiar data, you’ll notice new patterns, apply cleaner logic, and ask smarter questions.  
+> Analysts don’t just use tools — they think through data. That habit grows with each thoughtful iteration.
 
 <br>
 
