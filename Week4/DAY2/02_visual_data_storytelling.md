@@ -152,8 +152,6 @@ To present your visuals:
   - Leave white space — don’t cram too much into one slide
   - Consider adding icons or light visuals to guide the eye
 
-Remember: Your goal is to make someone say, *“I get it — and that’s interesting!”* without needing to read a full report.
-
 
 ## 🧠 Topic Ideas
 Pick a topic that matters to you:
@@ -200,6 +198,13 @@ If you’re working in a group:
 ## 🎓 Outcome
 
 By the end of today, you’ll have a **portfolio-ready visual** — something you can show to a potential employer or add to your GitHub profile.
+
+Why does this matter in the real world?
+
+Because employers don’t just want analysts who can crunch numbers — they want storytellers who can explain what those numbers *mean*. 
+A clear, insightful visual can often speak louder than a resume. It shows that you understand your audience, know how to use data tools, and can communicate effectively — all of which are highly sought-after skills in analytics, marketing, business, and product roles.
+
+Even one strong visual project in your portfolio can set you apart from other candidates who only list tools and skills without proof of how they apply them.
 
 <br>
 
