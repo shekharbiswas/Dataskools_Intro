@@ -32,7 +32,7 @@ No programming or coding experience is needed. All you need is your previous spr
 
 <br>
 
-## 🛠️ Step-by-Step ETL + Analysis (20+ Concepts Explained)
+## 🛠️ Step-by-Step ETL + Analysis
 
 ### 1. **Extract your data**
 
