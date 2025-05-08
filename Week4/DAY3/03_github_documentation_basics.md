@@ -19,7 +19,7 @@ Lemonade-project/
 └── journal/ ← for your personal reflection
 </pre>
 
-###💡 Tips
+### 💡 Tips
 
 Keep file names simple and clear.  
 ✅ Good: `cups_sold_by_day.png`  
