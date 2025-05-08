@@ -8,6 +8,9 @@ You’ll apply the full ETL (Extract, Transform, Load) process again — and go 
 
 No programming or coding experience is needed. All you need is your previous spreadsheet and a curious, growth-focused mindset.
 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3cb3d2f3-ca0c-4d70-86c6-0595bfccab2e" />
+
+
 > **Why are we revisiting the same dataset?**  
 > Because real confidence is built through **repetition with reflection**. Each time you revisit familiar data, you’ll notice new patterns, apply cleaner logic, and ask smarter questions.  
 > Analysts don’t just use tools — they think through data. That habit grows with each thoughtful iteration.
