@@ -1,7 +1,13 @@
-# 📘 04 – Personal Data Portfolio: Intro
+# 📘 Personal Data Portfolio
 
 Today, you’ll take a step back and reflect on what *you* enjoy most about working with data.  
 This is the beginning of building a data portfolio that truly represents who you are — not just what you’ve practiced in class.
+
+Your portfolio is more than a list of tasks. It’s a collection of projects that show your curiosity, your interests, and the way you think.  
+When you choose topics that excite you, your work becomes more meaningful — and more memorable to others.
+
+This short reflection will help you discover what type of data projects you might want to pursue next, and what skills you want to keep developing.
+
 
 <br>
 
