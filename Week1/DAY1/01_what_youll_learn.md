@@ -19,7 +19,7 @@ We’ll walk with you, step by step.
 
 ## 🧭 What This Course Covers
 
-This is a 28-week journey designed for **curious learners from any background** — career changers, returners, creatives, freelancers, or total beginners. Here's what you'll explore overall:
+This is a 24-week journey designed for **curious learners from any background** — career changers, returners, creatives, freelancers, or total beginners. Here's what you'll explore overall:
 
 | Module                           | Focus Areas                                                                 |
 |----------------------------------|------------------------------------------------------------------------------|
