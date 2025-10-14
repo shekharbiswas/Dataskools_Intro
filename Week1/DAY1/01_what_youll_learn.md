@@ -42,7 +42,7 @@ We believe that learning is most powerful when it’s **clear, supported, and pe
 - A chance to **ask questions**, go deeper, and get insights from **mentors who work in the industry**.
 - Sometimes, you’ll be joined by someone who recently got hired — to share how they made it.
 
-### 📂 Self-Learning with GitHub LMS
+### 📂 Guided Learning with GitHub LMS with a Mentor
 - Every week has a folder.
 - Each folder contains **Markdown files**, exercises, links, and tools.
 - Learn at your own pace — and **track your progress** visibly.
