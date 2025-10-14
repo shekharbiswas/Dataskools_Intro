@@ -27,7 +27,7 @@ This is a 28-week journey designed for **curious learners from any background** 
 | Week 5–8: Power BI               | Dashboards, business storytelling, AI visuals                               |
 | Week 9–14: SQL Fundamentals      | Querying databases, preparing data for analysis                             |
 | Week 15–20: Python + ML Basics   | Data manipulation, ML thinking, logic & structure                           |
-| Week 21–28: Specialization       | Choose Azure + Big Data or Power BI Advanced + Coursera Project             |
+| Week 21–24: Specialization       | Choose Azure + Big Data or Power BI Advanced + Coursera Project             |
 
 📌 You can revisit this full roadmap [here](../README.md).
 
