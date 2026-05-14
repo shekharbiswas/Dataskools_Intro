@@ -81,7 +81,7 @@ Here’s a high-level view of your learning journey over the next 28 weeks:
 | Week 5–8       | 📊 Power BI                      | Dashboards, data visualization, AI visuals like Key Influencers           |
 | Week 9–14      | 🗃️ SQL Fundamentals              | Querying databases, preparing data for analysis and ML                    |
 | Week 15–20     | 🐍 Python & Machine Learning      | Data manipulation, ML concepts, skills test for track selection           |
-| Week 21–28     | 💻 Big Data with Azure or Power BI| Track A: Azure + Big Data Tools<br>Track B: Power BI Advanced + Coursera  |
+| Week 21–24     | 💻 Big Data with Azure or Power BI| Track A: Azure + Big Data Tools<br>Track B: Power BI Advanced + Coursera  |
 
 
 
@@ -155,7 +155,7 @@ Dive into automation, analysis, and model-building with Python. You’ll cover:
 <br>
 
 <details>
-<summary>💻 Week 21–28: Big Data with Azure or Power BI</summary>
+<summary>💻 Week 21–24: Big Data with Azure or Power BI</summary>
 
 <br>
 
