@@ -1,11 +1,11 @@
-# 🧠 Week 1 Review Quiz (Day 5)
+# Week 1 Review Quiz
 
 Welcome to your Week 1 Review! These 40 questions will help you reflect on what you've learned — from systems and tools to confidence-building, program structure, and certifications.
 
 Take your time. Think before you answer. This is a checkpoint, not a test. 🌱
 
 
-## 📅 Section 1: Orientation & The Program
+## Section 1: Orientation & The Program
 
 **1. What is the total duration of the Dataskool program?**
 - A) 12 weeks
@@ -77,7 +77,7 @@ Take your time. Think before you answer. This is a checkpoint, not a test. 🌱
 - D) A traditional chalkboard
 
 
-## 🛠️ Section 2: Tools & Setup
+## Section 2: Tools & Setup
 
 **11. Which tool is used for real-time communication and daily updates in this program?**
 - A) Google Calendar
@@ -150,7 +150,7 @@ Take your time. Think before you answer. This is a checkpoint, not a test. 🌱
 
 
 
-## 💻 Section 3: Core Skills & Concepts
+## Section 3: Core Skills & Concepts
 
 **21. What does GUI stand for?**
 - A) General User Insight
@@ -210,7 +210,7 @@ Take your time. Think before you answer. This is a checkpoint, not a test. 🌱
 
 
 
-## 🎓 Section 4: Certifications & Career
+## Section 4: Certifications & Career
 
 **29. How many certifications can you earn through this program?**
 - A) One
@@ -260,7 +260,7 @@ Take your time. Think before you answer. This is a checkpoint, not a test. 🌱
 - C) Celonis, Personio, Delivery Hero
 - D) Dataskool, GitHub, Snowflake
 
----
+
 
 ## 💭 Section 5: Thought Questions
 
