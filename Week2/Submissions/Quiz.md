@@ -1,7 +1,5 @@
 # Google Sheets — Session Quiz
-### Sessions 2 & 3 | Data Collection, Storage, Cleaning and EDA
 
----
 
 ## Part 1 — Navigation and Data Setup (Q1–Q5)
 
@@ -15,7 +13,7 @@
 
 **Q5.** You have a dataset with columns A to M. You want column A (student IDs) to stay visible while scrolling right through the other columns. Write the exact menu path to achieve this.
 
----
+
 
 ## Part 2 — Formulas for EDA (Q6–Q14)
 
@@ -37,7 +35,6 @@
 
 **Q14.** You use =AVERAGE(D2:D200) but the result seems too low. You suspect some cells in D are blank. Does AVERAGE include blank cells in its calculation? What about zero values? Explain the difference.
 
----
 
 ## Part 3 — Data Cleaning (Q15–Q20)
 
@@ -53,7 +50,6 @@
 
 **Q20.** What does the IFERROR function do, and why is it particularly useful when using VLOOKUP in a real dataset? Write an example.
 
----
 
 ## Part 4 — Pivot Tables, Charts and Lookups (Q21–25)
 
@@ -67,7 +63,7 @@
 
 **Q25.** You insert a Sparkline chart in cell H2 using the data in B2:G2. The sparklines for different rows look incomparable because each one scales to its own min and max. What setting do you change to make all sparklines use the same scale?
 
----
+
 
 ## Part 5 — Thought Questions (Q26–Q30)
 
@@ -81,6 +77,6 @@
 
 **Q30.** Google Sheets has limits — it struggles with very large datasets, has no version control by default, and formulas can break when rows are inserted or deleted. Knowing this, describe a situation where Google Sheets is the right tool for data work, and a situation where it is the wrong tool and something else should be used instead.
 
----
+
 
 *End of Quiz — 30 Questions*
