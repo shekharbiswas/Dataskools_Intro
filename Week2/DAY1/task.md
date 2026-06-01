@@ -126,5 +126,5 @@ By end of Day 1 you should have:
 
 - [The Data Engineering Lifecycle — Fundamentals of Data Engineering, O'Reilly](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 - [Analytics Engineering Glossary — dbt Labs](https://docs.getdbt.com/glossary)
-- [Towards Data Science — Role breakdowns on Medium](https://towardsdatascience.com)
+- [Towards Data Science — Role breakdowns](https://towardsdatascience.com)
 
