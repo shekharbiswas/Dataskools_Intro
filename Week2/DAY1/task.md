@@ -1,7 +1,7 @@
 # Day 1 — Data Roles & Value Chain
 
 > **Goal:** Understand who does what in data, and how raw data becomes business insight
-> **Total Time:** ~4 hours
+> **Total Time:** ~3 hours
 
 
 ## Overview

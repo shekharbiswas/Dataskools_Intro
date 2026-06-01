@@ -14,7 +14,7 @@ This week is designed to help you:
 
 | Day     | Title                        | Description                                                                  | Effort Level     |
 |---------|------------------------------|------------------------------------------------------------------------------|------------------|
-| Day 1   | Data roles & value chain     | Understand who does what in data, and how raw data becomes business insight  | ⭐ Easy           |
+| Day 1   | Data roles & value chain     | Understand who does what in data, and how raw data becomes business insight  | ⭐ ⭐ Light           |
 | Day 2   | Collecting & organizing      | Learn where data comes from and how it’s stored, moved, and accessed         | ⭐⭐ Light         |
 | Day 3   | Cleaning, exploration & use  | Clean messy data, explore patterns, and make sense of numbers                | ⭐⭐⭐ Medium-High  |
 | Day 4   | Thinking like an analyst     | Practice making decisions, evaluating impact, and applying ethical thinking  | ⭐⭐⭐⭐ High        |
