@@ -3,18 +3,16 @@
 > **Goal:** Understand who does what in data, and how raw data becomes business insight
 > **Total Time:** ~4 hours
 
----
 
 ## Overview
 
 Before writing a single query or building a dashboard, you need to understand the landscape — who owns what, how data moves through an organisation, and where value is actually created. Today is about building that mental map.
 
----
 
 ## Tasks
 
 ### Task 1 — Role Mapping Research
-**Duration:** 45 minutes
+**Duration:** 30 minutes
 
 Research and write a one-page summary comparing five core data roles:
 
@@ -33,7 +31,7 @@ For each role, note:
 
 > **Tip:** Use real LinkedIn job postings to ground your research in actual expectations, not just textbook definitions.
 
----
+
 
 ### Task 2 — Draw the Data Value Chain
 **Duration:** 30 minutes
@@ -52,7 +50,7 @@ Raw Data → Information → Knowledge → Wisdom → Decision
 
 Note where your version differs and update your diagram. Keep this sketch — you will redraw it from memory at the end of the day.
 
----
+
 
 ### Task 3 — Real-World Pipeline Teardown
 **Duration:** 60 minutes
@@ -70,28 +68,17 @@ Write a 1–2 page breakdown of how data likely flows through that business. Use
 
 For each stage, note which data role would own that work.
 
----
+
 
 ### Task 4 — Interview or Case Study Deep Dive
-**Duration:** 60 minutes
+**Duration:** 30 minutes
 
-**Option A — Interview a data professional**
-
-Reach out to someone working in data and ask them these five questions:
-
-1. What does your typical day look like?
-2. What data do you work with most?
-3. Who do you receive work from, and who do you hand off to?
-4. What tool could you not live without?
-5. What is the most misunderstood thing about your role?
-
-**Option B — Read 3 case studies**
+**Read 3 case studies**
 
 Read published case studies from companies like Netflix, Uber, Spotify, or Airbnb about how they structure and use their data teams. Summarise each in 3–4 sentences.
 
 > Summarise your key takeaway from each source regardless of which option you choose.
 
----
 
 ### Task 5 — Reflection & Self-Quiz
 **Duration:** 45 minutes
@@ -114,7 +101,6 @@ Close all your notes and:
 
 Check your answers, note any gaps, and add them to your running questions list.
 
----
 
 ## Deliverables
 
@@ -123,10 +109,10 @@ By end of Day 1 you should have:
 - [ ] One-page role comparison summary (Task 1)
 - [ ] Annotated data value chain diagram (Task 2)
 - [ ] Real-world pipeline breakdown, 1–2 pages (Task 3)
-- [ ] Interview notes or case study summaries (Task 4)
+- [ ] Case study summaries (Task 4)
 - [ ] Written reflection + completed self-quiz (Task 5)
 
----
+
 
 ## Key Concepts to Know
 
@@ -135,7 +121,6 @@ By end of Day 1 you should have:
 - **Upstream / downstream** — upstream roles produce data, downstream roles consume it
 - **Data consumer vs data producer** — understanding who your work serves
 
----
 
 ## Resources
 
@@ -143,6 +128,3 @@ By end of Day 1 you should have:
 - [Analytics Engineering Glossary — dbt Labs](https://docs.getdbt.com/glossary)
 - [Towards Data Science — Role breakdowns on Medium](https://towardsdatascience.com)
 
----
-
-*Day 1 of the Data Learning Path*
