@@ -8,3 +8,6 @@
 ## Resources
 
 - [Titanic](https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv)
+
+
+## Video Links
