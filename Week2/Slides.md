@@ -8,6 +8,7 @@
 ## Resources
 
 - [Titanic](https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv)
+- [Day3 Spreadsheet](https://docs.google.com/spreadsheets/d/1KozUHObtXa0p4WODvf-pO4asetIPmFEDevhby2zWOBY/edit?usp=sharing)
 
 
 ## Video Links
