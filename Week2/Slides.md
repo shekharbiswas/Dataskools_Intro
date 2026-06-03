@@ -15,6 +15,7 @@
 
 ## Video Links
 
+- Day1 Session 1: [link](https://us06web.zoom.us/rec/share/zDNmWOtBTlccFBDYNGcYK_03qkxwnG65uUp485WQrsdZL9HwlgyMFhY5BhZ7Ehlk.Zx5wYHN1iMddmhbO)
 - Day2 Session 1 : [link](https://us06web.zoom.us/rec/share/WhysyKcBdiSHQfnRqIM0Ec9gFN7drELvpZ16255zFGO3hDzRQdocoDml2OZww9ym.m6qLz_xKni-aUzJF)
 - Day2 Session 2 : [link](https://us06web.zoom.us/rec/share/ubv9qz8PGGojckSETBAKAU1bUBBUehZ-tt5g9eZ9hInU-o0ENzsldh5RCqpyTMU.t5_eG2msSBQyb_Nk)
 - Day3 session 1 : [link](https://us06web.zoom.us/rec/share/DEg_WSu3OZv0Es4PSxrVRhaGpz_Y-EwzLSmSezVuOdhDTTZVV3sW-CgGTxl3F2Ib.ta4bh7Wyh4xsVo9N) 
