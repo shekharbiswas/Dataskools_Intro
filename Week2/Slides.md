@@ -1,8 +1,7 @@
 - [Data Roles and the Value chain](https://docs.google.com/presentation/d/e/2PACX-1vQdnIKshh629YyAHVAqB6TWXh9hw2829nsGTnvf1gNz4qEcK6Xyag9xMgLgx1Yllsss_jbFXXP2W_L6/pub?start=false&loop=false&delayms=3000)
 - [Data in Google Sheets](https://docs.google.com/presentation/d/e/2PACX-1vSkQe3geacXVQdnFoiOR8dvpJR3-zeSQWwwQP6a2klm3yt4f5GHbfUO_XjJd1ISxUKypPHZ5GBb5WEG/pub?start=false&loop=false&delayms=3000)
 - [Exploring Data in Google Sheets](https://docs.google.com/presentation/d/e/2PACX-1vRkQLZwL0_9TeC9VtFWnbcJUbJOBAmxqTusUWsmCl8Gy077Yl6z-wcNICy9jkxIZo067XI4oMiez8KP/pub?start=false&loop=false&delayms=3000)
-
-
+- [Project Guide](https://docs.google.com/presentation/d/e/2PACX-1vTMtUrlInk6Kui1QgKb2BTFjWO_-ex7YI7-wZh6nPR9nIsITUIprw6An0dny6Ug5MWdiyAClRPZn9Oy/pub?start=false&loop=false&delayms=3000)
 
 
 
