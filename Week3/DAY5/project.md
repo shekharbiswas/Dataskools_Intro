@@ -103,19 +103,20 @@ In your `01_SCHEMA` tab, build a schema registry — the document that tells any
 
 Build this table manually (type all labels, fill in your observations):
 
-| # | Column Name | Raw Data Type | Description | Example Value | Nullable? | Notes / Issues |
-||-|--|-||--|-|
-| 1 | `ride_id` | Text | Unique identifier for each trip | `6D045F2C174B4... ` | No | Check for duplicates |
-| 2 | `rideable_type` | Text | Type of bike used | `classic_bike` | No | |
-| 3 | `started_at` | Text (datetime) | Trip start timestamp | `2023-09-01 00:02:...` | No | Needs parsing |
-| 4 | `ended_at` | Text (datetime) | Trip end timestamp | `2023-09-01 00:...` | No | Needs parsing |
-| 5 | `start_station_name` | Text | Name of origin station | `14th & V St NW` | **Yes** | Blank = dockless start |
-| 6 | `end_station_name` | Text | Name of destination station | `... ` | **Yes** | Blank = dockless end |
-| 7 | `start_lat` | Number | Latitude of start | `38.9...` | Yes | |
-| 8 | `start_lng` | Number | Longitude of start | `-77.0...` | Yes | |
-| 9 | `end_lat` | Number | Latitude of end | `38.9...` | Yes | |
-| 10 | `end_lng` | Number | Longitude of end | `-77.0...` | Yes | |
-| 11 | `member_casual` | Text | Rider membership status | `member` | No | Only 2 values |
+| #  | Column Name        | Raw Data Type   | Description                     | Example Value        | Nullable? | Notes / Issues         |
+| -- | ------------------ | --------------- | ------------------------------- | -------------------- | --------- | ---------------------- |
+| 1  | ride_id            | Text            | Unique identifier for each trip | 6D045F2C174B4...     | No        | Check for duplicates   |
+| 2  | rideable_type      | Text            | Type of bike used               | classic_bike         | No        |                        |
+| 3  | started_at         | Text (datetime) | Trip start timestamp            | 2023-09-01 00:02:... | No        | Needs parsing          |
+| 4  | ended_at           | Text (datetime) | Trip end timestamp              | 2023-09-01 00:...    | No        | Needs parsing          |
+| 5  | start_station_name | Text            | Name of origin station          | 14th & V St NW       | Yes       | Blank = dockless start |
+| 6  | end_station_name   | Text            | Name of destination station     | ...                  | Yes       | Blank = dockless end   |
+| 7  | start_lat          | Number          | Latitude of start               | 38.9...              | Yes       |                        |
+| 8  | start_lng          | Number          | Longitude of start              | -77.0...             | Yes       |                        |
+| 9  | end_lat            | Number          | Latitude of end                 | 38.9...              | Yes       |                        |
+| 10 | end_lng            | Number          | Longitude of end                | -77.0...             | Yes       |                        |
+| 11 | member_casual      | Text            | Rider membership status         | member               | No        | Only 2 values          |
+
 
 ### Data Quality Audit
 
