@@ -7,7 +7,7 @@
 > **Duration:** 8 hours (one full project day)  
 > **Difficulty:** ⭐⭐⭐⭐ Capstone  
 
----
+
 
 ## 🧭 The Big Picture
 
@@ -24,14 +24,14 @@ Today you will build exactly this — but entirely inside Google Sheets. Each ta
 
 By the end of the day you will have one working spreadsheet that a data engineer, an analyst, and a product manager could each open and use.
 
----
+
 
 ## Pipeline Architecture — Your Tab Map
 
 Before touching any data, draw this map. Create all tabs now with these exact names (you'll fill them one by one):
 
 | Tab Name | Pipeline Layer | What lives here |
-|----------|---------------|-----------------|
+|-||--|
 | `00_RAW` | Ingestion | The untouched CSV import — never edited |
 | `01_SCHEMA` | Documentation | Column definitions, data types, quality notes |
 | `02_CLEAN` | Transformation | Cleaned rows, derived columns (duration, hour, weekday) |
@@ -45,12 +45,12 @@ Before touching any data, draw this map. Create all tabs now with these exact na
 
 > 💡 **Data engineering rule #1:** Raw data is sacred. `00_RAW` is never modified after import. Every change happens in a downstream tab. If something goes wrong, you can always trace back to the source.
 
----
+
 
 ## Time Budget
 
 | Stage | Tab(s) | Time |
-|-------|--------|------|
+|-|--||
 | Stage 1 — Ingest & Document | `00_RAW`, `01_SCHEMA` | 45 min |
 | Stage 2 — Clean & Transform | `02_CLEAN` | 60 min |
 | Stage 3 — Aggregate | `03_AGGREGATE` | 60 min |
@@ -60,13 +60,13 @@ Before touching any data, draw this map. Create all tabs now with these exact na
 | Stage 7 — Dashboard | `08_DASHBOARD` | 50 min |
 | Stage 8 — Pipeline review | `PIPELINE_LOG` | 40 min |
 
----
+
 
 
 # STAGE 1 — Ingest & Document
 ## Tabs: `00_RAW` and `01_SCHEMA` · 45 minutes
 
----
+
 
 ## 📥 Step 1A — Ingest the Raw Data (15 min)
 
@@ -92,7 +92,7 @@ Row count (incl. header): =COUNTA(00_RAW!A:A)
 Columns: 11
 ```
 
----
+
 
 ## 📋 Step 1B — Document the Schema (30 min)
 
@@ -103,7 +103,7 @@ In your `01_SCHEMA` tab, build a schema registry — the document that tells any
 Build this table manually (type all labels, fill in your observations):
 
 | # | Column Name | Raw Data Type | Description | Example Value | Nullable? | Notes / Issues |
-|---|-------------|--------------|-------------|---------------|-----------|----------------|
+||-|--|-||--|-|
 | 1 | `ride_id` | Text | Unique identifier for each trip | `6D045F2C174B4... ` | No | Check for duplicates |
 | 2 | `rideable_type` | Text | Type of bike used | `classic_bike` | No | |
 | 3 | `started_at` | Text (datetime) | Trip start timestamp | `2023-09-01 00:02:...` | No | Needs parsing |
@@ -121,7 +121,7 @@ Build this table manually (type all labels, fill in your observations):
 Below your schema table, add a **quality audit section**. Use `COUNTBLANK` and `COUNTIF` on `00_RAW` to fill this in:
 
 | Column | Blank / Null Count | % Missing | Action needed? |
-|--------|--------------------|-----------|----------------|
+|--|--|--|-|
 | `start_station_name` | `=COUNTBLANK(00_RAW!E:E)` | `=[blank]/COUNTA(00_RAW!A:A)*100` | |
 | `end_station_name` | | | |
 | `end_lat` | | | |
@@ -146,13 +146,13 @@ Duplicate ride_ids:  =COUNTA(00_RAW!A:A) - SUMPRODUCT(1/COUNTIF(00_RAW!A2:A10000
 - Decision: we will handle these issues in Stage 2 by...
 ```
 
----
+
 
 
 # STAGE 2 — Clean & Transform
 ## Tab: `02_CLEAN` · 60 minutes
 
----
+
 
 In `02_CLEAN`, we reference `00_RAW` — we never copy-paste raw values. This keeps the pipeline traceable: if the source changes, cleaning updates automatically.
 
@@ -172,7 +172,7 @@ Actually, for Sheets performance, we'll work differently: copy the entire `00_RA
 
 These are your **transformation columns** — the core of the cleaning stage. Add each as a new column to the right of your data, with a clear header name.
 
----
+
 
 **Column M — `duration_min`**  
 Formula for M2:
@@ -185,7 +185,7 @@ Formula for M2:
 ```
 What this does: extracts date and time from the raw text string, calculates the difference, converts to minutes, rounds to 1 decimal. Returns blank if either timestamp is missing.
 
----
+
 
 **Column N — `hour_of_day`**  
 Formula for N2:
@@ -194,7 +194,7 @@ Formula for N2:
 ```
 Returns: 0–23 (the hour when the trip started)
 
----
+
 
 **Column O — `day_of_week`**  
 Formula for O2:
@@ -203,7 +203,7 @@ Formula for O2:
 ```
 Returns: "Monday", "Tuesday", etc.
 
----
+
 
 **Column P — `is_weekend`**  
 Formula for P2:
@@ -211,7 +211,7 @@ Formula for P2:
 =IF(C2="", "", IF(OR(O2="Saturday",O2="Sunday"), "weekend", "weekday"))
 ```
 
----
+
 
 **Column Q — `is_valid`**  
 This is your **row-level quality flag** — the single most important column in the pipeline. Every row gets a TRUE or FALSE based on your cleaning rules.
@@ -234,7 +234,7 @@ What this checks:
 
 > **Data engineering rule #3:** Never silently delete bad rows. Flag them with `is_valid = FALSE` and keep them in the pipeline. This way you can always audit how many rows were excluded and why. Downstream tabs simply filter on `is_valid = TRUE`.
 
----
+
 
 **Fill all four columns down** for all rows (click each cell, Ctrl+Shift+End to find last row, Ctrl+D to fill down). This will take a moment.
 
@@ -243,7 +243,7 @@ What this checks:
 At the bottom of `02_CLEAN` (or in a sidebar section), add:
 
 | Metric | Formula | Value |
-|--------|---------|-------|
+|--||-|
 | Total raw rows | `=COUNTA(A:A)-1` | |
 | Valid rows (`is_valid=TRUE`) | `=COUNTIF(Q:Q,TRUE)` | |
 | Invalid rows | `=COUNTIF(Q:Q,FALSE)` | |
@@ -260,14 +260,13 @@ Invalid rows:
 Exclusion reasons documented: duration out of range, blank fields
 ```
 
----
 
----
+
 
 # STAGE 3 — Aggregate
 ## Tab: `03_AGGREGATE` · 60 minutes
 
----
+
 
 The aggregation layer is where raw rows become **summary metrics**. This is equivalent to a SQL `GROUP BY` — instead of working with 300,000 individual trips, downstream tabs work with compact summary tables.
 
@@ -280,7 +279,7 @@ All formulas in `03_AGGREGATE` reference `02_CLEAN` and include the `is_valid=TR
 Create a section called **"Overall Metrics"**:
 
 | Metric | Formula | Value |
-|--------|---------|-------|
+|--||-|
 | Total valid trips | `=COUNTIF(02_CLEAN!Q:Q,TRUE)` | |
 | Date range start | `=MIN(IF(02_CLEAN!Q2:Q400000=TRUE, DATEVALUE(MID(02_CLEAN!C2:C400000,1,10))))` (array formula: Ctrl+Shift+Enter) | |
 | Date range end | same with MAX | |
@@ -292,14 +291,14 @@ Create a section called **"Overall Metrics"**:
 | Weekend trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekend")` | |
 | Weekday trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekday")` | |
 
----
+
 
 ### Step 3B — Duration metrics by segment
 
 Create a section called **"Duration by Segment"**:
 
 | Segment | Mean Duration | Median (approx) | % > 30 min | % < 5 min |
-|---------|--------------|----------------|------------|-----------|
+||--|-||--|
 | All valid trips | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE)` | `=PERCENTILE(IF(02_CLEAN!Q2:Q400000=TRUE,02_CLEAN!M2:M400000),0.5)` *(Ctrl+Shift+Enter)* | | |
 | Members | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")` | | | |
 | Casual riders | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"casual")` | | | |
@@ -314,26 +313,26 @@ For `% > 30 min` columns:
  / COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member") * 100
 ```
 
----
+
 
 ### Step 3C — Hourly distribution table
 
 Create a section called **"Trips by Hour"** — this will feed the dashboard chart.
 
 | Hour | Trip Count | % of Day |
-|------|-----------|---------|
+||--||
 | 0 | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!N:N,0)` | `=[count]/total*100` |
 | 1 | | |
 | ... fill rows 0–23 | | |
 
----
+
 
 ### Step 3D — Duration frequency table (for histogram)
 
 Create a section called **"Duration Buckets"**:
 
 | Bucket | Label | Count | % of Total |
-|--------|-------|-------|-----------|
+|--|-|-|--|
 | 0–5 | "0–5 min" | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!M:M,">"&0,02_CLEAN!M:M,"<="&5)` | |
 | 5–10 | "5–10 min" | | |
 | 10–15 | | | |
@@ -354,14 +353,11 @@ All formulas reference 02_CLEAN with is_valid=TRUE filter
 Downstream tabs (04, 05, 07, 08) should read from this tab only
 ```
 
----
-
----
 
 # STAGE 4 — Statistics Layer
 ## Tab: `04_STATS` · 60 minutes
 
----
+
 
 > **Important framing:** In a real pipeline, a data analyst or BI tool sits at this layer. They don't re-process raw data — they query the aggregation layer. That's what we do here: `04_STATS` reads from `03_AGGREGATE`, not from `02_CLEAN`.
 
@@ -370,7 +366,7 @@ Downstream tabs (04, 05, 07, 08) should read from this tab only
 Create a **"Distribution Summary"** section. Pull values from `03_AGGREGATE` where you already computed them, and add the ones missing:
 
 | Statistic | All Trips | Members | Casual |
-|-----------|-----------|---------|--------|
+|--|--||--|
 | Mean | `=03_AGGREGATE!C4` *(reference your cell)* | | |
 | Median | | | |
 | Std Dev | `=STDEV(IF(02_CLEAN!Q2:Q400000=TRUE,02_CLEAN!M2:M400000))` *(Ctrl+Shift+Enter)* | | |
@@ -416,21 +412,17 @@ Distribution shape: [right-skewed / symmetric / other]
 Mean vs median gap: [X] minutes — implies [your interpretation]
 ```
 
----
-
----
-
 # STAGE 5 — Probability Layer
 ## Tab: `05_PROBABILITY` · 50 minutes
 
----
+
 
 ### Step 5A — Empirical probability table
 
 Pull counts from `03_AGGREGATE` (do not re-run COUNTIFS on raw data). Build:
 
 | Event | Count (from 03_AGGREGATE) | Total Valid Trips | Probability | As % |
-|-------|--------------------------|-------------------|-------------|------|
+|-|--|-|-||
 | P(casual) | `=03_AGGREGATE!C10` | `=03_AGGREGATE!C3` | `=B2/C2` | |
 | P(member) | | | | |
 | P(electric bike) | | | | |
@@ -447,8 +439,6 @@ P(casual) + P(member) = ?    → should be 1.0 (or 100%)
 P(electric) + P(classic) = ? → should be 1.0 — if not, are there other bike types?
 ```
 
----
-
 ### Step 5B — Conditional probability: the independence test
 
 **Question: Is electric bike preference independent of rider type?**
@@ -456,7 +446,7 @@ P(electric) + P(classic) = ? → should be 1.0 — if not, are there other bike 
 Calculate:
 
 | Probability | Formula | Value |
-|------------|---------|-------|
+|||-|
 | P(electric) overall | already done | |
 | P(electric \| member) | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member",02_CLEAN!B:B,"electric_bike") / COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")` | |
 | P(electric \| casual) | same for casual | |
@@ -465,14 +455,13 @@ Calculate:
 
 Write your finding in 3 sentences: what you found, whether they are dependent or independent, and what it means for a business decision about electric bike fleet allocation.
 
----
 
 ### Step 5C — Joint probability table
 
 Build a 2×2 joint probability matrix:
 
 |  | Classic Bike | Electric Bike | **Row Total** |
-|--|-------------|--------------|--------------|
+|--|-|--|--|
 | **Member** | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member",02_CLEAN!B:B,"classic_bike")/[total]` | | |
 | **Casual** | | | |
 | **Column Total** | | | **1.0** |
@@ -481,7 +470,6 @@ All four cells should sum to 1.0. The row totals should equal P(member) and P(ca
 
 This table is called a **joint distribution**. It shows the probability of *both* conditions being true at once.
 
----
 
 ### Step 5D — Probability interpretation questions
 
@@ -501,14 +489,12 @@ P(electric|member) = X%  vs  P(electric|casual) = Y%  vs  P(electric overall) = 
 Business implication: 
 ```
 
----
 
----
 
 # STAGE 6 — Sampling & A/B Test
 ## Tabs: `06_SAMPLING` and `07_AB_TEST` · 75 minutes
 
----
+
 
 ## 06_SAMPLING — Extracting a Clean Test Dataset (25 min)
 
@@ -549,7 +535,6 @@ Selection method: RAND() frozen, sort ascending, take first N
 Columns included: ride_id, rideable_type, member_casual, duration_min, hour_of_day, is_weekend
 ```
 
----
 
 ## 07_AB_TEST — The Experiment (50 min)
 
@@ -576,14 +561,14 @@ Business decision this will inform:
 fleet size, pricing, maintenance budget, station planning?]
 ```
 
----
+
 
 ### Step 7B — Descriptive stats for both groups
 
 In `07_AB_TEST`, create a comparison table pulling from `06_SAMPLING`:
 
 | Metric | Classic (Group A) | Electric (Group B) |
-|--------|------------------|-------------------|
+|--||-|
 | n (sample size) | `=COUNTIF(06_SAMPLING!B:B,"classic_bike")` | |
 | Mean duration | `=AVERAGEIF(06_SAMPLING!B:B,"classic_bike",06_SAMPLING!D:D)` | |
 | Std Dev | `=STDEV(IF(06_SAMPLING!B2:B3001="classic_bike",06_SAMPLING!D2:D3001))` *(Ctrl+Shift+Enter)* | |
@@ -597,13 +582,11 @@ Absolute difference (min) = Mean(Classic) - Mean(Electric)
 Relative difference (%)   = Absolute difference / Mean(Classic) * 100
 ```
 
----
-
 ### Step 7C — Side-by-side histogram
 
 Build a frequency table with separate columns for classic and electric (same bin structure as Stage 3), using COUNTIFS on `06_SAMPLING`. Create a column chart. This is the visual representation of your A/B test groups.
 
----
+
 
 ### Step 7D — Run the TTEST
 
@@ -635,8 +618,6 @@ Therefore, we [REJECT / FAIL TO REJECT] H₀.
 The difference IS / IS NOT statistically significant at α = 0.05."
 ```
 
----
-
 ### Step 7E — Effect size (practical significance)
 
 A statistically significant result only tells you the difference is real. Effect size tells you whether it is *worth acting on*.
@@ -655,14 +636,14 @@ Cohen's d  = =[absolute difference cell] / [pooled SD cell]
 ```
 
 | Measure | Value | Interpretation |
-|---------|-------|----------------|
+||-|-|
 | Absolute difference (min) | | Meaningful in context? |
 | Relative difference (%) | | |
 | p-value | | Significant if < 0.05 |
 | Cohen's d | | Small <0.2 / Medium 0.2–0.5 / Large >0.5 |
 | Overall verdict | | Real AND important / Real but minor / Not conclusive |
 
----
+
 
 ### Step 7F — Confound check
 
@@ -671,7 +652,7 @@ Remember from Stage 5: casual riders both ride longer AND may prefer electric bi
 Check it:
 
 | Comparison | Classic Mean | Electric Mean | Difference |
-|-----------|-------------|--------------|-----------|
+|--|-|--|--|
 | All riders | | | |
 | Members only | `=AVERAGEIFS(D:D,B:B,"classic_bike",C:C,"member")` | | |
 | Casual only | `=AVERAGEIFS(D:D,B:B,"classic_bike",C:C,"casual")` | | |
@@ -689,14 +670,12 @@ Verdict:
 Confound check: rider type [does / does not] explain the difference
 ```
 
----
 
----
 
 # STAGE 7 — Dashboard
 ## Tab: `08_DASHBOARD` · 50 minutes
 
----
+
 
 The dashboard is the **output layer** of your pipeline — the one tab a business user would bookmark. It should tell the full story at a glance, pulling from all upstream tabs, and never contain raw data or complex formulas of its own.
 
@@ -706,12 +685,12 @@ The dashboard is the **output layer** of your pipeline — the one tab a busines
 
 Design it in three sections, stacked top to bottom:
 
----
+
 
 **Section 1 — Pipeline Health** (top strip, 5 rows)
 
 | Label | Value |
-|-------|-------|
+|-|-|
 | Data source | Capital Bikeshare — September 2023 |
 | Raw rows ingested | `=COUNTA(00_RAW!A:A)-1` |
 | Valid rows (after cleaning) | `=03_AGGREGATE!C3` |
@@ -720,7 +699,7 @@ Design it in three sections, stacked top to bottom:
 
 Use a light grey background for this strip. It tells anyone opening the file: *"Here is where the data came from and how clean it is."*
 
----
+
 
 **Section 2 — Key Metrics** (middle section)
 
@@ -737,7 +716,7 @@ Mean Trip Duration   |  Most Popular Hour   |  Weekend Trip Share
 To make numbers visually large: select the value cell → Format → Font size → 24 or 28. Bold. Use a dark colour.  
 Label cells below each: font size 9, grey, italic.
 
----
+
 
 **Section 3 — Experiment Results** (bottom section)
 
@@ -756,7 +735,7 @@ RECOMMENDATION:
  because it requires human judgement, not a formula.]
 ```
 
----
+
 
 ### Step 7B — Add two charts
 
@@ -765,7 +744,7 @@ Copy (do not recreate) the two most important charts from upstream tabs into thi
 1. Your **duration distribution histogram** from `04_STATS` — paste as a linked image (right-click chart → Copy chart → paste into dashboard)
 2. Your **A/B test side-by-side histogram** from `07_AB_TEST`
 
----
+
 
 ### Step 7C — Dashboard design rules
 
@@ -785,14 +764,11 @@ All values reference upstream tabs — no independent computations
 Charts: duration histogram (from 04_STATS), A/B test histogram (from 07_AB_TEST)
 ```
 
----
-
----
 
 # STAGE 8 — Pipeline Review & Documentation
 ## Tab: `PIPELINE_LOG` · 40 minutes
 
----
+
 
 You've been adding notes throughout the day. Now write the final sections.
 
@@ -858,9 +834,9 @@ Answer these in `PIPELINE_LOG` as your closing entry:
 
 4. **What you'd automate:** If you were moving this pipeline from Sheets into a real data engineering tool (like dbt, Airflow, or even Python), which stage would you automate first and why?
 
----
 
----
+
+
 
 ## ✅ Full Project Deliverables Checklist
 
@@ -886,7 +862,7 @@ Answer these in `PIPELINE_LOG` as your closing entry:
 - [ ] 2-sentence recommendation on dashboard (Stage 7)
 - [ ] 4 final reflection questions answered (Stage 8)
 
----
+
 
 ## 💡 Bonus Challenges
 
@@ -898,6 +874,6 @@ Answer these in `PIPELINE_LOG` as your closing entry:
 
 3. **Hourly peak analysis:** Using your `03_AGGREGATE` hourly table, identify the top 3 peak hours and the 3 quietest hours. Calculate how much longer or shorter trips are during peak hours vs off-peak. Add a "Peak Analysis" section to `08_DASHBOARD`.
 
----
+
 
 > Statistics, probability, and A/B testing are not isolated techniques. They are **layers in a pipeline** — each one depends on the quality and structure of what came before it. A beautiful A/B test built on uncleaned, undocumented data is worthless. A boring, well-documented cleaning stage makes every analysis downstream trustworthy. That is data engineering.
