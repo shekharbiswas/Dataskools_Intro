@@ -281,18 +281,20 @@ All formulas in `03_AGGREGATE` reference `02_CLEAN` and include the `is_valid=TR
 
 Create a section called **"Overall Metrics"**:
 
-| Metric | Formula | Value |
-|--||-|
-| Total valid trips | `=COUNTIF(02_CLEAN!Q:Q,TRUE)` | |
-| Date range start | `=MIN(IF(02_CLEAN!Q2:Q400000=TRUE, DATEVALUE(MID(02_CLEAN!C2:C400000,1,10))))` (array formula: Ctrl+Shift+Enter) | |
-| Date range end | same with MAX | |
-| Unique start stations | manual count or sort | |
-| Classic bike trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"classic_bike")` | |
-| Electric bike trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"electric_bike")` | |
-| Member trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")` | |
-| Casual trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"casual")` | |
-| Weekend trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekend")` | |
-| Weekday trips | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekday")` | |
+| **Metric**            | **Formula**                                                                                                       | **Value** |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------- | --------- |
+| Total valid trips     | `=COUNTIF(02_CLEAN!Q:Q,TRUE)`                                                                                     |           |
+| Date range start      | `=MIN(IF(02_CLEAN!Q2:Q400000=TRUE,DATEVALUE(MID(02_CLEAN!C2:C400000,1,10))))` *(array formula: Ctrl+Shift+Enter)* |           |
+| Date range end        | Same as above using `MAX` instead of `MIN`                                                                        |           |
+| Unique start stations | Manual count or sort                                                                                              |           |
+| Classic bike trips    | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"classic_bike")`                                                        |           |
+| Electric bike trips   | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"electric_bike")`                                                       |           |
+| Member trips          | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")`                                                              |           |
+| Casual trips          | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"casual")`                                                              |           |
+| Weekend trips         | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekend")`                                                             |           |
+| Weekday trips         | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekday")`                                                             |           |
+                                                                                                   |           |
+
 
 
 
@@ -300,15 +302,16 @@ Create a section called **"Overall Metrics"**:
 
 Create a section called **"Duration by Segment"**:
 
-| Segment | Mean Duration | Median (approx) | % > 30 min | % < 5 min |
-||--|-||--|
-| All valid trips | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE)` | `=PERCENTILE(IF(02_CLEAN!Q2:Q400000=TRUE,02_CLEAN!M2:M400000),0.5)` *(Ctrl+Shift+Enter)* | | |
-| Members | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")` | | | |
-| Casual riders | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"casual")` | | | |
-| Classic bikes | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"classic_bike")` | | | |
-| Electric bikes | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"electric_bike")` | | | |
-| Weekday | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekday")` | | | |
-| Weekend | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekend")` | | | |
+| **Segment**     | **Mean Duration**                                                          | **Median (Approx)**                                                                      | **% > 30 min** | **% < 5 min** |
+| --------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------- | ------------- |
+| All valid trips | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE)`                              | `=PERCENTILE(IF(02_CLEAN!Q2:Q400000=TRUE,02_CLEAN!M2:M400000),0.5)` *(Ctrl+Shift+Enter)* |                |               |
+| Members         | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")`        |                                                                                          |                |               |
+| Casual riders   | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"casual")`        |                                                                                          |                |               |
+| Classic bikes   | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"classic_bike")`  |                                                                                          |                |               |
+| Electric bikes  | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!B:B,"electric_bike")` |                                                                                          |                |               |
+| Weekday         | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekday")`       |                                                                                          |                |               |
+| Weekend         | `=AVERAGEIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE,02_CLEAN!P:P,"weekend")`       |                                                                                          |                |               |
+
 
 For `% > 30 min` columns:
 ```
