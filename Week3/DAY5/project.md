@@ -30,35 +30,36 @@ By the end of the day you will have one working spreadsheet that a data engineer
 
 Before touching any data, draw this map. Create all tabs now with these exact names (you'll fill them one by one):
 
-| Tab Name | Pipeline Layer | What lives here |
-|-||--|
-| `00_RAW` | Ingestion | The untouched CSV import — never edited |
-| `01_SCHEMA` | Documentation | Column definitions, data types, quality notes |
-| `02_CLEAN` | Transformation | Cleaned rows, derived columns (duration, hour, weekday) |
-| `03_AGGREGATE` | Aggregation | Summary counts and metrics — your "fact table" |
-| `04_STATS` | Analysis | Descriptive statistics pulled from `03_AGGREGATE` |
-| `05_PROBABILITY` | Analysis | Empirical probabilities and conditional probabilities |
-| `06_SAMPLING` | Experiment Prep | Random sample extraction for the A/B test |
-| `07_AB_TEST` | Experiment | The actual test, p-value, effect size |
-| `08_DASHBOARD` | Output / BI layer | One-screen summary that pulls from all upstream tabs |
-| `PIPELINE_LOG` | Meta | Your running log of decisions and observations |
+| Tab Name         | Pipeline Layer    | What lives here                                         |
+| ---------------- | ----------------- | ------------------------------------------------------- |
+| `00_RAW`         | Ingestion         | The untouched CSV import — never edited                 |
+| `01_SCHEMA`      | Documentation     | Column definitions, data types, quality notes           |
+| `02_CLEAN`       | Transformation    | Cleaned rows, derived columns (duration, hour, weekday) |
+| `03_AGGREGATE`   | Aggregation       | Summary counts and metrics — your "fact table"          |
+| `04_STATS`       | Analysis          | Descriptive statistics pulled from `03_AGGREGATE`       |
+| `05_PROBABILITY` | Analysis          | Empirical probabilities and conditional probabilities   |
+| `06_SAMPLING`    | Experiment Prep   | Random sample extraction for the A/B test               |
+| `07_AB_TEST`     | Experiment        | The actual test, p-value, effect size                   |
+| `08_DASHBOARD`   | Output / BI Layer | One-screen summary that pulls from all upstream tabs    |
+| `PIPELINE_LOG`   | Meta              | Your running log of decisions and observations          |
 
 > 💡 **Data engineering rule #1:** Raw data is sacred. `00_RAW` is never modified after import. Every change happens in a downstream tab. If something goes wrong, you can always trace back to the source.
 
-
+---
 
 ## Time Budget
 
-| Stage | Tab(s) | Time |
-|-|--||
-| Stage 1 — Ingest & Document | `00_RAW`, `01_SCHEMA` | 45 min |
-| Stage 2 — Clean & Transform | `02_CLEAN` | 60 min |
-| Stage 3 — Aggregate | `03_AGGREGATE` | 60 min |
-| Stage 4 — Stats layer | `04_STATS` | 60 min |
-| Stage 5 — Probability layer | `05_PROBABILITY` | 50 min |
+| Stage                         | Tab(s)                      | Time   |
+| ----------------------------- | --------------------------- | ------ |
+| Stage 1 — Ingest & Document   | `00_RAW`, `01_SCHEMA`       | 45 min |
+| Stage 2 — Clean & Transform   | `02_CLEAN`                  | 60 min |
+| Stage 3 — Aggregate           | `03_AGGREGATE`              | 60 min |
+| Stage 4 — Stats Layer         | `04_STATS`                  | 60 min |
+| Stage 5 — Probability Layer   | `05_PROBABILITY`            | 50 min |
 | Stage 6 — Sampling & A/B Test | `06_SAMPLING`, `07_AB_TEST` | 75 min |
-| Stage 7 — Dashboard | `08_DASHBOARD` | 50 min |
-| Stage 8 — Pipeline review | `PIPELINE_LOG` | 40 min |
+| Stage 7 — Dashboard           | `08_DASHBOARD`              | 50 min |
+| Stage 8 — Pipeline Review     | `PIPELINE_LOG`              | 40 min |
+
 
 
 
