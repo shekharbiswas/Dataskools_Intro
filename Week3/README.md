@@ -139,3 +139,30 @@
 
 
 
+### 📅 Day 5: From Analysis to Pipelines
+
+<details>
+<summary>📘 10_data_pipeline_thinking.md</summary>
+<br>
+
+- 🏗️ What is a data pipeline and why does it exist?
+- 🔗 How raw data flows through stages — ingest, clean, aggregate, analyse, report
+- 🧠 Why stats, probability, and A/B tests are *consumers* of a pipeline, not standalone tools
+- 📋 Schema documentation, data quality flags, and the immutable source rule
+- 🛠️ Seeing Google Sheets as a pipeline: each tab as a layer
+
+</details>
+
+<br>
+
+<details>
+<summary>📘 11_pipeline_to_decision.md</summary>
+<br>
+
+- 🔁 Connecting the full week: descriptive stats → probability → A/B test → dashboard
+- 🚨 How bad data upstream breaks decisions downstream — the garbage in, garbage out rule
+- 📊 Building a one-screen dashboard that pulls from every pipeline layer
+- 🧾 Documenting decisions: cleaning rules, sampling choices, test design
+- 📈 Writing a recommendation a non-technical manager would actually act on
+
+</details>

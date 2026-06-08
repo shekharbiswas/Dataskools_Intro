@@ -62,7 +62,6 @@ Before touching any data, draw this map. Create all tabs now with these exact na
 
 ---
 
----
 
 # STAGE 1 — Ingest & Document
 ## Tabs: `00_RAW` and `01_SCHEMA` · 45 minutes
@@ -149,7 +148,6 @@ Duplicate ride_ids:  =COUNTA(00_RAW!A:A) - SUMPRODUCT(1/COUNTIF(00_RAW!A2:A10000
 
 ---
 
----
 
 # STAGE 2 — Clean & Transform
 ## Tab: `02_CLEAN` · 60 minutes
