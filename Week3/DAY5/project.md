@@ -371,15 +371,16 @@ Downstream tabs (04, 05, 07, 08) should read from this tab only
 
 Create a **"Distribution Summary"** section. Pull values from `03_AGGREGATE` where you already computed them, and add the ones missing:
 
-| Statistic | All Trips | Members | Casual |
-|--|--||--|
-| Mean | `=03_AGGREGATE!C4` *(reference your cell)* | | |
-| Median | | | |
-| Std Dev | `=STDEV(IF(02_CLEAN!Q2:Q400000=TRUE,02_CLEAN!M2:M400000))` *(Ctrl+Shift+Enter)* | | |
-| Min | `=MINIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE)` | | |
-| 25th Pctile | array formula with PERCENTILE+IF | | |
-| 75th Pctile | | | |
-| Max | | | |
+| **Statistic** | **All Trips**                                                                   | **Members** | **Casual** |
+| ------------- | ------------------------------------------------------------------------------- | ----------- | ---------- |
+| Mean          | `=03_AGGREGATE!C4` *(reference your cell)*                                      |             |            |
+| Median        |                                                                                 |             |            |
+| Std Dev       | `=STDEV(IF(02_CLEAN!Q2:Q400000=TRUE,02_CLEAN!M2:M400000))` *(Ctrl+Shift+Enter)* |             |            |
+| Min           | `=MINIFS(02_CLEAN!M:M,02_CLEAN!Q:Q,TRUE)`                                       |             |            |
+| 25th Pctile   | Array formula with `PERCENTILE` + `IF`                                          |             |            |
+| 75th Pctile   |                                                                                 |             |            |
+| Max           |                                                                                 |             |            |
+
 
 ### Step 4B — Describe the distribution shape
 
@@ -427,15 +428,16 @@ Mean vs median gap: [X] minutes — implies [your interpretation]
 
 Pull counts from `03_AGGREGATE` (do not re-run COUNTIFS on raw data). Build:
 
-| Event | Count (from 03_AGGREGATE) | Total Valid Trips | Probability | As % |
-|-|--|-|-||
-| P(casual) | `=03_AGGREGATE!C10` | `=03_AGGREGATE!C3` | `=B2/C2` | |
-| P(member) | | | | |
-| P(electric bike) | | | | |
-| P(classic bike) | | | | |
-| P(weekend) | | | | |
-| P(duration > 30 min) | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!M:M,">"&30)` | | | |
-| P(duration < 5 min) | | | | |
+| **Event**            | **Count (from 03_AGGREGATE)**                      | **Total Valid Trips** | **Probability** | **As %** |
+| -------------------- | -------------------------------------------------- | --------------------- | --------------- | -------- |
+| P(casual)            | `=03_AGGREGATE!C10`                                | `=03_AGGREGATE!C3`    | `=B2/C2`        |          |
+| P(member)            |                                                    |                       |                 |          |
+| P(electric bike)     |                                                    |                       |                 |          |
+| P(classic bike)      |                                                    |                       |                 |          |
+| P(weekend)           |                                                    |                       |                 |          |
+| P(duration > 30 min) | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!M:M,">"&30)` |                       |                 |          |
+| P(duration < 5 min)  |                                                    |                       |                 |          |
+
 
 > For P(duration > 30 min) we do need to go to `02_CLEAN` since `03_AGGREGATE` doesn't have that exact cut — but log that as a gap in your aggregate layer that you'd fix in a real pipeline.
 
@@ -451,11 +453,12 @@ P(electric) + P(classic) = ? → should be 1.0 — if not, are there other bike 
 
 Calculate:
 
-| Probability | Formula | Value |
-|||-|
-| P(electric) overall | already done | |
-| P(electric \| member) | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member",02_CLEAN!B:B,"electric_bike") / COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")` | |
-| P(electric \| casual) | same for casual | |
+| **Probability**      | **Formula**                                                                                                                           | **Value** |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| P(electric) overall  | Already done                                                                                                                          |           |
+| P(electric | member) | `=COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member",02_CLEAN!B:B,"electric_bike") / COUNTIFS(02_CLEAN!Q:Q,TRUE,02_CLEAN!K:K,"member")` |           |
+| P(electric | casual) | Same formula for casual riders                                                                                                        |           |
+
 
 **The independence rule:** If these three values are equal (or very close), electric bike choice is independent of rider type. If they differ significantly, the variables are **dependent** — knowing someone's rider type tells you something about their bike preference.
 
@@ -573,14 +576,15 @@ fleet size, pricing, maintenance budget, station planning?]
 
 In `07_AB_TEST`, create a comparison table pulling from `06_SAMPLING`:
 
-| Metric | Classic (Group A) | Electric (Group B) |
-|--||-|
-| n (sample size) | `=COUNTIF(06_SAMPLING!B:B,"classic_bike")` | |
-| Mean duration | `=AVERAGEIF(06_SAMPLING!B:B,"classic_bike",06_SAMPLING!D:D)` | |
-| Std Dev | `=STDEV(IF(06_SAMPLING!B2:B3001="classic_bike",06_SAMPLING!D2:D3001))` *(Ctrl+Shift+Enter)* | |
-| Median | array formula with PERCENTILE+IF | |
-| % > 30 min | COUNTIFS / COUNTIF * 100 | |
-| % < 5 min | | |
+| **Metric**      | **Classic (Group A)**                                                                       | **Electric (Group B)** |
+| --------------- | ------------------------------------------------------------------------------------------- | ---------------------- |
+| n (sample size) | `=COUNTIF(06_SAMPLING!B:B,"classic_bike")`                                                  |                        |
+| Mean duration   | `=AVERAGEIF(06_SAMPLING!B:B,"classic_bike",06_SAMPLING!D:D)`                                |                        |
+| Std Dev         | `=STDEV(IF(06_SAMPLING!B2:B3001="classic_bike",06_SAMPLING!D2:D3001))` *(Ctrl+Shift+Enter)* |                        |
+| Median          | Array formula with `PERCENTILE` + `IF`                                                      |                        |
+| % > 30 min      | `COUNTIFS / COUNTIF * 100`                                                                  |                        |
+| % < 5 min       |                                                                                             |                        |
+
 
 **Observed difference:**
 ```
