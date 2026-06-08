@@ -242,16 +242,17 @@ What this checks:
 
 ### Step 2C — Cleaning summary (20 min)
 
-At the bottom of `02_CLEAN` (or in a sidebar section), add:
+At the bottom of 02_CLEAN (or in a sidebar section), add:
 
-| Metric | Formula | Value |
-|--||-|
-| Total raw rows | `=COUNTA(A:A)-1` | |
-| Valid rows (`is_valid=TRUE`) | `=COUNTIF(Q:Q,TRUE)` | |
-| Invalid rows | `=COUNTIF(Q:Q,FALSE)` | |
-| % rows passing quality | `=COUNTIF(Q:Q,TRUE)/(COUNTA(A:A)-1)*100` | |
-| Rows excluded for duration out of range | `=COUNTIFS(M:M,"<>"&"",M:M,"<=1")+COUNTIFS(M:M,">"&180)` | |
-| Rows excluded for blank fields | `=COUNTIFS(Q:Q,FALSE,M:M,"<>")` | |
+| **Metric**                              | **Formula**                                              | **Value** |
+| --------------------------------------- | -------------------------------------------------------- | --------- |
+| Total raw rows                          | `=COUNTA(A:A)-1`                                         |           |
+| Valid rows (`is_valid=TRUE`)            | `=COUNTIF(Q:Q,TRUE)`                                     |           |
+| Invalid rows                            | `=COUNTIF(Q:Q,FALSE)`                                    |           |
+| % rows passing quality                  | `=COUNTIF(Q:Q,TRUE)/(COUNTA(A:A)-1)*100`                 |           |
+| Rows excluded for duration out of range | `=COUNTIFS(M:M,"<>"&"",M:M,"<=1")+COUNTIFS(M:M,">"&180)` |           |
+| Rows excluded for blank fields          | `=COUNTIFS(Q:Q,FALSE,M:M,"<>")`                          |           |
+
 
 **Log in `PIPELINE_LOG`:**
 ```
