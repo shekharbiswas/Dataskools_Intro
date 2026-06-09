@@ -7,5 +7,5 @@
 ## Videos
 
 ### 09.06 : 
-- Shareable link: https://us06web.zoom.us/rec/share/iMZ04Q3OT63CL1S13sgc7gMUrz93sZHDNIFAPukZ1JAOWERKt4CMhwpzG3L45jnS.uQGC6Aq7zTmSBgAr
+- Shareable link: [link](https://us06web.zoom.us/rec/share/iMZ04Q3OT63CL1S13sgc7gMUrz93sZHDNIFAPukZ1JAOWERKt4CMhwpzG3L45jnS.uQGC6Aq7zTmSBgAr)
 - Passcode: %Y#W?o6B
