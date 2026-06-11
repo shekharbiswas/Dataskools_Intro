@@ -4,6 +4,7 @@
 01. [Statistics and Maths](https://docs.google.com/presentation/d/e/2PACX-1vSEYHIEEDqFjjl7vfka-NTWjcatAzRHnnVO5LugrDAKxdJ09eYJQi2Er7IdfnoKuvl4OK7kwMaQfqE2/pub?start=false&loop=false&delayms=3000)
 02. [Core Concepts probability](https://docs.google.com/presentation/d/e/2PACX-1vRdQuxCwOETrtCVLkTopGVKhD2nVrZDDvJToLkBFAjzqWSgLqSc7pn4NT-RwhP_v2xRg8LvEBIk2muX/pub?start=false&loop=false&delayms=3000)
 03. [Data and Sampling](https://docs.google.com/presentation/d/e/2PACX-1vRJM_z2HohgCwuABLxym8wV4GllbaeDoaeXqLlaihNz98b_VAmLdBf8V4YMnLs7DOK5iAf1JifnT_iP/pub?start=false&loop=false&delayms=3000)
+04. [A/B Test](https://docs.google.com/presentation/d/e/2PACX-1vTjjaLGhcYkzcVStgb7r5QE4vQihHdBHFYnobj_8bkjtF_QGdWYA5NSigoBRA4VUUNipZBSDMXdD92d/pub?start=false&loop=false&delayms=3000)
 
 
 
