@@ -15,5 +15,16 @@
 - Shareable link: [link](https://us06web.zoom.us/rec/share/iMZ04Q3OT63CL1S13sgc7gMUrz93sZHDNIFAPukZ1JAOWERKt4CMhwpzG3L45jnS.uQGC6Aq7zTmSBgAr)
 - Passcode: %Y#W?o6B
 
+#### 10.06 : 
+- Shareable link: [link](https://us06web.zoom.us/rec/share/BUxurDt5EoRMtLFCaoPGE6elb7PbdeRORTFoPFcobvUKzrGtBVoyl8AWwT5P9kMj.562_L3NF0m9VtoRE)
+- Passcode: 9Lp.^m%Q
+
+#### 11.06 : 
+- Shareable link: [link](https://us06web.zoom.us/rec/share/-sErNkWVhLTHcT4J5w6tw5EMaKq1-2ZvfVIvToccNSWNueNKKVJc0BK6vlVBlWbO._VmKoFg1juqpsF__)
+- Passcode: Y*H@0kZq
+
+#### 12.06 :
+- Shareable link: [link](https://us06web.zoom.us/rec/share/niTkObmkgNbj-8Wr_XKlGSltr2frqE43teguTb73NtUDgK-KY7Q0im6xppiIn-vt.QIgteCMOCgAm1qpP)
+- Passcode: K@ZTKxT7
 
 
