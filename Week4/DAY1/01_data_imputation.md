@@ -205,7 +205,7 @@ Add a column `TIP_WAS_MISSING`:
 =IF(AND(ISBLANK(O2), V2<>"Cash"), 1, 0)
 ```
 
-This flags the remaining genuine gaps without inventing a value. Downstream analysis can then report tip averages with and without these rows, showing the uncertainty honestly.
+This flags the remaining genuine gaps without inventing a value. Downstream analysis can then report tip averages with and without these rows, showing the uncertainty ly.
 
 **Log entry:**
 ```
@@ -260,7 +260,7 @@ Group means used: Sunny/Rainy/Cloudy/Partly Cloudy | [n] rows affected
 
 **Why not fill this column at all:** Your cross-check showed that ratings are missing *more often* when wait times are long. This is MNAR — the missingness is linked to the value that would have been recorded (dissatisfied customers do not leave ratings). Method 1 would produce a mean from only the happier customers who *did* rate. Method 4 would do the same within groups. Any imputed value would be systematically too high.
 
-Method 5 is the honest choice: do not invent a rating. Instead, record that it was missing.
+Method 5 is the  choice: do not invent a rating. Instead, record that it was missing.
 
 **Apply Method 5:**
 
@@ -284,7 +284,7 @@ Do NOT use imputed values in rating averages — use RATING_WAS_MISSING filter |
 [n] rows flagged
 ```
 
-❓ **Investigate:** You publish an average `CUSTOMER RATING` of 4.2 based on the non-missing rows. The true average (if all customers had rated) might be 3.6. Who is harmed if Lina makes a business decision based on 4.2? What one sentence would you add to any chart or report showing the average rating to make it honest?
+❓ **Investigate:** You publish an average `CUSTOMER RATING` of 4.2 based on the non-missing rows. The true average (if all customers had rated) might be 3.6. Who is harmed if Lina makes a business decision based on 4.2? What one sentence would you add to any chart or report showing the average rating to make it ?
 
 ---
 
@@ -383,7 +383,7 @@ For `CUSTOMER RATING` — use only genuine ratings:
 
 ---
 
-## Step 7 — Visualise With Honest Labels
+## Step 7 — Visualise With  Labels
 
 Build three charts. Each one must acknowledge the imputation decisions behind it.
 
@@ -412,7 +412,7 @@ Add a note:
 
 ---
 
-## Step 8 — Build an Honest Dashboard
+## Step 8 — Build an  Dashboard
 
 Create a new sheet called `DASHBOARD`. This is the one page anyone opens to understand Lina's business.
 
@@ -435,7 +435,7 @@ Create a new sheet called `DASHBOARD`. This is the one page anyone opens to unde
 
 > This data quality strip is what separates a professional dashboard from a student exercise. It tells anyone who reads the dashboard exactly how trustworthy each number is — and where the gaps remain.
 
-❓ **Investigate:** Your dashboard shows "Total Revenue: $4,820." A classmate looks at it and says "Great — Lina made $4,820." Write the one sentence you would add to the dashboard to make that number honest, given what you know about the missing revenue rows and the imputation decisions you made.
+❓ **Investigate:** Your dashboard shows "Total Revenue: $4,820." A classmate looks at it and says "Great — Lina made $4,820." Write the one sentence you would add to the dashboard to make that number , given what you know about the missing revenue rows and the imputation decisions you made.
 
 ---
 
@@ -470,7 +470,7 @@ Answer these in your `IMPUTATION_LOG` or a separate journal entry. Write in full
 
 4. Lina asks: "Which flavor should I stop selling?" What would a lazy analyst answer using the dashboard as-is? What would a careful analyst check first, given what you now know about `CUSTOMER RATING`'s missing data pattern?
 
-5. If you presented this dashboard to Lina without showing her the `IMPUTATION_LOG` — would that be dishonest? Does it depend on what decision she's making?
+5. If you presented this dashboard to Lina without showing her the `IMPUTATION_LOG` — would that be dis? Does it depend on what decision she's making?
 
 6. Which of the 10 methods would you most want to apply if you had Python available instead of Google Sheets — and why? What does Sheets make difficult that a programming language would make straightforward?
 
@@ -489,9 +489,9 @@ By completing this session, you have run a complete ETL workflow — with a miss
 - You **chose** a method from the 10-method framework based on the type of missingness, the percentage missing, and the column's analytical role
 - You **applied** six different methods across six columns — none of them identical
 - You **documented** every decision in an `IMPUTATION_LOG` that makes your work auditable and reproducible
-- You **visualised** and **dashboarded** with honest caveats attached to every imputed metric
+- You **visualised** and **dashboarded** with  caveats attached to every imputed metric
 
-The hardest part of data work is not the formulas. It is resisting the temptation to fill every gap with the same method — or to fill gaps at all when flagging them is the more honest choice. Every chart you built today sits on top of decisions you made about missing data — and those decisions change the story the data tells.
+The hardest part of data work is not the formulas. It is resisting the temptation to fill every gap with the same method — or to fill gaps at all when flagging them is the more  choice. Every chart you built today sits on top of decisions you made about missing data — and those decisions change the story the data tells.
 
 > *"The wrong method does not just fill gaps — it manufactures data that changes means, correlations, and p-values."*
 > Always document which method was used and why.
