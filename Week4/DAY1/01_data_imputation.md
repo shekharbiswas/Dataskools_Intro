@@ -2,7 +2,9 @@
 ## Lina's Lemonade Stand — With a Missing Data Decision Framework
 
 > **Dataset:** Lina's Lemonade Stand (1,000 transactions · 25 columns)
+
 > **Tool:** Google Sheets only
+
 > **Core skill this session builds:** Not just *finding* missing data — but making and documenting a defensible decision about what to do with each gap
 
 ---
