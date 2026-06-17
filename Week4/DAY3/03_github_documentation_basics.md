@@ -2,9 +2,13 @@
 ## Capital Bikeshare Pipeline: Making Your Work Public and Findable
 
 > **Built on:** The pipeline (Day 1) and insight cards (Day 2) you've already completed
+
 > **Tool:** GitHub + Markdown
+
 > **Duration:** 6 hours
+
 > **Difficulty:** ⭐⭐
+
 > **Feeds into:** Day 4 Portfolio — your repo link goes on your personal page; Day 5 — you reference it in your presentation
 
 ---
