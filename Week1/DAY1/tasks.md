@@ -1,4 +1,4 @@
-# ✅ Day 1 Tasks — Orientation & Roadmap
+# ✅ Day 1 Tasks — Orientation & Roadmap ( 6 Hours )
 
 📅 Complete these tasks before moving to Day 2.
 Take your time with each one — this day sets the tone for everything ahead.
